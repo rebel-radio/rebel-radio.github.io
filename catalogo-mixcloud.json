@@ -1,6 +1,135 @@
 {
-  "generado": "2026-10-19T20:15:11",
+  "generado": "2026-10-19T23:15:10",
   "programas": [
+    {
+      "id": "flucho-wop",
+      "nombre": "Flucho Wop",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-19",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-19",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 19/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-191026/",
+          "imagen": "/portadas-programas/1c00bcf53eaee909aacbf6b8d4ab6b6f.webp",
+          "duracion": 2675,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-05",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 05/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-051026/",
+          "imagen": "/portadas-programas/4f47daf0670fee2dcca87ceea7ba1c50.webp",
+          "duracion": 2803,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-25",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 25/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-250526/",
+          "imagen": "/portadas-programas/d127703575b127366abfbf4baa440fb9.webp",
+          "duracion": 2680,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-11",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 11/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-110526/",
+          "imagen": "/portadas-programas/d9aa9d48724ac8be92a79d38c91cb6cb.webp",
+          "duracion": 2668,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-27",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 27/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-270426/",
+          "imagen": "/portadas-programas/e98d80d91abb2f662ae69412da37d704.webp",
+          "duracion": 2774,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-13",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 13/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-130426/",
+          "imagen": "/portadas-programas/b74895c756723843ed9c0e123243a310.webp",
+          "duracion": 2821,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-30",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 30/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-300326/",
+          "imagen": "/portadas-programas/424777ecd9f7a1848ff533cc9d0e4520.webp",
+          "duracion": 2922,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-16",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 16/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160326/",
+          "imagen": "/portadas-programas/d127e5fd9111cfaf2a230bb343b72cec.webp",
+          "duracion": 2706,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-02",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 02/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020326/",
+          "imagen": "/portadas-programas/d452251f25c52537005fa0573a664dbe.webp",
+          "duracion": 2716,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-16",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 16/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160226/",
+          "imagen": "/portadas-programas/f33f8e053e01a1938b475e674e771cf4.webp",
+          "duracion": 2785,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-19",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 19/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-190126/",
+          "imagen": "/portadas-programas/a46c8848bd4d41c58519c816903aeb6f.webp",
+          "duracion": 2741,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-02",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 02/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020126/",
+          "imagen": "/portadas-programas/0cdfb7b9407bfcbf7cb2b0311a18ca51.webp",
+          "duracion": 2707,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "fifi-express",
       "nombre": "Fifi Express",
@@ -15,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 992,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
@@ -627,135 +756,6 @@
           "imagen": "/portadas-programas/468b1347d6aacf0af02a958a4891ef43.webp",
           "duracion": 3403,
           "reproducciones": 30,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "flucho-wop",
-      "nombre": "Flucho Wop",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-05",
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-05",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 05/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-051026/",
-          "imagen": "/portadas-programas/4f47daf0670fee2dcca87ceea7ba1c50.webp",
-          "duracion": 2803,
-          "reproducciones": 20,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-25",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 25/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-250526/",
-          "imagen": "/portadas-programas/d127703575b127366abfbf4baa440fb9.webp",
-          "duracion": 2680,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-11",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 11/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-110526/",
-          "imagen": "/portadas-programas/d9aa9d48724ac8be92a79d38c91cb6cb.webp",
-          "duracion": 2668,
-          "reproducciones": 26,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-27",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 27/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-270426/",
-          "imagen": "/portadas-programas/e98d80d91abb2f662ae69412da37d704.webp",
-          "duracion": 2774,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-13",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 13/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-130426/",
-          "imagen": "/portadas-programas/b74895c756723843ed9c0e123243a310.webp",
-          "duracion": 2821,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-30",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 30/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-300326/",
-          "imagen": "/portadas-programas/424777ecd9f7a1848ff533cc9d0e4520.webp",
-          "duracion": 2922,
-          "reproducciones": 16,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-16",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 16/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160326/",
-          "imagen": "/portadas-programas/d127e5fd9111cfaf2a230bb343b72cec.webp",
-          "duracion": 2706,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-02",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 02/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020326/",
-          "imagen": "/portadas-programas/d452251f25c52537005fa0573a664dbe.webp",
-          "duracion": 2716,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-16",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 16/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160226/",
-          "imagen": "/portadas-programas/f33f8e053e01a1938b475e674e771cf4.webp",
-          "duracion": 2785,
-          "reproducciones": 26,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-19",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 19/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-190126/",
-          "imagen": "/portadas-programas/a46c8848bd4d41c58519c816903aeb6f.webp",
-          "duracion": 2741,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-02",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 02/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020126/",
-          "imagen": "/portadas-programas/0cdfb7b9407bfcbf7cb2b0311a18ca51.webp",
-          "duracion": 2707,
-          "reproducciones": 14,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-22",
-          "titulo": "",
-          "nombre_mixcloud": "Flucho Wop - 22/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-221225/",
-          "imagen": "/portadas-programas/3a44393454b89b3f2c48a35817f36cab.webp",
-          "duracion": 2828,
-          "reproducciones": 29,
           "proveedor": "mixcloud"
         }
       ]
