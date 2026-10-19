@@ -585,7 +585,7 @@ function actualizarBotonHistorico(){
 
 function prepararHistorico(){
 
-    fetch('archivo-mixcloud.json')
+    fetch('archivo-mixcloud.json?rr=' + Date.now(), {cache:'no-store'})
 
         .then(respuesta => {
 
@@ -629,7 +629,7 @@ if(!idPrograma){
 
 }else{
 
-    fetch('catalogo-mixcloud.json')
+    fetch('catalogo-mixcloud.json?rr=' + Date.now(), {cache:'no-store'})
 
         .then(respuesta => {
 
@@ -704,7 +704,7 @@ if(!idPrograma){
 
             // Si no está entre los programas activos,
             // buscamos en el histórico completo.
-            return fetch('archivo-mixcloud.json')
+            return fetch('archivo-mixcloud.json?rr=' + Date.now(), {cache:'no-store'})
 
                 .then(respuesta => {
 

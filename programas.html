@@ -485,7 +485,7 @@ function reproductorIvoox(player){
     `;
 }
 
-fetch('catalogo-mixcloud.json')
+fetch('catalogo-mixcloud.json?rr=' + Date.now(), {cache:'no-store'})
     .then(respuesta => {
 
         if(!respuesta.ok){

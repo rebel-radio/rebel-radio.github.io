@@ -1221,8 +1221,8 @@ function estadoPodcastReciente(programa, emision){
 }
 
 Promise.all([
-    fetch('/catalogo-mixcloud.json'),
-    fetch('/parrilla.json')
+    fetch('/catalogo-mixcloud.json?rr=' + Date.now(), {cache:'no-store'}),
+    fetch('/parrilla.json?rr=' + Date.now(), {cache:'no-store'})
 ])
 
     .then(async ([respuestaCatalogo, respuestaParrilla]) => {
@@ -1605,7 +1605,7 @@ function actualizarEmision(datos){
 }
 
 
-fetch('/parrilla.json')
+fetch('/parrilla.json?rr=' + Date.now(), {cache:'no-store'})
 
     .then(respuesta => {
 
@@ -1679,7 +1679,7 @@ function fechaEventoVisible(fecha){
     return `${dia}/${mes}/${anio}`;
 }
 
-fetch('eventos.json')
+fetch('eventos.json?rr=' + Date.now(), {cache:'no-store'})
     .then(respuesta => {
 
         if(!respuesta.ok){
