@@ -1,0 +1,111 @@
+{
+  "programas": [
+    {
+      "id": "el-anden",
+      "nombre": "EL ANDÉN con Jorge Pascual",
+      "aliases": [
+        "EL ANDÉN con Jorge Pascual",
+        "EL ANDEN con Jorge Pascual",
+        "El ANDÉN con Jorge Pascual",
+        "El Andén con Jorge Pascual",
+        "EL ÁNDEN con Jorge Pascual",
+        "EL ANDÉN conJorge Pascual"
+      ]
+    },
+    {
+      "id": "flucho-wop",
+      "nombre": "Flucho Wop",
+      "aliases": [
+        "Flucho Wop",
+        "Flucho Woop",
+        "Flucho Wop (Especial VII Good Rockin´)"
+      ]
+    },
+    {
+      "id": "dr-mambusenn",
+      "nombre": "Dr. Mambusenn",
+      "aliases": [
+        "Dr. Mambusenn",
+        "Dr. Manbusenn"
+      ]
+    },
+    {
+      "id": "skinny-jim",
+      "nombre": "Skinny Jim",
+      "aliases": [
+        "Skinny Jim",
+        "Skynny Jim"
+      ]
+    },
+    {
+      "id": "mr-twister",
+      "nombre": "Mr Twister Radio Chou",
+      "aliases": [
+        "Mr Twister Radio Chou",
+        "Mr. Twister Radio Chou",
+        "Mr Twister Racio Chou"
+      ]
+    },
+    {
+      "id": "festivales-conciertos",
+      "nombre": "Festivales y Conciertos con CÉSAR",
+      "aliases": [
+        "Festivales y Conciertos con CÉSAR"
+      ]
+    },
+    {
+      "id": "rockhouse",
+      "nombre": "Rockhouse",
+      "aliases": [
+        "Rockhouse",
+        "Rockhouse 12"
+      ]
+    },
+    {
+      "id": "cars-a-billy",
+      "nombre": "Cars a Billy",
+      "aliases": [
+        "Cars a Billy"
+      ]
+    },
+    {
+      "id": "locura-cronauer",
+      "nombre": "La Locura de Cronauer",
+      "aliases": [
+        "La Locura de Cronauer",
+        "La locura de Cronauer"
+      ]
+    },
+    {
+      "id": "ahora-elvis",
+      "nombre": "Ahora, Elvis",
+      "proveedor": "ivoox",
+      "aliases": [
+        "Ahora, Elvis",
+        "Ahora Elvis"
+      ]
+    },
+    {
+      "id": "frecuencia-rebelde",
+      "nombre": "Frecuencia Rebelde",
+      "proveedor": "mixcloud",
+      "aliases": [
+        "Frecuencia Rebelde"
+      ]
+    },
+    {
+      "id": "victor-melchor",
+      "nombre": "Esto sí que es rocanrol !!!",
+      "aliases": [
+        "Esto sí que es rocanrol !!!",
+        "Esto si que es rocanrol !!!",
+        "Esto sí que es rockandrol !!!",
+        "Esto si que es rockandrol !!!",
+        "Esto si que es Rock'n'Roll",
+        "Esto sí que es Rock'n'Roll",
+        "Esto Si Que Es Rock'n'Roll",
+        "ESTO SI QUE ES ROCK'N'ROLL"
+      ]
+    }
+  ]
+}

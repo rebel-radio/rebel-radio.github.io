@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Eventos - Rebel Radio</title>
+<meta name="description" content="Eventos, conciertos y actividades relacionadas con Rebel Radio.">
+
+<style>
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    background:#111;
+    color:#eee;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+.navegacion{
+    padding:18px 20px;
+    text-align:center;
+    border-bottom:1px solid #333;
+}
+
+.navegacion a{
+    color:#ddd;
+    text-decoration:none;
+    margin:0 12px;
+    font-size:.9rem;
+    font-weight:bold;
+}
+
+.navegacion a:hover{
+    color:#fff;
+}
+
+.contenedor{
+    max-width:1200px;
+    margin:auto;
+    padding:35px 20px 60px;
+}
+
+h1{
+    margin-bottom:8px;
+}
+
+.intro{
+    color:#aaa;
+    margin-top:0;
+    margin-bottom:35px;
+}
+
+.lista{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:22px;
+    align-items:start;
+}
+
+.evento{
+    background:#1b1b1b;
+    border:1px solid #333;
+    border-radius:10px;
+    overflow:hidden;
+    display:grid;
+    grid-template-columns:45% 1fr;
+    align-items:center;
+}
+
+.cartel{
+    width:100%;
+    height:auto;
+    display:block;
+}
+
+.evento.rebel .cartel{
+    outline:none;
+}
+
+.rebel-participa{
+    position:relative;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    width:134px;
+    min-height:60px;
+    box-sizing:border-box;
+    margin:0 auto 16px;
+    padding:9px 14px 8px;
+    border:3px double #ffc247;
+    border-radius:50%;
+    color:#ffc247;
+    background:rgba(255,194,71,.08);
+    transform:rotate(-4deg);
+    transform-origin:center;
+    text-align:center;
+    text-transform:uppercase;
+    line-height:1.02;
+    box-shadow:0 0 10px rgba(255,194,71,.12);
+}
+
+.rebel-participa::before{
+    content:"";
+    position:absolute;
+    inset:3px;
+    border:1px solid rgba(255,194,71,.82);
+    border-radius:50%;
+    pointer-events:none;
+}
+
+.rebel-participa span{
+    position:relative;
+    z-index:1;
+    font-size:.67rem;
+    font-weight:800;
+    letter-spacing:.09em;
+}
+
+.rebel-participa strong{
+    position:relative;
+    z-index:1;
+    margin-top:3px;
+    color:inherit;
+    font-size:.84rem;
+    font-weight:900;
+    letter-spacing:.11em;
+}
+
+.informacion{
+    padding:18px 20px;
+}
+
+.fecha{
+    color:#aaa;
+    font-size:.9rem;
+    margin:0 0 7px;
+}
+
+.nombre{
+    margin:0;
+    font-size:1.15rem;
+    line-height:1.3;
+}
+
+.estado{
+    color:#aaa;
+}
+
+@media(max-width:900px){
+    .lista{
+        grid-template-columns:1fr;
+    }
+
+    .evento{
+        grid-template-columns:35% 1fr;
+    }
+}
+
+@media(max-width:600px){
+    .lista{
+        grid-template-columns:1fr;
+        gap:16px;
+    }
+
+    .evento{
+        width:100%;
+        max-width:none;
+        margin:0;
+        display:grid;
+        grid-template-columns:35% 1fr;
+        align-items:center;
+    }
+
+    .evento .cartel{
+        width:100%;
+        height:auto;
+        display:block;
+    }
+
+    .evento .datos{
+        padding:12px 14px;
+    }
+
+    .evento .fecha{
+        font-size:.76rem;
+        margin-bottom:6px;
+    }
+
+    .evento .nombre{
+        font-size:.95rem;
+        line-height:1.25;
+    }
+
+    .contenedor{
+        padding:25px 15px 45px;
+    }
+
+    .navegacion a{
+        margin:0 6px;
+        font-size:.78rem;
+    }
+}
+
+/* VISOR DE CARTELES */
+
+.cartel{
+    cursor:zoom-in;
+}
+
+.visor{
+    display:none;
+    position:fixed;
+    inset:0;
+    z-index:9999;
+    background:rgba(0,0,0,.92);
+    padding:30px;
+    align-items:center;
+    justify-content:center;
+}
+
+.visor.abierto{
+    display:flex;
+}
+
+.visor img{
+    max-width:95vw;
+    max-height:92vh;
+    width:auto;
+    height:auto;
+    object-fit:contain;
+    box-shadow:0 0 30px rgba(0,0,0,.6);
+}
+
+.cerrar-visor{
+    position:absolute;
+    top:15px;
+    right:20px;
+    border:0;
+    background:none;
+    color:#fff;
+    font-size:2.5rem;
+    line-height:1;
+    cursor:pointer;
+}
+
+@media(max-width:600px){
+    .visor{
+        padding:12px;
+    }
+
+    .visor img{
+        max-width:100%;
+        max-height:94vh;
+    }
+}
+
+
+
+/* =========================================================
+   MENU SUPERIOR COMUN REBEL RADIO
+   ========================================================= */
+
+nav,
+.navegacion{
+    display:flex;
+    justify-content:center;
+    flex-wrap:nowrap !important;
+    gap:6px !important;
+    align-items:center;
+}
+
+.cabecera{
+    display:flex;
+    justify-content:center !important;
+}
+
+nav a,
+.navegacion a{
+    margin:0 !important;
+    padding:7px 9px;
+    box-sizing:border-box;
+    border:1px solid #333;
+    border-radius:8px;
+    background:#171717;
+    color:#ccc;
+    text-decoration:none;
+    font-size:15px !important;
+    font-weight:700;
+    line-height:1.2;
+    white-space:nowrap;
+    flex:0 0 auto;
+    transition:background .15s ease, border-color .15s ease, color .15s ease;
+}
+
+nav a:hover,
+.navegacion a:hover{
+    background:#242424;
+    border-color:#555;
+    color:#fff;
+}
+
+nav a.activo,
+.navegacion a.activo{
+    color:#e0a052;
+    border-color:#d08a2f;
+    background:rgba(208,138,47,.12);
+}
+
+@media (max-width:700px){
+    nav,
+    .navegacion{
+        justify-content:center !important;
+        gap:4px !important;
+        max-width:100%;
+        overflow-x:auto;
+        scrollbar-width:none;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    nav::-webkit-scrollbar,
+    .navegacion::-webkit-scrollbar{
+        display:none;
+    }
+
+    nav a,
+    .navegacion a{
+        padding:6px clamp(5px,1.5vw,7px);
+        font-size:clamp(11px,3vw,12.5px) !important;
+    }
+}
+
+
+/* Toda la tarjeta de evento abre el cartel. */
+.evento{
+    cursor:pointer;
+}
+
+.evento:focus-visible{
+    outline:2px solid #e0a052;
+    outline-offset:3px;
+}
+
+
+
+/* REBEL-CABECERA-FIJA-INICIO */
+
+header{
+    margin:0 !important;
+    padding:12px 16px !important;
+    min-height:58px !important;
+    height:58px !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    overflow:visible !important;
+    background:#111 !important;
+    border:0 !important;
+    border-bottom:1px solid #2b2b2b !important;
+}
+
+header .cabecera{
+    width:100% !important;
+    max-width:100% !important;
+    height:100% !important;
+    min-width:0 !important;
+    margin:0 !important;
+    padding:0 !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    gap:0 !important;
+}
+
+header nav,
+header .navegacion{
+    width:auto !important;
+    max-width:100% !important;
+    min-width:0 !important;
+    margin:0 auto !important;
+    padding:0 !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    flex-wrap:nowrap !important;
+    gap:6px !important;
+    border:0 !important;
+}
+
+header nav a,
+header .navegacion a{
+    flex:0 0 auto !important;
+    margin:0 !important;
+}
+
+@media (max-width:700px){
+    header{
+        padding:10px 0 !important;
+        min-height:54px !important;
+        height:54px !important;
+        overflow:hidden !important;
+    }
+
+    header .cabecera{
+        width:100% !important;
+        max-width:100% !important;
+        height:100% !important;
+        min-width:0 !important;
+    }
+
+    header nav,
+    header .navegacion{
+        width:100% !important;
+        max-width:100% !important;
+        min-width:0 !important;
+        margin:0 !important;
+        padding:0 8px !important;
+        justify-content:flex-start !important;
+        overflow-x:auto !important;
+        overflow-y:hidden !important;
+        scroll-padding-left:8px !important;
+        scrollbar-width:none !important;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    header nav::-webkit-scrollbar,
+    header .navegacion::-webkit-scrollbar{
+        display:none !important;
+    }
+
+    header nav a:first-child,
+    header .navegacion a:first-child{
+        margin-left:0 !important;
+    }
+
+    header nav a:last-child,
+    header .navegacion a:last-child{
+        margin-right:8px !important;
+    }
+}
+
+/* REBEL-CABECERA-FIJA-FIN */
+
+</style>
+  <link rel="stylesheet" href="/rebel-ui.css?v=20261019-nav-fijo1" data-rebel-i18n-css="1">
+</head>
+
+<body>
+
+<header class="rr-header">
+  <button type="button" class="rr-menu-toggle" aria-expanded="false">☰ MENÚ</button>
+
+  <nav class="rr-main-nav" aria-label="Navegación principal">
+    <a href="/">INICIO</a>
+    <a href="/programas.html">PROGRAMAS</a>
+    <a href="/programacion.html">PARRILLA</a>
+    <a href="/eventos.html">EVENTOS</a>
+    <a href="/rebel-radio.html">REBEL RADIO</a>
+  </nav>
+</header>
+
+
+
+<main class="contenedor">
+
+    <h1>EVENTOS</h1>
+
+    <p class="intro">
+        Rebel Radio también está donde suena la música.
+    </p>
+
+    <div id="estado" class="estado">
+        Cargando eventos...
+    </div>
+
+    <div id="lista" class="lista"></div>
+
+</main>
+
+
+<div id="visor" class="visor" aria-hidden="true">
+
+    <button
+        id="cerrarVisor"
+        class="cerrar-visor"
+        type="button"
+        aria-label="Cerrar">
+        &times;
+    </button>
+
+    <img id="imagenVisor" src="" alt="">
+
+</div>
+
+<script>
+const lista = document.getElementById('lista');
+const estado = document.getElementById('estado');
+
+const visor = document.getElementById('visor');
+const imagenVisor = document.getElementById('imagenVisor');
+const cerrarVisor = document.getElementById('cerrarVisor');
+
+function abrirVisor(imagen){
+    imagenVisor.src = imagen.src;
+    imagenVisor.alt = imagen.alt;
+
+    visor.classList.add('abierto');
+    visor.setAttribute('aria-hidden', 'false');
+
+    document.body.style.overflow = 'hidden';
+}
+
+function cerrar(){
+    visor.classList.remove('abierto');
+    visor.setAttribute('aria-hidden', 'true');
+
+    imagenVisor.src = '';
+    document.body.style.overflow = '';
+}
+
+cerrarVisor.addEventListener('click', cerrar);
+
+visor.addEventListener('click', evento => {
+    if(evento.target === visor){
+        cerrar();
+    }
+});
+
+document.addEventListener('keydown', evento => {
+    if(evento.key === 'Escape' && visor.classList.contains('abierto')){
+        cerrar();
+    }
+});
+
+
+function fechaVisible(fecha){
+    const [anio, mes, dia] = fecha.split('-');
+
+    return `${dia}/${mes}/${anio}`;
+}
+
+function cargarEventos(){
+
+    fetch('eventos.json', { cache: 'no-store' })
+        .then(respuesta => {
+
+            if(!respuesta.ok){
+                throw new Error('No se puede cargar eventos.json');
+            }
+
+            return respuesta.json();
+        })
+
+        .then(datos => {
+
+            estado.style.display = 'none';
+
+            // Eliminar los carteles mostrados anteriormente
+            // antes de dibujar la versión actualizada.
+            lista.innerHTML = '';
+
+            if(!datos.eventos || !datos.eventos.length){
+                estado.style.display = 'block';
+                estado.textContent =
+                    'Ahora mismo no hay eventos publicados.';
+                return;
+            }
+
+            for(const evento of datos.eventos){
+
+                const articulo = document.createElement('article');
+                articulo.className = 'evento';
+
+                if(evento.participacion_rebel){
+                    articulo.classList.add('rebel');
+                }
+
+                const distintivoRebel = evento.participacion_rebel
+                    ? '<div class="rebel-participa" aria-label="Rebel Radio participa"><span>REBEL RADIO</span><strong>PARTICIPA</strong></div>'
+                    : '';
+
+                articulo.innerHTML = `
+                    <img
+                        class="cartel"
+                        src="${evento.imagen}"
+                        alt="${evento.nombre}"
+                        loading="lazy"
+                    >
+
+                    <div class="informacion">
+
+                        ${distintivoRebel}
+
+                        <p class="fecha">
+                            ${fechaVisible(evento.fecha)}
+                        </p>
+
+                        <h2 class="nombre">
+                            ${evento.nombre}
+                        </h2>
+
+                    </div>
+                `;
+
+                const cartel = articulo.querySelector('.cartel');
+
+                cartel.dataset.eventoNombre = evento.nombre || '';
+                cartel.dataset.eventoFecha = evento.fecha || '';
+                cartel.dataset.eventoImagen = evento.imagen || '';
+
+                cartel.addEventListener('click', () => {
+                    abrirVisor(cartel);
+                });
+
+                // Toda la tarjeta abre el mismo cartel.
+                // Se delega en cartel.click() para conservar también
+                // cualquier listener estadístico asociado a .cartel.
+                articulo.tabIndex = 0;
+                articulo.setAttribute('role', 'button');
+                articulo.setAttribute(
+                    'aria-label',
+                    `Abrir cartel de ${evento.nombre}`
+                );
+
+                articulo.addEventListener('click', eventoClick => {
+                    if(eventoClick.target === cartel){
+                        return;
+                    }
+
+                    cartel.click();
+                });
+
+                articulo.addEventListener('keydown', eventoTecla => {
+                    if(
+                        eventoTecla.key === 'Enter' ||
+                        eventoTecla.key === ' '
+                    ){
+                        eventoTecla.preventDefault();
+                        cartel.click();
+                    }
+                });
+
+                lista.appendChild(articulo);
+            }
+        })
+
+        .catch(error => {
+
+            estado.textContent =
+                'No se han podido cargar los eventos.';
+
+            console.error(error);
+        });
+}
+
+// Primera carga al abrir la página.
+cargarEventos();
+
+// Comprobar automáticamente si hay cambios cada 60 segundos.
+setInterval(cargarEventos, 60000);
+
+</script>
+
+    <script src="rebel-estadisticas.js"></script>
+<footer class="rr-footer" data-rr-footer="1">
+  <div class="rr-footer-inner">
+    <div class="rr-social-icons" aria-label="Redes sociales">
+      <a class="rr-social rr-instagram" href="https://www.instagram.com/rebel_radio4/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <svg viewBox="0 0 48 48" aria-hidden="true">
+          <defs><linearGradient id="rrig-footer" x1="5" y1="43" x2="43" y2="5" gradientUnits="userSpaceOnUse"><stop stop-color="#ffd600"/><stop offset=".35" stop-color="#ff0169"/><stop offset=".7" stop-color="#d300c5"/><stop offset="1" stop-color="#7638fa"/></linearGradient></defs>
+          <rect x="4" y="4" width="40" height="40" rx="11" fill="url(#rrig-footer)"/>
+          <rect x="13" y="13" width="22" height="22" rx="7" fill="none" stroke="#fff" stroke-width="3"/>
+          <circle cx="24" cy="24" r="5.5" fill="none" stroke="#fff" stroke-width="3"/>
+          <circle cx="32.2" cy="15.8" r="1.8" fill="#fff"/>
+        </svg>
+      </a>
+      <a class="rr-social rr-facebook" href="https://www.facebook.com/rebelradio.es" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+        <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="20" fill="#1877F2"/><path fill="#fff" d="M26.6 37V25.5h3.9l.6-4.5h-4.5v-2.9c0-1.3.4-2.2 2.3-2.2h2.4v-4a32 32 0 0 0-3.6-.2c-3.6 0-6.1 2.2-6.1 6.3v3h-4.1v4.5h4.1V37z"/></svg>
+      </a>
+      <a class="rr-social rr-tiktok" href="https://www.tiktok.com/@rebelradio.es" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+        <svg viewBox="0 0 48 48" aria-hidden="true">
+          <rect x="4" y="4" width="40" height="40" rx="10" fill="#050505"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#25F4EE" transform="translate(-1 1)"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#FE2C55" transform="translate(1 -1)"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#fff"/>
+        </svg>
+      </a>
+    </div>
+    <a class="rr-contact-link" href="mailto:rebelradio@rebelradio.es" aria-label="Correo de contacto">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v14H3z"/><path d="m4 7 8 6 8-6"/></svg>
+      <span>rebelradio@rebelradio.es</span>
+    </a>
+  </div>
+<div class="rr-legal-links" aria-label="Información legal">
+  <a href="/privacidad.html">Privacidad y cookies</a>
+</div>
+</footer>
+  <script src="/rebel-menu.js?v=20261019-nav-fijo1" defer></script>
+</body>
+</html>

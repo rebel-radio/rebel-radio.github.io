@@ -1,0 +1,51 @@
+{
+  "equipo": [
+    {
+      "nombre": "Maly",
+      "foto": "personas/equipo/Maly.jpg"
+    },
+    {
+      "nombre": "César",
+      "foto": ""
+    },
+    {
+      "nombre": "Alber",
+      "foto": ""
+    },
+    {
+      "nombre": "Jorge",
+      "foto": ""
+    },
+    {
+      "nombre": "José",
+      "foto": "",
+      "nota": "In memoriam"
+    }
+  ],
+  "colaboradores": [
+    {
+      "nombre": "Mr. Twister",
+      "foto": "personas/colaboradores/Mr Twister.jpeg"
+    },
+    {
+      "nombre": "Dr. Mambusenn",
+      "foto": "personas/colaboradores/Ignacio.jpg"
+    },
+    {
+      "nombre": "Flucho Wop",
+      "foto": "personas/colaboradores/Flucho.wop.jpg"
+    },
+    {
+      "nombre": "Blanca y Ángel",
+      "foto": "personas/colaboradores/Blanca-Angel.jpg"
+    },
+    {
+      "nombre": "Skinny Jim",
+      "foto": ""
+    },
+    {
+      "nombre": "Víctor",
+      "foto": "personas/colaboradores/Victor.jpg"
+    }
+  ]
+}

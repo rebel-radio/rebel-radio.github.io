@@ -1,0 +1,281 @@
+{
+  "version": 3,
+  "zona_horaria": "Europe/Madrid",
+  "generado_en": "2026-10-18T22:04:10+02:00",
+  "continuidad": {
+    "tipo": "musica",
+    "nombre": "Música",
+    "descripcion": "Música de continuidad de Rebel Radio"
+  },
+  "reglas_especiales": [
+    {
+      "id": "ahora-elvis",
+      "programa_id": "ahora-elvis",
+      "nombre": "Ahora, Elvis",
+      "dia_del_mes": 16,
+      "hora": "21:00",
+      "duracion_minutos": 60,
+      "tipo": "especial",
+      "slot_kind": "premiere",
+      "sustituye": "musica"
+    }
+  ],
+  "excepciones": [],
+  "emisiones": [
+    {
+      "dia": "lunes",
+      "hora": "17:00",
+      "duracion_minutos": 20,
+      "nombre": "Fifi Express",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "lunes",
+      "hora": "18:00",
+      "duracion_minutos": 60,
+      "nombre": "Instrumental",
+      "tipo": "musical",
+      "regla": "weekly",
+      "programa_id": "instrumental"
+    },
+    {
+      "dia": "lunes",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "repeticion",
+      "regla": "biweekly",
+      "programa_id": "flucho-wop",
+      "anchor_date": "2026-09-28"
+    },
+    {
+      "dia": "lunes",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "estreno",
+      "regla": "biweekly",
+      "programa_id": "flucho-wop",
+      "anchor_date": "2026-10-05"
+    },
+    {
+      "dia": "martes",
+      "hora": "10:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "flucho-wop"
+    },
+    {
+      "dia": "martes",
+      "hora": "11:00",
+      "duracion_minutos": 60,
+      "nombre": "Dr. Mambusenn",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "dr-mambusenn"
+    },
+    {
+      "dia": "martes",
+      "hora": "17:00",
+      "duracion_minutos": 20,
+      "nombre": "Fifi Express",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "martes",
+      "hora": "18:00",
+      "duracion_minutos": 60,
+      "nombre": "En Castellano",
+      "tipo": "musical",
+      "regla": "weekly",
+      "programa_id": "en-castellano"
+    },
+    {
+      "dia": "martes",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "El Andén",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "el-anden"
+    },
+    {
+      "dia": "martes",
+      "hora": "23:00",
+      "duracion_minutos": 60,
+      "nombre": "Mr Twister Radio Chou",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "mr-twister"
+    },
+    {
+      "dia": "miercoles",
+      "hora": "17:00",
+      "duracion_minutos": 20,
+      "nombre": "Fifi Express",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "miercoles",
+      "hora": "18:00",
+      "duracion_minutos": 60,
+      "nombre": "Instrumental",
+      "tipo": "musical",
+      "regla": "weekly",
+      "programa_id": "instrumental"
+    },
+    {
+      "dia": "miercoles",
+      "hora": "19:00",
+      "duracion_minutos": 60,
+      "nombre": "Dr. Mambusenn",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "dr-mambusenn"
+    },
+    {
+      "dia": "miercoles",
+      "hora": "23:00",
+      "duracion_minutos": 60,
+      "nombre": "El Andén",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "el-anden"
+    },
+    {
+      "dia": "jueves",
+      "hora": "17:00",
+      "duracion_minutos": 20,
+      "nombre": "Fifi Express",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "jueves",
+      "hora": "18:00",
+      "duracion_minutos": 60,
+      "nombre": "En Castellano",
+      "tipo": "musical",
+      "regla": "weekly",
+      "programa_id": "en-castellano"
+    },
+    {
+      "dia": "jueves",
+      "hora": "19:00",
+      "duracion_minutos": 60,
+      "nombre": "Esto sí que es rocanrol !!!",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "victor-melchor"
+    },
+    {
+      "dia": "jueves",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "Mr Twister Radio Chou",
+      "tipo": "estreno",
+      "regla": "biweekly",
+      "programa_id": "mr-twister",
+      "anchor_date": "2026-10-01"
+    },
+    {
+      "dia": "jueves",
+      "hora": "22:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "flucho-wop"
+    },
+    {
+      "dia": "viernes",
+      "hora": "10:00",
+      "duracion_minutos": 60,
+      "nombre": "Esto sí que es rocanrol !!!",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "victor-melchor"
+    },
+    {
+      "dia": "viernes",
+      "hora": "17:00",
+      "duracion_minutos": 20,
+      "nombre": "Fifi Express",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "viernes",
+      "hora": "22:00",
+      "duracion_minutos": 60,
+      "nombre": "Mr Twister Radio Chou",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "mr-twister"
+    },
+    {
+      "dia": "sabado",
+      "hora": "10:00",
+      "duracion_minutos": 60,
+      "nombre": "Dr. Mambusenn",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "dr-mambusenn"
+    },
+    {
+      "dia": "sabado",
+      "hora": "11:00",
+      "duracion_minutos": 60,
+      "nombre": "Esto sí que es rocanrol !!!",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "victor-melchor"
+    },
+    {
+      "dia": "sabado",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "flucho-wop"
+    },
+    {
+      "dia": "sabado",
+      "hora": "22:00",
+      "duracion_minutos": 60,
+      "nombre": "El Andén",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "el-anden"
+    },
+    {
+      "dia": "domingo",
+      "hora": "11:00",
+      "duracion_minutos": 60,
+      "nombre": "El Andén",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "el-anden"
+    },
+    {
+      "dia": "domingo",
+      "hora": "12:00",
+      "duracion_minutos": 60,
+      "nombre": "Mr Twister Radio Chou",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "mr-twister"
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "generado": "2026-10-19T20:15:11",
+  "programas": [
+    {
+      "id": "fifi-express",
+      "nombre": "Fifi Express",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-19",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-19",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 19/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 992,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-16",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 16/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-161026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 903,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "ahora-elvis",
+      "nombre": "Ahora, Elvis",
+      "proveedor": "ivoox",
+      "ultima_emision": "2026-10-18",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-18",
+          "titulo": "Elvis 1956-2026 70 aniversario",
+          "nombre_ivoox": "Elvis 1956-2026 70 aniversario",
+          "id_ivoox": "182378280",
+          "enlace": "https://www.ivoox.com/elvis-1956-2026-70-aniversario-audios-mp3_rf_182378280_1.html",
+          "player": "https://www.ivoox.com/player_ej_182378280_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/ca8615169be826cac7cd81ba8261dbe4.webp",
+          "duracion": 3129,
+          "duracion_texto": "52:09",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-09-17",
+          "titulo": "Elvis en Septiembre",
+          "nombre_ivoox": "Elvis en Septiembre",
+          "id_ivoox": "180757418",
+          "enlace": "https://www.ivoox.com/elvis-septiembre-audios-mp3_rf_180757418_1.html",
+          "player": "https://www.ivoox.com/player_ej_180757418_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/f75e63e95e9a183638863b7ffcddea63.webp",
+          "duracion": 3385,
+          "duracion_texto": "56:25",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-08-17",
+          "titulo": "Elvis en la tierra de las mil danzas (II)",
+          "nombre_ivoox": "Elvis en la tierra de las mil danzas (II)",
+          "id_ivoox": "179041147",
+          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_179041147_1.html",
+          "player": "https://www.ivoox.com/player_ej_179041147_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/1595adb1de109ad119222dd39028eea0.webp",
+          "duracion": 3381,
+          "duracion_texto": "56:21",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-07-13",
+          "titulo": "Elvis en la tierra de las mil danzas",
+          "nombre_ivoox": "Elvis en la tierra de las mil danzas",
+          "id_ivoox": "177234250",
+          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_177234250_1.html",
+          "player": "https://www.ivoox.com/player_ej_177234250_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/6693fa3ec7c363a74f12488f073a2456.webp",
+          "duracion": 3031,
+          "duracion_texto": "50:31",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-06-19",
+          "titulo": "Almost in... summer",
+          "nombre_ivoox": "Almost in... summer",
+          "id_ivoox": "175879423",
+          "enlace": "https://www.ivoox.com/almost-in-summer-audios-mp3_rf_175879423_1.html",
+          "player": "https://www.ivoox.com/player_ej_175879423_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/9f1450ae773f8aec3028ab4481aa503f.webp",
+          "duracion": 3709,
+          "duracion_texto": "01:01:49",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-05-17",
+          "titulo": "Benidorm Elvis Fiesta (III)",
+          "nombre_ivoox": "Benidorm Elvis Fiesta (III)",
+          "id_ivoox": "173852439",
+          "enlace": "https://www.ivoox.com/benidorm-elvis-fiesta-iii-audios-mp3_rf_173852439_1.html",
+          "player": "https://www.ivoox.com/player_ej_173852439_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/d57685768a86a0731728a21d04955f72.webp",
+          "duracion": 3147,
+          "duracion_texto": "52:27",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-04-17",
+          "titulo": "La primavera la sangre (y la música) altera",
+          "nombre_ivoox": "La primavera la sangre (y la música) altera",
+          "id_ivoox": "172088204",
+          "enlace": "https://www.ivoox.com/primavera-sangre-y-musica-altera-audios-mp3_rf_172088204_1.html",
+          "player": "https://www.ivoox.com/player_ej_172088204_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/07bce2d33ba3753ae4f20cee2eac2f5b.webp",
+          "duracion": 3342,
+          "duracion_texto": "55:42",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-03-16",
+          "titulo": "Góspel (III) - Con Publico - 16-03-26",
+          "nombre_ivoox": "Góspel (III) - Con Publico - 16-03-26",
+          "id_ivoox": "170210239",
+          "enlace": "https://www.ivoox.com/gospel-iii-con-publico-16-03-26-audios-mp3_rf_170210239_1.html",
+          "player": "https://www.ivoox.com/player_ej_170210239_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/9f57643b9f4567b6cb2e64f258f6b9d3.webp",
+          "duracion": 3332,
+          "duracion_texto": "55:32",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-02-22",
+          "titulo": "¿el día que la música... no murió? 16-02-26",
+          "nombre_ivoox": "¿el día que la música... no murió? 16-02-26",
+          "id_ivoox": "168888678",
+          "enlace": "https://www.ivoox.com/el-dia-musica-no-murio-16-02-26-audios-mp3_rf_168888678_1.html",
+          "player": "https://www.ivoox.com/player_ej_168888678_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/718e85dbab411e93157ba4786a8e8c62.webp",
+          "duracion": 3518,
+          "duracion_texto": "58:38",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-01-19",
+          "titulo": "Happy happy birthday, baby - 16/01/26",
+          "nombre_ivoox": "Happy happy birthday, baby - 16/01/26",
+          "id_ivoox": "166941365",
+          "enlace": "https://www.ivoox.com/happy-happy-birthday-baby-16-01-26-audios-mp3_rf_166941365_1.html",
+          "player": "https://www.ivoox.com/player_ej_166941365_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/1b894fd94b009e9e3f7495f5d45896b2.webp",
+          "duracion": 3326,
+          "duracion_texto": "55:26",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2025-12-16",
+          "titulo": "Ahora, Elvis - 16/12/25",
+          "nombre_ivoox": "Ahora, Elvis - 16/12/25",
+          "id_ivoox": "164370762",
+          "enlace": "https://www.ivoox.com/ahora-elvis-16-12-25-audios-mp3_rf_164370762_1.html",
+          "player": "https://www.ivoox.com/player_ej_164370762_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/324ae36a3f1a050114486cc36d9f475a.webp",
+          "duracion": 3415,
+          "duracion_texto": "56:55",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2025-11-18",
+          "titulo": "Ahora, Elvis - 16/11/25",
+          "nombre_ivoox": "Ahora, Elvis - 16/11/25",
+          "id_ivoox": "162797232",
+          "enlace": "https://www.ivoox.com/ahora-elvis-16-11-25-audios-mp3_rf_162797232_1.html",
+          "player": "https://www.ivoox.com/player_ej_162797232_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/754c70b05f2c2da65d0927e4d51718fa.webp",
+          "duracion": 3091,
+          "duracion_texto": "51:31",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        }
+      ]
+    },
+    {
+      "id": "mr-twister",
+      "nombre": "Mr Twister Radio Chou",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-15",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 15/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-151026/",
+          "imagen": "/portadas-programas/06bafd66e86e0587ad2ea18d572cce1d.webp",
+          "duracion": 3253,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-01",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 01/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-011026/",
+          "imagen": "/portadas-programas/c7d9907c75cc72ba27b6ddba609cfd15.webp",
+          "duracion": 3243,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-18",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 18/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-180626/",
+          "imagen": "/portadas-programas/0659a4a3b28783000664824d23e519dd.webp",
+          "duracion": 3477,
+          "reproducciones": 99,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-28",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 28/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-280526/",
+          "imagen": "/portadas-programas/c6415f56813e32df02673a04d92705f1.webp",
+          "duracion": 3239,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-14",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 14/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-140526/",
+          "imagen": "/portadas-programas/5281402a9c9be57af47b261f3bef63ca.webp",
+          "duracion": 3400,
+          "reproducciones": 28,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-30",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 30/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-300426/",
+          "imagen": "/portadas-programas/6b89af785e0b792fa3494ee66965121a.webp",
+          "duracion": 3353,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-16",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 16/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-160426/",
+          "imagen": "/portadas-programas/8f6fc6b9a43329872017dbaf5d7797e4.webp",
+          "duracion": 3351,
+          "reproducciones": 27,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-26",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 26/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260326/",
+          "imagen": "/portadas-programas/12f755e65da1d60659da5659753671bb.webp",
+          "duracion": 3500,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-12",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 12/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-120326/",
+          "imagen": "/portadas-programas/0bd5d580b0268870b53809d0910242af.webp",
+          "duracion": 3482,
+          "reproducciones": 24,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-26",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 26/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260226/",
+          "imagen": "/portadas-programas/5b4b97528d4cd3b920021a865d8aacb9.webp",
+          "duracion": 3244,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-05",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 05/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-050226/",
+          "imagen": "/portadas-programas/21b89f6fe1dd7e45b64d29da6dac02f7.webp",
+          "duracion": 5707,
+          "reproducciones": 59,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-15",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 15/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-150126/",
+          "imagen": "/portadas-programas/bbfcab8c7d9fe800eb7c326fba7c5861.webp",
+          "duracion": 3008,
+          "reproducciones": 38,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "victor-melchor",
+      "nombre": "Esto sí que es rocanrol !!!",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-15",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 15/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-151026/",
+          "imagen": "/portadas-programas/75132c47b583736b904169cc8b871ff9.webp",
+          "duracion": 3034,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-08",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 08/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-081026/",
+          "imagen": "/portadas-programas/85c3ef61387906ac63e8adec0923cfa3.webp",
+          "duracion": 3244,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-01",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 01/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-011026/",
+          "imagen": "/portadas-programas/2c5e062c61b7f6d18548a15fa73ce7bf.webp",
+          "duracion": 3104,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-24",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!!-24/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-_24-09-26/",
+          "imagen": "/portadas-programas/669e15eaf0c849be51d2136396c9222a.webp",
+          "duracion": 2943,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "dr-mambusenn",
+      "nombre": "Dr. Mambusenn",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-14",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 14/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-141026/",
+          "imagen": "/portadas-programas/7bac7cbbd0263d9495c8f4c71bf7e803.webp",
+          "duracion": 2815,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-07",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 07/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-071026/",
+          "imagen": "/portadas-programas/260b7a13593665f13b063c9e6cdb76f9.webp",
+          "duracion": 2531,
+          "reproducciones": 7,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-23",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 23/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-230926/",
+          "imagen": "/portadas-programas/1aedf1999fdce39311650a0967541e18.webp",
+          "duracion": 2449,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-16",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 16/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-160926/",
+          "imagen": "/portadas-programas/0f43af13281d3fab257f14476db491b1.webp",
+          "duracion": 2743,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-10",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 10/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-100626/",
+          "imagen": "/portadas-programas/8ab9b49122099a323bac7d25eac35f2e.webp",
+          "duracion": 2632,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-03",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 03/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-030626/",
+          "imagen": "/portadas-programas/e7a37e52c934cb2d911ce03947c7115c.webp",
+          "duracion": 2628,
+          "reproducciones": 41,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-27",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 27/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-270526/",
+          "imagen": "/portadas-programas/0dcb93c847cf794d2351c85f2793d40c.webp",
+          "duracion": 3126,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-20",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 20/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-200526/",
+          "imagen": "/portadas-programas/026961ee81fbc085858178cf107d0e44.webp",
+          "duracion": 2801,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-13",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 13/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-130526/",
+          "imagen": "/portadas-programas/3f6cfcd376d50428a172c84a728afb8d.webp",
+          "duracion": 2747,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-06",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 06/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-060526/",
+          "imagen": "/portadas-programas/7a43035ca436423974582cb5ccd30997.webp",
+          "duracion": 2721,
+          "reproducciones": 17,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-29",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 29/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-290426/",
+          "imagen": "/portadas-programas/b4cfc39b1d2268733e00114da6ac4496.webp",
+          "duracion": 2642,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-22",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 22/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-220426/",
+          "imagen": "/portadas-programas/9877853b879714673d090f5cf2505a22.webp",
+          "duracion": 2657,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "el-anden",
+      "nombre": "EL ANDÉN con Jorge Pascual",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-13",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-13",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
+          "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
+          "duracion": 3104,
+          "reproducciones": 40,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-06",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 06/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-061026/",
+          "imagen": "/portadas-programas/d27df44fc4523994fca81454b5baca11.webp",
+          "duracion": 3295,
+          "reproducciones": 34,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-29",
+          "titulo": "",
+          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 29/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-290926/",
+          "imagen": "/portadas-programas/04316a4ebfdded33243a37f1ae124caf.webp",
+          "duracion": 3228,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-22",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-220926/",
+          "imagen": "/portadas-programas/a22eaa3f7678b91d5b9954fb62ca16bd.webp",
+          "duracion": 3298,
+          "reproducciones": 50,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-150926/",
+          "imagen": "/portadas-programas/51a4301492a2cb7e909e2e1fcd893f81.webp",
+          "duracion": 3299,
+          "reproducciones": 62,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-09",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 09/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-090626/",
+          "imagen": "/portadas-programas/b80a2e24c4edbb33571e2db4abbd4a76.webp",
+          "duracion": 7195,
+          "reproducciones": 108,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-02",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-020626/",
+          "imagen": "/portadas-programas/1f4966de47d61625a954bb5f3c2e772f.webp",
+          "duracion": 3479,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-26",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-260526/",
+          "imagen": "/portadas-programas/427e213c1211c9afb89c5270216208b0.webp",
+          "duracion": 3480,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-19",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-190526/",
+          "imagen": "/portadas-programas/187ec18ff6c4777de2ba6c7954814ccd.webp",
+          "duracion": 3324,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-12",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-120526/",
+          "imagen": "/portadas-programas/6dcff53e5a12f1f7c477b85fc31e4e84.webp",
+          "duracion": 3355,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-05",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 05/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-050526/",
+          "imagen": "/portadas-programas/bf7a4bd726dd2e0fbbc62e310973b4d2.webp",
+          "duracion": 3478,
+          "reproducciones": 36,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-28",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-280426/",
+          "imagen": "/portadas-programas/468b1347d6aacf0af02a958a4891ef43.webp",
+          "duracion": 3403,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "flucho-wop",
+      "nombre": "Flucho Wop",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-05",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-05",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 05/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-051026/",
+          "imagen": "/portadas-programas/4f47daf0670fee2dcca87ceea7ba1c50.webp",
+          "duracion": 2803,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-25",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 25/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-250526/",
+          "imagen": "/portadas-programas/d127703575b127366abfbf4baa440fb9.webp",
+          "duracion": 2680,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-11",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 11/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-110526/",
+          "imagen": "/portadas-programas/d9aa9d48724ac8be92a79d38c91cb6cb.webp",
+          "duracion": 2668,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-27",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 27/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-270426/",
+          "imagen": "/portadas-programas/e98d80d91abb2f662ae69412da37d704.webp",
+          "duracion": 2774,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-13",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 13/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-130426/",
+          "imagen": "/portadas-programas/b74895c756723843ed9c0e123243a310.webp",
+          "duracion": 2821,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-30",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 30/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-300326/",
+          "imagen": "/portadas-programas/424777ecd9f7a1848ff533cc9d0e4520.webp",
+          "duracion": 2922,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-16",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 16/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160326/",
+          "imagen": "/portadas-programas/d127e5fd9111cfaf2a230bb343b72cec.webp",
+          "duracion": 2706,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-02",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 02/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020326/",
+          "imagen": "/portadas-programas/d452251f25c52537005fa0573a664dbe.webp",
+          "duracion": 2716,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-16",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 16/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160226/",
+          "imagen": "/portadas-programas/f33f8e053e01a1938b475e674e771cf4.webp",
+          "duracion": 2785,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-19",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 19/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-190126/",
+          "imagen": "/portadas-programas/a46c8848bd4d41c58519c816903aeb6f.webp",
+          "duracion": 2741,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-02",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 02/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-020126/",
+          "imagen": "/portadas-programas/0cdfb7b9407bfcbf7cb2b0311a18ca51.webp",
+          "duracion": 2707,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-22",
+          "titulo": "",
+          "nombre_mixcloud": "Flucho Wop - 22/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-221225/",
+          "imagen": "/portadas-programas/3a44393454b89b3f2c48a35817f36cab.webp",
+          "duracion": 2828,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "skinny-jim",
+      "nombre": "Skinny Jim",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-05-22",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-05-22",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 22/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-220526/",
+          "imagen": "/portadas-programas/6a6505c266bd6c36252f2ea41774a7cc.webp",
+          "duracion": 2716,
+          "reproducciones": 37,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-20",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 20/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-200326/",
+          "imagen": "/portadas-programas/c538f9050f2d953de1bbbc0ba93f453c.webp",
+          "duracion": 3233,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-27",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 27/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-270226/",
+          "imagen": "/portadas-programas/760cbb1678404a6e59c5b9c48443217d.webp",
+          "duracion": 3272,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-05",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 05/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-050226/",
+          "imagen": "/portadas-programas/06578e4ca22d07d87313c902445b44a5.webp",
+          "duracion": 3190,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-16",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 16/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-160126/",
+          "imagen": "/portadas-programas/5521b145afd65ab02cc047f8831be0cd.webp",
+          "duracion": 2934,
+          "reproducciones": 27,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-13",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 13/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-131225/",
+          "imagen": "/portadas-programas/b95fefca2c69d0517f654677170b9bf4.webp",
+          "duracion": 3274,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-29",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 29/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-291125/",
+          "imagen": "/portadas-programas/1208760ba9d2317cbdce9b9164b4f17d.webp",
+          "duracion": 2962,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-07",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 07/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-071125/",
+          "imagen": "/portadas-programas/9f7ce136ed94bac3dce1b489513b1aba.webp",
+          "duracion": 3163,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-10",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 10/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-101025/",
+          "imagen": "/portadas-programas/f5dfaa64ee7b212dc2bb7adae904482e.webp",
+          "duracion": 3329,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-09-19",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 19/09/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-190925/",
+          "imagen": "/portadas-programas/2953e61b739cd78930d7215cb9927cb6.webp",
+          "duracion": 3281,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-06",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 06/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-060625/",
+          "imagen": "/portadas-programas/0278080211a5c8832e8ee24f8e0c5d90.webp",
+          "duracion": 3154,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-05-09",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 09/05/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-090525/",
+          "imagen": "/portadas-programas/46784b257d79a66e45317b62f47331f3.webp",
+          "duracion": 3110,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "rockhouse",
+      "nombre": "Rockhouse",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-04-28",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-04-28",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 28/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-280426/",
+          "imagen": "/portadas-programas/d92d9a52c9ea0b84d6d88b82def2cf09.webp",
+          "duracion": 4738,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-13",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 13/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-130426/",
+          "imagen": "/portadas-programas/181a96c74d9a8834bc6759cfae196ec5.webp",
+          "duracion": 2601,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-05",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse 12 - 05/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-12-051225/",
+          "imagen": "/portadas-programas/493874350d80f90ac0e4b64f95a9fe7f.webp",
+          "duracion": 3105,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-01",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 01/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-010625/",
+          "imagen": "/portadas-programas/27beff33f86b0e1a90e4c52f26fe3420.webp",
+          "duracion": 6600,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-05-04",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 04/05/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-040525/",
+          "imagen": "/portadas-programas/fca612b77d7b2062d34512a874b93c0c.webp",
+          "duracion": 3825,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-04-06",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 06/04/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-060425/",
+          "imagen": "/portadas-programas/4bf06d8cb3d1034238381fe12510a9a1.webp",
+          "duracion": 2970,
+          "reproducciones": 28,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-11-16",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 16/11/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-161124/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 5148,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-10-19",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 19/10/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-191024/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 3457,
+          "reproducciones": 64,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-10-05",
+          "titulo": "",
+          "nombre_mixcloud": "Rockhouse - 05/10/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-051024/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 3751,
+          "reproducciones": 40,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
+    {
+      "id": "frecuencia-rebelde",
+      "nombre": "Frecuencia Rebelde",
+      "proveedor": "mixcloud",
+      "ultima_emision": null,
+      "estado": "proximamente",
+      "episodios": []
+    },
+    {
+      "id": "instrumental",
+      "nombre": "Instrumental",
+      "proveedor": "directo",
+      "ultima_emision": null,
+      "estado": "solo_directo",
+      "episodios": []
+    },
+    {
+      "id": "en-castellano",
+      "nombre": "En Castellano",
+      "proveedor": "directo",
+      "ultima_emision": null,
+      "estado": "solo_directo",
+      "episodios": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "total": 9,
+  "eventos": [
+    {
+      "fecha": "2026-10-25",
+      "nombre": "Doo Wop Fever 8",
+      "imagen": "eventos/2026-10-25_Doo Wop Fever 8.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-10-31",
+      "nombre": "17 anv Sun Coast Rockin Club",
+      "imagen": "eventos/2026-10-31_17 anv Sun Coast Rockin Club.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-06",
+      "nombre": "Top Jive Rockabilly",
+      "imagen": "eventos/2026-11-06_Top Jive Rockabilly.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-14",
+      "nombre": "10 Good Rockin Valladolid",
+      "imagen": "eventos/2026-11-14_REBEL_10 Good Rockin Valladolid.jpg",
+      "participacion_rebel": true
+    },
+    {
+      "fecha": "2026-11-20",
+      "nombre": "Sweet 50´s Union",
+      "imagen": "eventos/2026-11-20_Sweet 50´s Union.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-02-03",
+      "nombre": "Rockin Race Jamboree",
+      "imagen": "eventos/2027-02-03_Rockin Race Jamboree.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-03-06",
+      "nombre": "XII Rocking & Rodding",
+      "imagen": "eventos/2027-03-06_XII Rocking & Rodding.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-04-22",
+      "nombre": "Bali R´N´R Fest",
+      "imagen": "eventos/2027-04-22_Bali R´N´R Fest.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-06-10",
+      "nombre": "The Fly Riders - 35 Aniversario",
+      "imagen": "eventos/2027-06-10_REBEL_The Fly Riders - 35 Aniversario.jpeg",
+      "participacion_rebel": true
+    }
+  ]
+}

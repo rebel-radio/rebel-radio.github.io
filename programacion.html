@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Programación | Rebel Radio</title>
+<meta name="description" content="Parrilla semanal y programación de Rebel Radio.">
+
+<meta name="theme-color" content="#111111">
+
+<style>
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    background:#111;
+    color:#fff;
+    font-family:Arial,sans-serif;
+}
+
+a{
+    color:inherit;
+}
+
+header{
+    border-bottom:1px solid #2b2b2b;
+}
+
+.cabecera{
+    max-width:1200px;
+    margin:auto;
+    padding:15px 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:20px;
+}
+
+.marca{
+    font-weight:bold;
+    letter-spacing:1px;
+    text-decoration:none;
+}
+
+nav{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+nav a{
+    color:#ccc;
+    text-decoration:none;
+    font-size:.9rem;
+}
+
+nav a:hover{
+    color:white;
+}
+
+main{
+    max-width:1200px;
+    margin:auto;
+    padding:40px 20px 60px;
+}
+
+h1{
+    margin:0 0 10px;
+}
+
+.intro{
+    color:#999;
+    margin:0 0 30px;
+}
+
+.leyenda{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    margin-bottom:25px;
+    color:#bbb;
+    font-size:.85rem;
+}
+
+.leyenda span{
+    display:flex;
+    align-items:center;
+    gap:7px;
+}
+
+.punto{
+    width:11px;
+    height:11px;
+    border-radius:50%;
+    display:inline-block;
+}
+
+.punto.estreno{
+    background:#9b1c1c;
+}
+
+.punto.repeticion{
+    background:#315b36;
+}
+
+.punto.musical{
+    background:#80571d;
+}
+
+.punto.musica{
+    background:#292929;
+}
+
+
+/* ESCRITORIO */
+
+.tabla-contenedor{
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    min-width:950px;
+    border-collapse:separate;
+    border-spacing:4px;
+}
+
+th{
+    padding:12px 7px;
+    color:#ccc;
+    font-size:.85rem;
+    text-transform:uppercase;
+}
+
+th.hora{
+    width:70px;
+}
+
+td{
+    height:58px;
+    padding:7px;
+    text-align:center;
+    vertical-align:middle;
+    border-radius:7px;
+    background:#1a1a1a;
+    border:1px solid #262626;
+    font-size:.82rem;
+}
+
+td.hora{
+    background:transparent;
+    border:none;
+    color:#888;
+    font-weight:bold;
+}
+
+td.estreno{
+    background:#641919;
+    border-color:#8d2727;
+}
+
+td.repeticion{
+    background:#263f29;
+    border-color:#385b3d;
+}
+
+td.musical{
+    background:#5b3b15;
+    border-color:#80571d;
+}
+
+td.musica{
+    color:#666;
+}
+
+.nombre{
+    display:block;
+    font-weight:bold;
+}
+
+.etiqueta{
+    display:block;
+    margin-top:4px;
+    font-size:.65rem;
+    text-transform:uppercase;
+    opacity:.7;
+}
+
+.estreno .etiqueta{
+    display:inline-block;
+    margin-top:5px;
+    padding:3px 8px;
+    background:#d62828;
+    border:1px solid #ef5350;
+    border-radius:4px;
+    color:#fff;
+    font-weight:bold;
+    letter-spacing:1px;
+    opacity:1;
+}
+
+.enlace-emision{
+    display:block;
+    color:inherit;
+    text-decoration:none;
+    width:100%;
+    height:100%;
+}
+
+.enlace-emision:hover .nombre{
+    text-decoration:underline;
+}
+
+.elvis{
+    color:#ffd166;
+}
+
+
+/* MÓVIL */
+
+.parrilla-movil{
+    display:none;
+}
+
+.dia-movil{
+    margin-bottom:25px;
+}
+
+.dia-movil h2{
+    font-size:1.2rem;
+    margin:0 0 10px;
+    text-transform:capitalize;
+}
+
+.emision-movil{
+    display:grid;
+    grid-template-columns:60px 1fr;
+    gap:10px;
+    margin-bottom:6px;
+}
+
+.hora-movil{
+    color:#888;
+    padding:11px 0;
+    font-weight:bold;
+    font-size:.85rem;
+}
+
+.contenido-movil{
+    padding:10px 12px;
+    border-radius:8px;
+    background:#1a1a1a;
+    border:1px solid #292929;
+}
+
+.contenido-movil.estreno{
+    background:#641919;
+    border-color:#8d2727;
+}
+
+.contenido-movil.repeticion{
+    background:#263f29;
+    border-color:#385b3d;
+}
+
+.contenido-movil.musical{
+    background:#5b3b15;
+    border-color:#80571d;
+}
+
+.nota{
+    margin-top:30px;
+    padding:15px;
+    background:#181818;
+    border:1px solid #292929;
+    border-radius:10px;
+    color:#aaa;
+    font-size:.85rem;
+}
+
+footer{
+    border-top:1px solid #242424;
+    color:#777;
+    text-align:center;
+    padding:30px 20px;
+    font-size:.85rem;
+}
+
+.error{
+    color:#e88;
+}
+
+
+@media(max-width:700px){
+
+    .cabecera{
+        flex-direction:column;
+        gap:12px;
+    }
+
+    nav{
+        justify-content:center;
+        gap:15px;
+    }
+
+    main{
+        padding:30px 15px 50px;
+    }
+
+    .tabla-contenedor{
+        display:none;
+    }
+
+    .parrilla-movil{
+        display:block;
+    }
+}
+
+
+/* =========================================================
+   MENU SUPERIOR COMUN REBEL RADIO
+   ========================================================= */
+
+nav,
+.navegacion{
+    display:flex;
+    justify-content:center;
+    flex-wrap:nowrap !important;
+    gap:6px !important;
+    align-items:center;
+}
+
+.cabecera{
+    display:flex;
+    justify-content:center !important;
+}
+
+nav a,
+.navegacion a{
+    margin:0 !important;
+    padding:7px 9px;
+    box-sizing:border-box;
+    border:1px solid #333;
+    border-radius:8px;
+    background:#171717;
+    color:#ccc;
+    text-decoration:none;
+    font-size:15px !important;
+    font-weight:700;
+    line-height:1.2;
+    white-space:nowrap;
+    flex:0 0 auto;
+    transition:background .15s ease, border-color .15s ease, color .15s ease;
+}
+
+nav a:hover,
+.navegacion a:hover{
+    background:#242424;
+    border-color:#555;
+    color:#fff;
+}
+
+nav a.activo,
+.navegacion a.activo{
+    color:#e0a052;
+    border-color:#d08a2f;
+    background:rgba(208,138,47,.12);
+}
+
+@media (max-width:700px){
+    nav,
+    .navegacion{
+        justify-content:center !important;
+        gap:4px !important;
+        max-width:100%;
+        overflow-x:auto;
+        scrollbar-width:none;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    nav::-webkit-scrollbar,
+    .navegacion::-webkit-scrollbar{
+        display:none;
+    }
+
+    nav a,
+    .navegacion a{
+        padding:6px clamp(5px,1.5vw,7px);
+        font-size:clamp(11px,3vw,12.5px) !important;
+    }
+}
+
+
+
+/* REBEL-CABECERA-FIJA-INICIO */
+
+header{
+    margin:0 !important;
+    padding:12px 16px !important;
+    min-height:58px !important;
+    height:58px !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    overflow:visible !important;
+    background:#111 !important;
+    border:0 !important;
+    border-bottom:1px solid #2b2b2b !important;
+}
+
+header .cabecera{
+    width:100% !important;
+    max-width:100% !important;
+    height:100% !important;
+    min-width:0 !important;
+    margin:0 !important;
+    padding:0 !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    gap:0 !important;
+}
+
+header nav,
+header .navegacion{
+    width:auto !important;
+    max-width:100% !important;
+    min-width:0 !important;
+    margin:0 auto !important;
+    padding:0 !important;
+    box-sizing:border-box !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    flex-wrap:nowrap !important;
+    gap:6px !important;
+    border:0 !important;
+}
+
+header nav a,
+header .navegacion a{
+    flex:0 0 auto !important;
+    margin:0 !important;
+}
+
+@media (max-width:700px){
+    header{
+        padding:10px 0 !important;
+        min-height:54px !important;
+        height:54px !important;
+        overflow:hidden !important;
+    }
+
+    header .cabecera{
+        width:100% !important;
+        max-width:100% !important;
+        height:100% !important;
+        min-width:0 !important;
+    }
+
+    header nav,
+    header .navegacion{
+        width:100% !important;
+        max-width:100% !important;
+        min-width:0 !important;
+        margin:0 !important;
+        padding:0 8px !important;
+        justify-content:flex-start !important;
+        overflow-x:auto !important;
+        overflow-y:hidden !important;
+        scroll-padding-left:8px !important;
+        scrollbar-width:none !important;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    header nav::-webkit-scrollbar,
+    header .navegacion::-webkit-scrollbar{
+        display:none !important;
+    }
+
+    header nav a:first-child,
+    header .navegacion a:first-child{
+        margin-left:0 !important;
+    }
+
+    header nav a:last-child,
+    header .navegacion a:last-child{
+        margin-right:8px !important;
+    }
+}
+
+/* REBEL-CABECERA-FIJA-FIN */
+
+</style>
+  <link rel="stylesheet" href="/rebel-ui.css?v=20261019-nav-fijo1" data-rebel-i18n-css="1">
+</head>
+
+<body>
+
+<header class="rr-header">
+  <button type="button" class="rr-menu-toggle" aria-expanded="false">☰ MENÚ</button>
+
+  <nav class="rr-main-nav" aria-label="Navegación principal">
+    <a href="/">INICIO</a>
+    <a href="/programas.html">PROGRAMAS</a>
+    <a href="/programacion.html">PARRILLA</a>
+    <a href="/eventos.html">EVENTOS</a>
+    <a href="/rebel-radio.html">REBEL RADIO</a>
+  </nav>
+</header>
+
+<main>
+
+    <h1>Programación</h1>
+
+    <div id="navegacion-semana" style="
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:24px;
+        margin:15px 0 22px;
+        flex-wrap:wrap;
+    ">
+        <a id="semana-anterior" href="#" style="color:inherit;">
+            ‹ SEMANA ANTERIOR
+        </a>
+
+        <strong id="titulo-semana"></strong>
+
+        <a id="semana-siguiente" href="#" style="color:inherit;">
+            SEMANA SIGUIENTE ›
+        </a>
+    </div>
+
+    <p class="intro">
+        Cuando no hay un programa programado, seguimos con música.
+    </p>
+
+    <div class="leyenda">
+        <span><i class="punto estreno"></i> Estreno</span>
+        <span><i class="punto repeticion"></i> Repetición</span>
+        <span><i class="punto musical"></i> Bloque musical</span>
+        <span><i class="punto musica"></i> Música</span>
+    </div>
+
+    <p id="estado">Cargando programación...</p>
+
+    <div class="tabla-contenedor">
+        <table id="tabla"></table>
+    </div>
+
+    <div
+        id="parrilla-movil"
+        class="parrilla-movil">
+    </div>
+
+
+
+</main>
+
+
+
+
+
+<script>
+const dias = ['lunes','martes','miercoles','jueves','viernes','sabado','domingo'];
+const nombresDias = {lunes:'Lunes',martes:'Martes',miercoles:'Miércoles',jueves:'Jueves',viernes:'Viernes',sabado:'Sábado',domingo:'Domingo'};
+const meses = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
+const horasBase = ['10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00','00:00'];
+const LIVE = 'https://www.mixcloud.com/live/Rock_and_Roll_Rebel_Radio/';
+
+function escapeHtml(value){return String(value??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
+function fechaISO(fecha){const y=fecha.getFullYear(),m=String(fecha.getMonth()+1).padStart(2,'0'),d=String(fecha.getDate()).padStart(2,'0');return `${y}-${m}-${d}`;}
+function lunesDeSemana(fecha){const f=new Date(fecha.getFullYear(),fecha.getMonth(),fecha.getDate());const dia=f.getDay();f.setDate(f.getDate()+(dia===0?-6:1-dia));return f;}
+const parametros=new URLSearchParams(window.location.search);
+let inicioSemana;
+if(parametros.get('semana')){const p=parametros.get('semana').split('-').map(Number);inicioSemana=new Date(p[0],p[1]-1,p[2]);}else{inicioSemana=lunesDeSemana(new Date());}
+function fechaDia(indice){const f=new Date(inicioSemana);f.setDate(inicioSemana.getDate()+indice);return f;}
+function textoFecha(fecha){return `${fecha.getDate()} ${meses[fecha.getMonth()]}`;}
+function actualizarNavegacion(){const fin=fechaDia(6);document.getElementById('titulo-semana').textContent=`${inicioSemana.getDate()} ${meses[inicioSemana.getMonth()]} – ${fin.getDate()} ${meses[fin.getMonth()]} ${fin.getFullYear()}`;const ant=new Date(inicioSemana),sig=new Date(inicioSemana);ant.setDate(ant.getDate()-7);sig.setDate(sig.getDate()+7);document.getElementById('semana-anterior').href=`?semana=${fechaISO(ant)}`;document.getElementById('semana-siguiente').href=`?semana=${fechaISO(sig)}`;}
+function fechaLocalISO(valor){if(!valor)return null;const p=valor.split('-').map(Number);return p.length===3&&!p.some(Number.isNaN)?new Date(p[0],p[1]-1,p[2]):null;}
+function diferenciaDiasCalendario(fecha,referencia){return Math.round((Date.UTC(fecha.getFullYear(),fecha.getMonth(),fecha.getDate())-Date.UTC(referencia.getFullYear(),referencia.getMonth(),referencia.getDate()))/86400000);}
+function emisionActivaEnFecha(emision,fecha){const regla=emision.regla||'weekly';if(regla==='weekly')return true;if(regla==='biweekly'){const ref=fechaLocalISO(emision.anchor_date);return Boolean(ref)&&diferenciaDiasCalendario(fecha,ref)>=0&&diferenciaDiasCalendario(fecha,ref)%14===0;}return false;}
+function horaAMinutos(hora){const[h,m]=String(hora||'00:00').split(':').map(Number);return (h===0?24*60:h*60)+m;}
+
+function emisionesResueltas(datos,fecha,dia){
+  let lista=(datos.emisiones||[]).filter(e=>e.dia===dia&&emisionActivaEnFecha(e,fecha)).map(e=>({...e,duracion_minutos:Number(e.duracion_minutos||60)}));
+  for(const r of (datos.reglas_especiales||[])){
+    if(Number(r.dia_del_mes)!==fecha.getDate())continue;
+    lista.push({programa_id:r.programa_id||r.id,nombre:r.nombre,hora:r.hora,duracion_minutos:Number(r.duracion_minutos||60),tipo:'especial',regla:'monthly'});
+  }
+  const clave=fechaISO(fecha);
+  for(const exc of (datos.excepciones||[]).filter(x=>x.fecha===clave)){
+    const retiradas=lista.filter(e=>e.programa_id===exc.programa_id);
+    if(exc.accion==='cancel'||exc.accion==='replace')lista=lista.filter(e=>e.programa_id!==exc.programa_id);
+    if(exc.accion==='replace')lista.push({programa_id:exc.programa_id,nombre:exc.nombre,hora:exc.hora,duracion_minutos:Number(exc.duracion_minutos||60),tipo:retiradas[0]?.tipo||'estreno',regla:'exception',excepcion:'replace'});
+    if(exc.accion==='special')lista.push({programa_id:exc.programa_id,nombre:exc.nombre,hora:exc.hora,duracion_minutos:Number(exc.duracion_minutos||60),tipo:'especial',regla:'exception',excepcion:'special'});
+  }
+  return lista.sort((a,b)=>horaAMinutos(a.hora)-horaAMinutos(b.hora)||String(a.nombre).localeCompare(String(b.nombre),'es'));
+}
+function horasSemana(datos){const set=new Set(horasBase);dias.forEach((dia,i)=>emisionesResueltas(datos,fechaDia(i),dia).forEach(e=>set.add(e.hora)));return [...set].sort((a,b)=>horaAMinutos(a)-horaAMinutos(b));}
+function buscarEmision(datos,dia,hora,fecha){return emisionesResueltas(datos,fecha,dia).find(e=>e.hora===hora);}
+
+function contenidoEmision(emision,catalogo){
+  if(!emision)return '<span class="nombre">Música</span>';
+  let etiqueta='';
+  if(emision.tipo==='estreno')etiqueta='ESTRENO';else if(emision.tipo==='repeticion')etiqueta='Repetición';else if(emision.tipo==='musical')etiqueta='Bloque musical';else if(emision.tipo==='especial')etiqueta='ESPECIAL';
+  const contenido=`<span class="nombre">${escapeHtml(emision.nombre)}</span>${etiqueta?`<span class="etiqueta${emision.tipo==='especial'?' elvis':''}">${escapeHtml(etiqueta)}</span>`:''}`;
+  let enlace='';
+  if(['estreno','musical','especial'].includes(emision.tipo))enlace=LIVE;
+  else if(emision.tipo==='repeticion'&&emision.programa_id){const programa=(catalogo.programas||[]).find(p=>p.id===emision.programa_id);if(programa?.episodios?.length)enlace='/programa.html?id='+encodeURIComponent(emision.programa_id)+'&autoplay=1';}
+  return enlace?`<a class="enlace-emision" href="${enlace}" target="_blank" rel="noopener">${contenido}</a>`:contenido;
+}
+function claseTipo(emision){if(!emision)return'musica';if(emision.tipo==='especial')return'estreno';return emision.tipo||'musica';}
+
+function crearTabla(datos,catalogo){const tabla=document.getElementById('tabla');const horas=horasSemana(datos);let html='<thead><tr><th class="hora"></th>';dias.forEach((dia,i)=>{const f=fechaDia(i);html+=`<th>${nombresDias[dia]}<br><small>${textoFecha(f)}</small></th>`;});html+='</tr></thead><tbody>';for(const hora of horas){html+=`<tr><td class="hora">${hora}</td>`;dias.forEach((dia,i)=>{const e=buscarEmision(datos,dia,hora,fechaDia(i));html+=`<td class="${claseTipo(e)}">${contenidoEmision(e,catalogo)}</td>`;});html+='</tr>';}html+='</tbody>';tabla.innerHTML=html;}
+function crearMovil(datos,catalogo){const cont=document.getElementById('parrilla-movil');let html='';dias.forEach((dia,i)=>{const f=fechaDia(i),lista=emisionesResueltas(datos,f,dia);html+=`<section class="dia-movil"><h2>${nombresDias[dia]} · ${textoFecha(f)}</h2>`;for(const e of lista){html+=`<div class="emision-movil"><div class="hora-movil">${escapeHtml(e.hora)}</div><div class="contenido-movil ${claseTipo(e)}">${contenidoEmision(e,catalogo)}</div></div>`;}html+='</section>';});cont.innerHTML=html;}
+
+actualizarNavegacion();
+Promise.all([fetch('/parrilla.json',{cache:'no-store'}),fetch('/catalogo-mixcloud.json',{cache:'no-store'})])
+.then(async([rp,rc])=>{if(!rp.ok)throw new Error('No se puede cargar parrilla.json');if(!rc.ok)throw new Error('No se puede cargar catalogo-mixcloud.json');const datos=await rp.json(),catalogo=await rc.json();document.getElementById('estado').style.display='none';crearTabla(datos,catalogo);crearMovil(datos,catalogo);})
+.catch(error=>{const estado=document.getElementById('estado');estado.textContent='No se ha podido cargar la programación.';estado.className='error';console.error(error);});
+
+</script>
+
+    <script src="rebel-estadisticas.js"></script>
+<footer class="rr-footer" data-rr-footer="1">
+  <div class="rr-footer-inner">
+    <div class="rr-social-icons" aria-label="Redes sociales">
+      <a class="rr-social rr-instagram" href="https://www.instagram.com/rebel_radio4/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <svg viewBox="0 0 48 48" aria-hidden="true">
+          <defs><linearGradient id="rrig-footer" x1="5" y1="43" x2="43" y2="5" gradientUnits="userSpaceOnUse"><stop stop-color="#ffd600"/><stop offset=".35" stop-color="#ff0169"/><stop offset=".7" stop-color="#d300c5"/><stop offset="1" stop-color="#7638fa"/></linearGradient></defs>
+          <rect x="4" y="4" width="40" height="40" rx="11" fill="url(#rrig-footer)"/>
+          <rect x="13" y="13" width="22" height="22" rx="7" fill="none" stroke="#fff" stroke-width="3"/>
+          <circle cx="24" cy="24" r="5.5" fill="none" stroke="#fff" stroke-width="3"/>
+          <circle cx="32.2" cy="15.8" r="1.8" fill="#fff"/>
+        </svg>
+      </a>
+      <a class="rr-social rr-facebook" href="https://www.facebook.com/rebelradio.es" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+        <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="20" fill="#1877F2"/><path fill="#fff" d="M26.6 37V25.5h3.9l.6-4.5h-4.5v-2.9c0-1.3.4-2.2 2.3-2.2h2.4v-4a32 32 0 0 0-3.6-.2c-3.6 0-6.1 2.2-6.1 6.3v3h-4.1v4.5h4.1V37z"/></svg>
+      </a>
+      <a class="rr-social rr-tiktok" href="https://www.tiktok.com/@rebelradio.es" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+        <svg viewBox="0 0 48 48" aria-hidden="true">
+          <rect x="4" y="4" width="40" height="40" rx="10" fill="#050505"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#25F4EE" transform="translate(-1 1)"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#FE2C55" transform="translate(1 -1)"/>
+          <path d="M29 12c1 4 3.2 6.1 7 6.8v5c-2.4-.1-4.8-.9-7-2.2v9c0 6.2-4.4 10.2-9.8 10.2-5.2 0-9.2-4-9.2-9 0-5.6 4.5-9.6 10.4-9.2v5.2c-2.8-.2-5 1.3-5 3.9 0 2.2 1.7 3.8 3.8 3.8 2.6 0 4.2-1.9 4.2-5V12z" fill="#fff"/>
+        </svg>
+      </a>
+    </div>
+    <a class="rr-contact-link" href="mailto:rebelradio@rebelradio.es" aria-label="Correo de contacto">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v14H3z"/><path d="m4 7 8 6 8-6"/></svg>
+      <span>rebelradio@rebelradio.es</span>
+    </a>
+  </div>
+<div class="rr-legal-links" aria-label="Información legal">
+  <a href="/privacidad.html">Privacidad y cookies</a>
+</div>
+</footer>
+  <script src="/rebel-menu.js?v=20261019-nav-fijo1" defer></script>
+</body>
+</html>
