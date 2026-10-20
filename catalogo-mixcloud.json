@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-20T05:15:08",
+  "generado": "2026-10-20T20:00:54",
   "programas": [
     {
       "id": "flucho-wop",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-191026/",
           "imagen": "/portadas-programas/1c00bcf53eaee909aacbf6b8d4ab6b6f.webp",
           "duracion": 2675,
-          "reproducciones": 1,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 992,
-          "reproducciones": 2,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -154,7 +154,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-161026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 903,
-          "reproducciones": 9,
+          "reproducciones": 10,
           "proveedor": "mixcloud"
         }
       ]
@@ -338,7 +338,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-151026/",
           "imagen": "/portadas-programas/06bafd66e86e0587ad2ea18d572cce1d.webp",
           "duracion": 3253,
-          "reproducciones": 19,
+          "reproducciones": 21,
           "proveedor": "mixcloud"
         },
         {
@@ -467,7 +467,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-151026/",
           "imagen": "/portadas-programas/75132c47b583736b904169cc8b871ff9.webp",
           "duracion": 3034,
-          "reproducciones": 14,
+          "reproducciones": 15,
           "proveedor": "mixcloud"
         },
         {
@@ -645,7 +645,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
           "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
           "duracion": 3104,
-          "reproducciones": 41,
+          "reproducciones": 42,
           "proveedor": "mixcloud"
         },
         {
@@ -695,7 +695,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-090626/",
           "imagen": "/portadas-programas/b80a2e24c4edbb33571e2db4abbd4a76.webp",
           "duracion": 7195,
-          "reproducciones": 108,
+          "reproducciones": 109,
           "proveedor": "mixcloud"
         },
         {
@@ -774,7 +774,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-220526/",
           "imagen": "/portadas-programas/6a6505c266bd6c36252f2ea41774a7cc.webp",
           "duracion": 2716,
-          "reproducciones": 37,
+          "reproducciones": 38,
           "proveedor": "mixcloud"
         },
         {
