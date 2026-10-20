@@ -1,6 +1,12 @@
 {
-  "total": 9,
+  "total": 10,
   "eventos": [
+    {
+      "fecha": "2026-10-24",
+      "nombre": "The Kickers",
+      "imagen": "eventos/2026-10-24_The Kickers.jpg",
+      "participacion_rebel": false
+    },
     {
       "fecha": "2026-10-25",
       "nombre": "Doo Wop Fever 8",
