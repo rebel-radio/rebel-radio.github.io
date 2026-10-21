@@ -1,5 +1,5 @@
 {
-  "total": 15,
+  "total": 17,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -45,6 +45,12 @@
     },
     {
       "fecha": "2026-11-14",
+      "nombre": "Lobos Grises",
+      "imagen": "eventos/2026-11-14_Lobos Grises.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-14",
       "nombre": "The Hot Jivers",
       "imagen": "eventos/2026-11-14_The Hot Jivers.jpg",
       "participacion_rebel": false
@@ -83,6 +89,12 @@
       "fecha": "2027-04-22",
       "nombre": "Bali R´N´R Fest",
       "imagen": "eventos/2027-04-22_Bali R´N´R Fest.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-05-14",
+      "nombre": "Rock and roll tour",
+      "imagen": "eventos/2027-05-14_Rock and roll tour.jpg",
       "participacion_rebel": false
     },
     {
