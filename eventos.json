@@ -1,5 +1,5 @@
 {
-  "total": 27,
+  "total": 26,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -95,12 +95,6 @@
       "fecha": "2026-11-21",
       "nombre": "Presentación Doble CD Los Faraones",
       "imagen": "eventos/2026-11-21_Presentación Doble CD Los Faraones.jpeg",
-      "participacion_rebel": false
-    },
-    {
-      "fecha": "2026-12-11",
-      "nombre": "Big Ducktail's Party",
-      "imagen": "eventos/2026-12-11_Big Ducktail's Party.jpg",
       "participacion_rebel": false
     },
     {
