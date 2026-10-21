@@ -1,6 +1,626 @@
 {
-  "generado": "2026-10-21T22:00:53",
+  "generado": "2026-10-21T22:15:10",
   "programas": [
+    {
+      "id": "dr-mambusenn",
+      "nombre": "Dr. Mambusenn",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-21",
+      "activo": true,
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-21",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 21/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211026/",
+          "imagen": "/portadas-programas/83ac6d3c2d04c35a6c3bb5f7c87155c5.webp",
+          "duracion": 2563,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 14/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-141026/",
+          "imagen": "/portadas-programas/7bac7cbbd0263d9495c8f4c71bf7e803.webp",
+          "duracion": 2815,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-07",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 07/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-071026/",
+          "imagen": "/portadas-programas/260b7a13593665f13b063c9e6cdb76f9.webp",
+          "duracion": 2531,
+          "reproducciones": 7,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-23",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 23/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-230926/",
+          "imagen": "/portadas-programas/1aedf1999fdce39311650a0967541e18.webp",
+          "duracion": 2449,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-16",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 16/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-160926/",
+          "imagen": "/portadas-programas/0f43af13281d3fab257f14476db491b1.webp",
+          "duracion": 2743,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-10",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 10/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-100626/",
+          "imagen": "/portadas-programas/8ab9b49122099a323bac7d25eac35f2e.webp",
+          "duracion": 2632,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-03",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 03/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-030626/",
+          "imagen": "/portadas-programas/e7a37e52c934cb2d911ce03947c7115c.webp",
+          "duracion": 2628,
+          "reproducciones": 41,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-27",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 27/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-270526/",
+          "imagen": "/portadas-programas/0dcb93c847cf794d2351c85f2793d40c.webp",
+          "duracion": 3126,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-20",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 20/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-200526/",
+          "imagen": "/portadas-programas/026961ee81fbc085858178cf107d0e44.webp",
+          "duracion": 2801,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-13",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 13/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-130526/",
+          "imagen": "/portadas-programas/3f6cfcd376d50428a172c84a728afb8d.webp",
+          "duracion": 2747,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-06",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 06/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-060526/",
+          "imagen": "/portadas-programas/7a43035ca436423974582cb5ccd30997.webp",
+          "duracion": 2721,
+          "reproducciones": 17,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-29",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 29/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-290426/",
+          "imagen": "/portadas-programas/b4cfc39b1d2268733e00114da6ac4496.webp",
+          "duracion": 2642,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-22",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 22/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-220426/",
+          "imagen": "/portadas-programas/9877853b879714673d090f5cf2505a22.webp",
+          "duracion": 2657,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-15",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 15/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211126/",
+          "imagen": "/portadas-programas/b65d583a32f0268c9b8e81964395e446.webp",
+          "duracion": 2642,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-08",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 08/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-080426/",
+          "imagen": "/portadas-programas/ec0a3b6b6fa80974501cb17a9c46f665.webp",
+          "duracion": 2532,
+          "reproducciones": 11,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-01",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 01/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-010426/",
+          "imagen": "/portadas-programas/23423b9593089eb75d64ac330b4f9b04.webp",
+          "duracion": 2689,
+          "reproducciones": 15,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-25",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 25/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-250326/",
+          "imagen": "/portadas-programas/e5c1c540be7205379e58effa66fc5c8c.webp",
+          "duracion": 2807,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-18",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 18/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-180326/",
+          "imagen": "/portadas-programas/99252d5b423ef603e7720ca862faae8c.webp",
+          "duracion": 3230,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-11",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 11/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110326/",
+          "imagen": "/portadas-programas/d5594112ae4a371798a35250ca3125b2.webp",
+          "duracion": 2975,
+          "reproducciones": 5,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-04",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 04/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-040326/",
+          "imagen": "/portadas-programas/ec66f74cffac256acbdeb45016264c5d.webp",
+          "duracion": 2640,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-25",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 25/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-250226/",
+          "imagen": "/portadas-programas/3209b7b4938075ee516a040f50625475.webp",
+          "duracion": 2939,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-11",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 11/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110226/",
+          "imagen": "/portadas-programas/c2137925bfe0ea74ac38fbc2ddb14d07.webp",
+          "duracion": 2718,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-04",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 04/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-040226/",
+          "imagen": "/portadas-programas/e636b04b8c183e7bfc5d0b94ae511ad3.webp",
+          "duracion": 2621,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-05",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 05/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-051225/",
+          "imagen": "/portadas-programas/b70927a94e5d8feabe76c3849c3e6afc.webp",
+          "duracion": 2702,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-21",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 21/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211125/",
+          "imagen": "/portadas-programas/8f2b58698bc7cd3b2e495470af5ec42c.webp",
+          "duracion": 3331,
+          "reproducciones": 6,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-07",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 07/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-071125/",
+          "imagen": "/portadas-programas/8a50ed27349f8fd9cce5f2abf5323730.webp",
+          "duracion": 2432,
+          "reproducciones": 6,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-31",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 31/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-311025/",
+          "imagen": "/portadas-programas/8bad22ee59e94f1163d6c62682937c99.webp",
+          "duracion": 2685,
+          "reproducciones": 6,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-10",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 10/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-101025/",
+          "imagen": "/portadas-programas/25137674dcf8508eb8e133fb4b77a581.webp",
+          "duracion": 2535,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-05-02",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 02/05/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-020525/",
+          "imagen": "/portadas-programas/929ee875cc209a0ba10154d8f0118c95.webp",
+          "duracion": 2429,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-04-11",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 11/04/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110425/",
+          "imagen": "/portadas-programas/fce32291cd229666a35528aeadee8779.webp",
+          "duracion": 3170,
+          "reproducciones": 41,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-03-07",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 07/03/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-070325/",
+          "imagen": "/portadas-programas/fef14b14c2cb473027cc5e7f28daa20e.webp",
+          "duracion": 2081,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-03-03",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 03/03/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-030325/",
+          "imagen": "/portadas-programas/bdc5210980ccff247f2950c18edd79b2.webp",
+          "duracion": 1877,
+          "reproducciones": 12,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-02-21",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 21/02/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-210225/",
+          "imagen": "/portadas-programas/0883649ab689c671e716c6d73f622cd0.webp",
+          "duracion": 2562,
+          "reproducciones": 10,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-02-07",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 07/02/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-070225/",
+          "imagen": "/portadas-programas/ceb4565733879077998c1fb354afe309.webp",
+          "duracion": 2643,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-01-24",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 24/01/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-240125/",
+          "imagen": "/portadas-programas/cc598bbe77cbaeaa23fd5b13babf5a77.webp",
+          "duracion": 2556,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-12-15",
+          "titulo": "Navidad",
+          "nombre_mixcloud": "Dr. Mambusenn - 15/12/24 - Navidad",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-151224-navidad/",
+          "imagen": "/portadas-programas/f4e97a7f29db9438c176cab4a313fbaa.webp",
+          "duracion": 2200,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-11-17",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 17/11/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-171123/",
+          "imagen": "/portadas-programas/980c95a2137d97d6f9a444234696104e.webp",
+          "duracion": 1780,
+          "reproducciones": 17,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-09-29",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 29/09/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-290923/",
+          "imagen": "/portadas-programas/55014edb2caef8c9e210393576bd17e2.webp",
+          "duracion": 2273,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-07-14",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 14/07/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-14072023/",
+          "imagen": "/portadas-programas/79867d6b15dbc34ebbe76fefa4dadd7f.webp",
+          "duracion": 1543,
+          "reproducciones": 24,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-06-23",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 23/06/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-23062023/",
+          "imagen": "/portadas-programas/1cb870f9c638320d78e1501d0b3448c9.webp",
+          "duracion": 1790,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-31",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 31/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-31032023/",
+          "imagen": "/portadas-programas/fa60618a538daa5abf314e81500485e1.webp",
+          "duracion": 1635,
+          "reproducciones": 10,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-24",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 24/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-24032023/",
+          "imagen": "/portadas-programas/22fe64a4d27b732ac14a2e59bb612677.webp",
+          "duracion": 1616,
+          "reproducciones": 7,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-17",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 17/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-17032023/",
+          "imagen": "/portadas-programas/48e3e5fb1b77ea7e80719aae745b6a22.webp",
+          "duracion": 1533,
+          "reproducciones": 3,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-10",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 10/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-10032023/",
+          "imagen": "/portadas-programas/cc33bfa6d22d6643b6439ba560bd4f04.webp",
+          "duracion": 1590,
+          "reproducciones": 3,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-03",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 03/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-03032023/",
+          "imagen": "/portadas-programas/098c1255229dd9ad5ef6e13b6e90ad9d.webp",
+          "duracion": 1540,
+          "reproducciones": 5,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-24",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 24/02/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-24022023/",
+          "imagen": "/portadas-programas/926cadc79fc32812b6315ad6f13094b1.webp",
+          "duracion": 1690,
+          "reproducciones": 8,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-17",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 17/02/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-17022023/",
+          "imagen": "/portadas-programas/17dee9671bc1bd4fed59928c26914129.webp",
+          "duracion": 1663,
+          "reproducciones": 17,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-10",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 10/02/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-10022023/",
+          "imagen": "/portadas-programas/c19b04ee2f80f264db8a42f1d3ac3c22.webp",
+          "duracion": 1739,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-31",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 31/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-31012023/",
+          "imagen": "/portadas-programas/6b69c75aaed88e96ca2c2f86fd1404ae.webp",
+          "duracion": 2942,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-27",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 27/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-27012023/",
+          "imagen": "/portadas-programas/97b3d488dd4f94273611ba8f9ba8145a.webp",
+          "duracion": 1664,
+          "reproducciones": 2,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-20",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 20/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-20012023/",
+          "imagen": "/portadas-programas/894f606f7d5ad2b3f97961a5e11813cb.webp",
+          "duracion": 1596,
+          "reproducciones": 4,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-13",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 13/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-13012023/",
+          "imagen": "/portadas-programas/dfecd2bf73cf92a08058819eef47be79.webp",
+          "duracion": 1485,
+          "reproducciones": 5,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-30",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 30/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-30122022/",
+          "imagen": "/portadas-programas/abb8c038137ca08fe467196ff402daf3.webp",
+          "duracion": 1498,
+          "reproducciones": 2,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-23",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 23/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-23122022/",
+          "imagen": "/portadas-programas/86c02facb96838953dc5dede0e16840a.webp",
+          "duracion": 1498,
+          "reproducciones": 4,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-16",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn -  16/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-16122022/",
+          "imagen": "/portadas-programas/f2e0644c5007608b4926dac79ddbb1f9.webp",
+          "duracion": 1429,
+          "reproducciones": 3,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-02",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 2/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-2122022/",
+          "imagen": "/portadas-programas/ebb1c6502879851414a3580d55e827e9.webp",
+          "duracion": 1572,
+          "reproducciones": 4,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-11-18",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 18/11/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-18112022/",
+          "imagen": "/portadas-programas/08eb81c2610a2d84cc5498f455c82661.webp",
+          "duracion": 1495,
+          "reproducciones": 3,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-11-11",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 11/11/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-11112022/",
+          "imagen": "/portadas-programas/c85b59304ab0bcf5794b9c55b1ac65a2.webp",
+          "duracion": 1639,
+          "reproducciones": 2,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-11-04",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 4/11/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-4112022/",
+          "imagen": "/portadas-programas/bd09bc450f5db921ec04adc783552517.webp",
+          "duracion": 1581,
+          "reproducciones": 2,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-10-28",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Mambusenn - 28/10/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-28102022/",
+          "imagen": "/portadas-programas/b6fe8826bbda1a14a85e9bb9f08150d3.webp",
+          "duracion": 1549,
+          "reproducciones": 5,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-09-30",
+          "titulo": "",
+          "nombre_mixcloud": "Dr. Manbusenn - 30/9/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/dr-manbusenn-3092022/",
+          "imagen": "/portadas-programas/9ecbff0bdadfc3916b1cfd152fe08ff4.webp",
+          "duracion": 1523,
+          "reproducciones": 15,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "fifi-express",
       "nombre": "Fifi Express",
@@ -26,7 +646,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-201026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 940,
-          "reproducciones": 9,
+          "reproducciones": 10,
           "proveedor": "mixcloud"
         },
         {
@@ -3071,616 +3691,6 @@
           "imagen": "/portadas-programas/669e15eaf0c849be51d2136396c9222a.webp",
           "duracion": 2943,
           "reproducciones": 16,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "dr-mambusenn",
-      "nombre": "Dr. Mambusenn",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-14",
-      "activo": true,
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-14",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 14/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-141026/",
-          "imagen": "/portadas-programas/7bac7cbbd0263d9495c8f4c71bf7e803.webp",
-          "duracion": 2815,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 07/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-071026/",
-          "imagen": "/portadas-programas/260b7a13593665f13b063c9e6cdb76f9.webp",
-          "duracion": 2531,
-          "reproducciones": 7,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-23",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 23/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-230926/",
-          "imagen": "/portadas-programas/1aedf1999fdce39311650a0967541e18.webp",
-          "duracion": 2449,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-16",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 16/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-160926/",
-          "imagen": "/portadas-programas/0f43af13281d3fab257f14476db491b1.webp",
-          "duracion": 2743,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-06-10",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 10/06/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-100626/",
-          "imagen": "/portadas-programas/8ab9b49122099a323bac7d25eac35f2e.webp",
-          "duracion": 2632,
-          "reproducciones": 35,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-06-03",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 03/06/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-030626/",
-          "imagen": "/portadas-programas/e7a37e52c934cb2d911ce03947c7115c.webp",
-          "duracion": 2628,
-          "reproducciones": 41,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-27",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 27/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-270526/",
-          "imagen": "/portadas-programas/0dcb93c847cf794d2351c85f2793d40c.webp",
-          "duracion": 3126,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-20",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 20/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-200526/",
-          "imagen": "/portadas-programas/026961ee81fbc085858178cf107d0e44.webp",
-          "duracion": 2801,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-13",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 13/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-130526/",
-          "imagen": "/portadas-programas/3f6cfcd376d50428a172c84a728afb8d.webp",
-          "duracion": 2747,
-          "reproducciones": 12,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-06",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 06/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-060526/",
-          "imagen": "/portadas-programas/7a43035ca436423974582cb5ccd30997.webp",
-          "duracion": 2721,
-          "reproducciones": 17,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-29",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 29/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-290426/",
-          "imagen": "/portadas-programas/b4cfc39b1d2268733e00114da6ac4496.webp",
-          "duracion": 2642,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-22",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 22/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-220426/",
-          "imagen": "/portadas-programas/9877853b879714673d090f5cf2505a22.webp",
-          "duracion": 2657,
-          "reproducciones": 16,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-15",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 15/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211126/",
-          "imagen": "/portadas-programas/b65d583a32f0268c9b8e81964395e446.webp",
-          "duracion": 2642,
-          "reproducciones": 12,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-08",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 08/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-080426/",
-          "imagen": "/portadas-programas/ec0a3b6b6fa80974501cb17a9c46f665.webp",
-          "duracion": 2532,
-          "reproducciones": 11,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-01",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 01/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-010426/",
-          "imagen": "/portadas-programas/23423b9593089eb75d64ac330b4f9b04.webp",
-          "duracion": 2689,
-          "reproducciones": 15,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-25",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 25/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-250326/",
-          "imagen": "/portadas-programas/e5c1c540be7205379e58effa66fc5c8c.webp",
-          "duracion": 2807,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-18",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 18/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-180326/",
-          "imagen": "/portadas-programas/99252d5b423ef603e7720ca862faae8c.webp",
-          "duracion": 3230,
-          "reproducciones": 9,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-11",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 11/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110326/",
-          "imagen": "/portadas-programas/d5594112ae4a371798a35250ca3125b2.webp",
-          "duracion": 2975,
-          "reproducciones": 5,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-04",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 04/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-040326/",
-          "imagen": "/portadas-programas/ec66f74cffac256acbdeb45016264c5d.webp",
-          "duracion": 2640,
-          "reproducciones": 12,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-25",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 25/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-250226/",
-          "imagen": "/portadas-programas/3209b7b4938075ee516a040f50625475.webp",
-          "duracion": 2939,
-          "reproducciones": 9,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-11",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 11/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110226/",
-          "imagen": "/portadas-programas/c2137925bfe0ea74ac38fbc2ddb14d07.webp",
-          "duracion": 2718,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-04",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 04/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-040226/",
-          "imagen": "/portadas-programas/e636b04b8c183e7bfc5d0b94ae511ad3.webp",
-          "duracion": 2621,
-          "reproducciones": 9,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-05",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 05/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-051225/",
-          "imagen": "/portadas-programas/b70927a94e5d8feabe76c3849c3e6afc.webp",
-          "duracion": 2702,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-21",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 21/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211125/",
-          "imagen": "/portadas-programas/8f2b58698bc7cd3b2e495470af5ec42c.webp",
-          "duracion": 3331,
-          "reproducciones": 6,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-07",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 07/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-071125/",
-          "imagen": "/portadas-programas/8a50ed27349f8fd9cce5f2abf5323730.webp",
-          "duracion": 2432,
-          "reproducciones": 6,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-31",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 31/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-311025/",
-          "imagen": "/portadas-programas/8bad22ee59e94f1163d6c62682937c99.webp",
-          "duracion": 2685,
-          "reproducciones": 6,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-10",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 10/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-101025/",
-          "imagen": "/portadas-programas/25137674dcf8508eb8e133fb4b77a581.webp",
-          "duracion": 2535,
-          "reproducciones": 25,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-05-02",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 02/05/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-020525/",
-          "imagen": "/portadas-programas/929ee875cc209a0ba10154d8f0118c95.webp",
-          "duracion": 2429,
-          "reproducciones": 20,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-04-11",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 11/04/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-110425/",
-          "imagen": "/portadas-programas/fce32291cd229666a35528aeadee8779.webp",
-          "duracion": 3170,
-          "reproducciones": 41,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-03-07",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 07/03/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-070325/",
-          "imagen": "/portadas-programas/fef14b14c2cb473027cc5e7f28daa20e.webp",
-          "duracion": 2081,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-03-03",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 03/03/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-030325/",
-          "imagen": "/portadas-programas/bdc5210980ccff247f2950c18edd79b2.webp",
-          "duracion": 1877,
-          "reproducciones": 12,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-02-21",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 21/02/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-210225/",
-          "imagen": "/portadas-programas/0883649ab689c671e716c6d73f622cd0.webp",
-          "duracion": 2562,
-          "reproducciones": 10,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-02-07",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 07/02/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-070225/",
-          "imagen": "/portadas-programas/ceb4565733879077998c1fb354afe309.webp",
-          "duracion": 2643,
-          "reproducciones": 16,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-01-24",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 24/01/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-240125/",
-          "imagen": "/portadas-programas/cc598bbe77cbaeaa23fd5b13babf5a77.webp",
-          "duracion": 2556,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-12-15",
-          "titulo": "Navidad",
-          "nombre_mixcloud": "Dr. Mambusenn - 15/12/24 - Navidad",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-151224-navidad/",
-          "imagen": "/portadas-programas/f4e97a7f29db9438c176cab4a313fbaa.webp",
-          "duracion": 2200,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-11-17",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 17/11/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-171123/",
-          "imagen": "/portadas-programas/980c95a2137d97d6f9a444234696104e.webp",
-          "duracion": 1780,
-          "reproducciones": 17,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-09-29",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 29/09/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-290923/",
-          "imagen": "/portadas-programas/55014edb2caef8c9e210393576bd17e2.webp",
-          "duracion": 2273,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-07-14",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 14/07/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-14072023/",
-          "imagen": "/portadas-programas/79867d6b15dbc34ebbe76fefa4dadd7f.webp",
-          "duracion": 1543,
-          "reproducciones": 24,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-06-23",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 23/06/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-23062023/",
-          "imagen": "/portadas-programas/1cb870f9c638320d78e1501d0b3448c9.webp",
-          "duracion": 1790,
-          "reproducciones": 31,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-31",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 31/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-31032023/",
-          "imagen": "/portadas-programas/fa60618a538daa5abf314e81500485e1.webp",
-          "duracion": 1635,
-          "reproducciones": 10,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-24",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 24/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-24032023/",
-          "imagen": "/portadas-programas/22fe64a4d27b732ac14a2e59bb612677.webp",
-          "duracion": 1616,
-          "reproducciones": 7,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-17",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 17/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-17032023/",
-          "imagen": "/portadas-programas/48e3e5fb1b77ea7e80719aae745b6a22.webp",
-          "duracion": 1533,
-          "reproducciones": 3,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-10",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 10/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-10032023/",
-          "imagen": "/portadas-programas/cc33bfa6d22d6643b6439ba560bd4f04.webp",
-          "duracion": 1590,
-          "reproducciones": 3,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-03",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 03/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-03032023/",
-          "imagen": "/portadas-programas/098c1255229dd9ad5ef6e13b6e90ad9d.webp",
-          "duracion": 1540,
-          "reproducciones": 5,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-24",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 24/02/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-24022023/",
-          "imagen": "/portadas-programas/926cadc79fc32812b6315ad6f13094b1.webp",
-          "duracion": 1690,
-          "reproducciones": 8,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-17",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 17/02/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-17022023/",
-          "imagen": "/portadas-programas/17dee9671bc1bd4fed59928c26914129.webp",
-          "duracion": 1663,
-          "reproducciones": 17,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-10",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 10/02/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-10022023/",
-          "imagen": "/portadas-programas/c19b04ee2f80f264db8a42f1d3ac3c22.webp",
-          "duracion": 1739,
-          "reproducciones": 25,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-31",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 31/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-31012023/",
-          "imagen": "/portadas-programas/6b69c75aaed88e96ca2c2f86fd1404ae.webp",
-          "duracion": 2942,
-          "reproducciones": 9,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-27",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 27/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-27012023/",
-          "imagen": "/portadas-programas/97b3d488dd4f94273611ba8f9ba8145a.webp",
-          "duracion": 1664,
-          "reproducciones": 2,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-20",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 20/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-20012023/",
-          "imagen": "/portadas-programas/894f606f7d5ad2b3f97961a5e11813cb.webp",
-          "duracion": 1596,
-          "reproducciones": 4,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-13",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 13/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-13012023/",
-          "imagen": "/portadas-programas/dfecd2bf73cf92a08058819eef47be79.webp",
-          "duracion": 1485,
-          "reproducciones": 5,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-30",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 30/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-30122022/",
-          "imagen": "/portadas-programas/abb8c038137ca08fe467196ff402daf3.webp",
-          "duracion": 1498,
-          "reproducciones": 2,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-23",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 23/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-23122022/",
-          "imagen": "/portadas-programas/86c02facb96838953dc5dede0e16840a.webp",
-          "duracion": 1498,
-          "reproducciones": 4,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-16",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn -  16/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-16122022/",
-          "imagen": "/portadas-programas/f2e0644c5007608b4926dac79ddbb1f9.webp",
-          "duracion": 1429,
-          "reproducciones": 3,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-02",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 2/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-2122022/",
-          "imagen": "/portadas-programas/ebb1c6502879851414a3580d55e827e9.webp",
-          "duracion": 1572,
-          "reproducciones": 4,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-11-18",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 18/11/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-18112022/",
-          "imagen": "/portadas-programas/08eb81c2610a2d84cc5498f455c82661.webp",
-          "duracion": 1495,
-          "reproducciones": 3,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-11-11",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 11/11/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-11112022/",
-          "imagen": "/portadas-programas/c85b59304ab0bcf5794b9c55b1ac65a2.webp",
-          "duracion": 1639,
-          "reproducciones": 2,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-11-04",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 4/11/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-4112022/",
-          "imagen": "/portadas-programas/bd09bc450f5db921ec04adc783552517.webp",
-          "duracion": 1581,
-          "reproducciones": 2,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-10-28",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Mambusenn - 28/10/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-28102022/",
-          "imagen": "/portadas-programas/b6fe8826bbda1a14a85e9bb9f08150d3.webp",
-          "duracion": 1549,
-          "reproducciones": 5,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-09-30",
-          "titulo": "",
-          "nombre_mixcloud": "Dr. Manbusenn - 30/9/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/dr-manbusenn-3092022/",
-          "imagen": "/portadas-programas/9ecbff0bdadfc3916b1cfd152fe08ff4.webp",
-          "duracion": 1523,
-          "reproducciones": 15,
           "proveedor": "mixcloud"
         }
       ]
