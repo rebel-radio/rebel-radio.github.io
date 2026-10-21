@@ -1,6 +1,55 @@
 {
-  "generado": "2026-10-21T20:01:02",
+  "generado": "2026-10-21T20:15:09",
   "programas": [
+    {
+      "id": "fifi-express",
+      "nombre": "Fifi Express",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-21",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-21",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 21/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-211026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 979,
+          "reproducciones": 1,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-20",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 20/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-201026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 940,
+          "reproducciones": 9,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-19",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 19/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 992,
+          "reproducciones": 6,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-16",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 16/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-161026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 903,
+          "reproducciones": 11,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "el-anden",
       "nombre": "EL ANDÉN con Jorge Pascual",
@@ -15,7 +64,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 13,
+          "reproducciones": 14,
           "proveedor": "mixcloud"
         },
         {
@@ -126,45 +175,6 @@
           "imagen": "/portadas-programas/bf7a4bd726dd2e0fbbc62e310973b4d2.webp",
           "duracion": 3478,
           "reproducciones": 36,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "fifi-express",
-      "nombre": "Fifi Express",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-20",
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-20",
-          "titulo": "",
-          "nombre_mixcloud": "Fifi Express - 20/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-201026/",
-          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
-          "duracion": 940,
-          "reproducciones": 9,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-19",
-          "titulo": "",
-          "nombre_mixcloud": "Fifi Express - 19/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191026/",
-          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
-          "duracion": 992,
-          "reproducciones": 6,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-16",
-          "titulo": "",
-          "nombre_mixcloud": "Fifi Express - 16/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-161026/",
-          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
-          "duracion": 903,
-          "reproducciones": 11,
           "proveedor": "mixcloud"
         }
       ]
