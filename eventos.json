@@ -1,5 +1,5 @@
 {
-  "total": 17,
+  "total": 18,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -83,6 +83,12 @@
       "fecha": "2027-03-06",
       "nombre": "XII Rocking & Rodding",
       "imagen": "eventos/2027-03-06_XII Rocking & Rodding.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-04-21",
+      "nombre": "All Stars",
+      "imagen": "eventos/2027-04-21_All Stars.jpg",
       "participacion_rebel": false
     },
     {
