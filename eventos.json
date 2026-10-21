@@ -1,5 +1,5 @@
 {
-  "total": 21,
+  "total": 22,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -77,6 +77,12 @@
       "fecha": "2026-11-20",
       "nombre": "Sweet 50´s Union",
       "imagen": "eventos/2026-11-20_Sweet 50´s Union.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-12-19",
+      "nombre": "Los Torontos",
+      "imagen": "eventos/2026-12-19_Los Torontos.jpg",
       "participacion_rebel": false
     },
     {
