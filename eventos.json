@@ -1,6 +1,12 @@
 {
-  "total": 14,
+  "total": 15,
   "eventos": [
+    {
+      "fecha": "2026-10-24",
+      "nombre": "Rock around the beer",
+      "imagen": "eventos/2026-10-24_Rock around the beer.jpg",
+      "participacion_rebel": false
+    },
     {
       "fecha": "2026-10-24",
       "nombre": "The Kickers",
