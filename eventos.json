@@ -1,5 +1,5 @@
 {
-  "total": 20,
+  "total": 21,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -17,6 +17,12 @@
       "fecha": "2026-10-25",
       "nombre": "Doo Wop Fever 8",
       "imagen": "eventos/2026-10-25_Doo Wop Fever 8.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-10-25",
+      "nombre": "Rocking Bumpers",
+      "imagen": "eventos/2026-10-25_Rocking Bumpers.jpg",
       "participacion_rebel": false
     },
     {
