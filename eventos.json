@@ -1,5 +1,5 @@
 {
-  "total": 18,
+  "total": 20,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -38,6 +38,12 @@
       "participacion_rebel": false
     },
     {
+      "fecha": "2026-11-12",
+      "nombre": "The Real Deal",
+      "imagen": "eventos/2026-11-12_The Real Deal.jpg",
+      "participacion_rebel": false
+    },
+    {
       "fecha": "2026-11-14",
       "nombre": "10 Good Rockin Valladolid",
       "imagen": "eventos/2026-11-14_REBEL_10 Good Rockin Valladolid.jpg",
@@ -53,6 +59,12 @@
       "fecha": "2026-11-14",
       "nombre": "The Hot Jivers",
       "imagen": "eventos/2026-11-14_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-15",
+      "nombre": "The Real Deal",
+      "imagen": "eventos/2026-11-15_The Real Deal.jpg",
       "participacion_rebel": false
     },
     {
