@@ -1,6 +1,12 @@
 {
-  "total": 24,
+  "total": 25,
   "eventos": [
+    {
+      "fecha": "2026-10-24",
+      "nombre": "Local Crazy Rockers",
+      "imagen": "eventos/2026-10-24_Local Crazy Rockers.jpg",
+      "participacion_rebel": false
+    },
     {
       "fecha": "2026-10-24",
       "nombre": "Rock around the beer",
