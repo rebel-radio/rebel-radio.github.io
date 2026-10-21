@@ -1,5 +1,5 @@
 {
-  "total": 23,
+  "total": 24,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -23,6 +23,12 @@
       "fecha": "2026-10-25",
       "nombre": "Rocking Bumpers",
       "imagen": "eventos/2026-10-25_Rocking Bumpers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-10-28",
+      "nombre": "Billywood Crakers",
+      "imagen": "eventos/2026-10-28_Billywood Crakers.jpg",
       "participacion_rebel": false
     },
     {
