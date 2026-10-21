@@ -1,5 +1,5 @@
 {
-  "total": 13,
+  "total": 14,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -23,6 +23,12 @@
       "fecha": "2026-11-06",
       "nombre": "Top Jive Rockabilly",
       "imagen": "eventos/2026-11-06_Top Jive Rockabilly.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-07",
+      "nombre": "Celso piano killer & His band",
+      "imagen": "eventos/2026-11-07_Celso piano killer & His band.jpg",
       "participacion_rebel": false
     },
     {
