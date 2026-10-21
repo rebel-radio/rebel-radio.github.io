@@ -1,5 +1,5 @@
 {
-  "total": 10,
+  "total": 13,
   "eventos": [
     {
       "fecha": "2026-10-24",
@@ -27,6 +27,12 @@
     },
     {
       "fecha": "2026-11-14",
+      "nombre": "The Hot Jivers",
+      "imagen": "eventos/2026-11-14_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-14",
       "nombre": "10 Good Rockin Valladolid",
       "imagen": "eventos/2026-11-14_REBEL_10 Good Rockin Valladolid.jpg",
       "participacion_rebel": true
@@ -35,6 +41,18 @@
       "fecha": "2026-11-20",
       "nombre": "Sweet 50´s Union",
       "imagen": "eventos/2026-11-20_Sweet 50´s Union.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-12-19",
+      "nombre": "The Hot Jivers",
+      "imagen": "eventos/2026-12-19_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-01-16",
+      "nombre": "The Hot Jivers",
+      "imagen": "eventos/2027-01-16_The Hot Jivers.jpg",
       "participacion_rebel": false
     },
     {
