@@ -1,6 +1,66 @@
 {
-  "generado": "2026-10-22T22:01:05",
+  "generado": "2026-10-22T22:15:09",
   "programas": [
+    {
+      "id": "victor-melchor",
+      "nombre": "Esto sí que es rocanrol !!!",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-22",
+      "activo": true,
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-22",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 22/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-221026/",
+          "imagen": "/portadas-programas/848a2574adff7a397886807b000288b3.webp",
+          "duracion": 2691,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 15/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-151026/",
+          "imagen": "/portadas-programas/75132c47b583736b904169cc8b871ff9.webp",
+          "duracion": 3034,
+          "reproducciones": 17,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-08",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 08/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-081026/",
+          "imagen": "/portadas-programas/85c3ef61387906ac63e8adec0923cfa3.webp",
+          "duracion": 3244,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-01",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 01/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-011026/",
+          "imagen": "/portadas-programas/2c5e062c61b7f6d18548a15fa73ce7bf.webp",
+          "duracion": 3104,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-24",
+          "titulo": "",
+          "nombre_mixcloud": "Esto sí que es rocanrol !!!-24/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-_24-09-26/",
+          "imagen": "/portadas-programas/669e15eaf0c849be51d2136396c9222a.webp",
+          "duracion": 2943,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "dr-mambusenn",
       "nombre": "Dr. Mambusenn",
@@ -686,7 +746,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 23,
+          "reproducciones": 24,
           "proveedor": "mixcloud"
         },
         {
@@ -3641,56 +3701,6 @@
           "imagen": "/portadas-programas/fe4c10e452919156d4e7d16ac1e33691.webp",
           "duracion": 2551,
           "reproducciones": 21,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "victor-melchor",
-      "nombre": "Esto sí que es rocanrol !!!",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-15",
-      "activo": true,
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-15",
-          "titulo": "",
-          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 15/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-151026/",
-          "imagen": "/portadas-programas/75132c47b583736b904169cc8b871ff9.webp",
-          "duracion": 3034,
-          "reproducciones": 17,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": "",
-          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 08/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-081026/",
-          "imagen": "/portadas-programas/85c3ef61387906ac63e8adec0923cfa3.webp",
-          "duracion": 3244,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-01",
-          "titulo": "",
-          "nombre_mixcloud": "Esto sí que es rocanrol !!! - 01/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-011026/",
-          "imagen": "/portadas-programas/2c5e062c61b7f6d18548a15fa73ce7bf.webp",
-          "duracion": 3104,
-          "reproducciones": 26,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-24",
-          "titulo": "",
-          "nombre_mixcloud": "Esto sí que es rocanrol !!!-24/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-_24-09-26/",
-          "imagen": "/portadas-programas/669e15eaf0c849be51d2136396c9222a.webp",
-          "duracion": 2943,
-          "reproducciones": 16,
           "proveedor": "mixcloud"
         }
       ]
