@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-22T21:15:11",
+  "generado": "2026-10-22T21:30:08",
   "programas": [
     {
       "id": "dr-mambusenn",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211026/",
           "imagen": "/portadas-programas/83ac6d3c2d04c35a6c3bb5f7c87155c5.webp",
           "duracion": 2563,
-          "reproducciones": 4,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -193,7 +193,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 21,
+          "reproducciones": 23,
           "proveedor": "mixcloud"
         },
         {
@@ -203,7 +203,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
           "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
           "duracion": 3104,
-          "reproducciones": 46,
+          "reproducciones": 47,
           "proveedor": "mixcloud"
         },
         {
