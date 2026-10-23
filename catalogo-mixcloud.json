@@ -1,6 +1,135 @@
 {
-  "generado": "2026-10-23T23:00:54",
+  "generado": "2026-10-23T23:15:11",
   "programas": [
+    {
+      "id": "skinny-jim",
+      "nombre": "Skinny Jim",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-23",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-23",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 23/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-231026/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 3079,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-22",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 22/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-220526/",
+          "imagen": "/portadas-programas/6a6505c266bd6c36252f2ea41774a7cc.webp",
+          "duracion": 2716,
+          "reproducciones": 41,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-20",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 20/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-200326/",
+          "imagen": "/portadas-programas/c538f9050f2d953de1bbbc0ba93f453c.webp",
+          "duracion": 3233,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-27",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 27/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-270226/",
+          "imagen": "/portadas-programas/760cbb1678404a6e59c5b9c48443217d.webp",
+          "duracion": 3272,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-05",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 05/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-050226/",
+          "imagen": "/portadas-programas/06578e4ca22d07d87313c902445b44a5.webp",
+          "duracion": 3190,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-16",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 16/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-160126/",
+          "imagen": "/portadas-programas/5521b145afd65ab02cc047f8831be0cd.webp",
+          "duracion": 2934,
+          "reproducciones": 27,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-13",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 13/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-131225/",
+          "imagen": "/portadas-programas/b95fefca2c69d0517f654677170b9bf4.webp",
+          "duracion": 3274,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-29",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 29/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-291125/",
+          "imagen": "/portadas-programas/1208760ba9d2317cbdce9b9164b4f17d.webp",
+          "duracion": 2962,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-07",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 07/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-071125/",
+          "imagen": "/portadas-programas/9f7ce136ed94bac3dce1b489513b1aba.webp",
+          "duracion": 3163,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-10",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 10/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-101025/",
+          "imagen": "/portadas-programas/f5dfaa64ee7b212dc2bb7adae904482e.webp",
+          "duracion": 3329,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-09-19",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 19/09/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-190925/",
+          "imagen": "/portadas-programas/2953e61b739cd78930d7215cb9927cb6.webp",
+          "duracion": 3281,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-06",
+          "titulo": "",
+          "nombre_mixcloud": "Skinny Jim - 06/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-060625/",
+          "imagen": "/portadas-programas/0278080211a5c8832e8ee24f8e0c5d90.webp",
+          "duracion": 3154,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "fifi-express",
       "nombre": "Fifi Express",
@@ -796,135 +925,6 @@
           "imagen": "/portadas-programas/bbfcab8c7d9fe800eb7c326fba7c5861.webp",
           "duracion": 3008,
           "reproducciones": 38,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "skinny-jim",
-      "nombre": "Skinny Jim",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-05-22",
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-05-22",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 22/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-220526/",
-          "imagen": "/portadas-programas/6a6505c266bd6c36252f2ea41774a7cc.webp",
-          "duracion": 2716,
-          "reproducciones": 41,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-20",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 20/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-200326/",
-          "imagen": "/portadas-programas/c538f9050f2d953de1bbbc0ba93f453c.webp",
-          "duracion": 3233,
-          "reproducciones": 14,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-27",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 27/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-270226/",
-          "imagen": "/portadas-programas/760cbb1678404a6e59c5b9c48443217d.webp",
-          "duracion": 3272,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-05",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 05/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-050226/",
-          "imagen": "/portadas-programas/06578e4ca22d07d87313c902445b44a5.webp",
-          "duracion": 3190,
-          "reproducciones": 31,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-16",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 16/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-160126/",
-          "imagen": "/portadas-programas/5521b145afd65ab02cc047f8831be0cd.webp",
-          "duracion": 2934,
-          "reproducciones": 27,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-13",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 13/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-131225/",
-          "imagen": "/portadas-programas/b95fefca2c69d0517f654677170b9bf4.webp",
-          "duracion": 3274,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-29",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 29/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-291125/",
-          "imagen": "/portadas-programas/1208760ba9d2317cbdce9b9164b4f17d.webp",
-          "duracion": 2962,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-07",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 07/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-071125/",
-          "imagen": "/portadas-programas/9f7ce136ed94bac3dce1b489513b1aba.webp",
-          "duracion": 3163,
-          "reproducciones": 29,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-10",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 10/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-101025/",
-          "imagen": "/portadas-programas/f5dfaa64ee7b212dc2bb7adae904482e.webp",
-          "duracion": 3329,
-          "reproducciones": 20,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-09-19",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 19/09/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-190925/",
-          "imagen": "/portadas-programas/2953e61b739cd78930d7215cb9927cb6.webp",
-          "duracion": 3281,
-          "reproducciones": 26,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-06-06",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 06/06/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-060625/",
-          "imagen": "/portadas-programas/0278080211a5c8832e8ee24f8e0c5d90.webp",
-          "duracion": 3154,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-05-09",
-          "titulo": "",
-          "nombre_mixcloud": "Skinny Jim - 09/05/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-090525/",
-          "imagen": "/portadas-programas/46784b257d79a66e45317b62f47331f3.webp",
-          "duracion": 3110,
-          "reproducciones": 29,
           "proveedor": "mixcloud"
         }
       ]
