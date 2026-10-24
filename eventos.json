@@ -1,24 +1,6 @@
 {
-  "total": 26,
+  "total": 23,
   "eventos": [
-    {
-      "fecha": "2026-10-24",
-      "nombre": "Local Crazy Rockers",
-      "imagen": "eventos/2026-10-24_Local Crazy Rockers.jpg",
-      "participacion_rebel": false
-    },
-    {
-      "fecha": "2026-10-24",
-      "nombre": "Rock around the beer",
-      "imagen": "eventos/2026-10-24_Rock around the beer.jpg",
-      "participacion_rebel": false
-    },
-    {
-      "fecha": "2026-10-24",
-      "nombre": "The Kickers",
-      "imagen": "eventos/2026-10-24_The Kickers.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-10-25",
       "nombre": "Doo Wop Fever 8",
