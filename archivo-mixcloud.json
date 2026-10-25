@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-24T05:15:11",
+  "generado": "2026-10-25T05:15:07",
   "programas": [
     {
       "id": "skinny-jim",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-231026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3079,
-          "reproducciones": 1,
+          "reproducciones": 5,
           "proveedor": "mixcloud"
         },
         {
@@ -486,7 +486,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-231026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 908,
-          "reproducciones": 1,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -496,7 +496,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-211026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 979,
-          "reproducciones": 7,
+          "reproducciones": 8,
           "proveedor": "mixcloud"
         },
         {
@@ -546,7 +546,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-221026/",
           "imagen": "/portadas-programas/848a2574adff7a397886807b000288b3.webp",
           "duracion": 2691,
-          "reproducciones": 4,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -606,7 +606,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-211026/",
           "imagen": "/portadas-programas/83ac6d3c2d04c35a6c3bb5f7c87155c5.webp",
           "duracion": 2563,
-          "reproducciones": 6,
+          "reproducciones": 7,
           "proveedor": "mixcloud"
         },
         {
@@ -1226,7 +1226,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 29,
+          "reproducciones": 30,
           "proveedor": "mixcloud"
         },
         {
@@ -1236,7 +1236,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
           "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
           "duracion": 3104,
-          "reproducciones": 48,
+          "reproducciones": 49,
           "proveedor": "mixcloud"
         },
         {
@@ -1246,7 +1246,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-061026/",
           "imagen": "/portadas-programas/d27df44fc4523994fca81454b5baca11.webp",
           "duracion": 3295,
-          "reproducciones": 34,
+          "reproducciones": 35,
           "proveedor": "mixcloud"
         },
         {
