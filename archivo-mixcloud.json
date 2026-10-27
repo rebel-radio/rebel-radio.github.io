@@ -1,6 +1,1096 @@
 {
-  "generado": "2026-10-27T23:01:38",
+  "generado": "2026-10-27T23:15:13",
   "programas": [
+    {
+      "id": "el-anden",
+      "nombre": "EL ANDÉN con Jorge Pascual",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-27",
+      "activo": true,
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-27",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-271026/",
+          "imagen": "/portadas-programas/4e485afce01e5544875ea3c432acb09a.webp",
+          "duracion": 3092,
+          "reproducciones": 1,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-20",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
+          "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
+          "duracion": 3298,
+          "reproducciones": 40,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-13",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
+          "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
+          "duracion": 3104,
+          "reproducciones": 50,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-06",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 06/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-061026/",
+          "imagen": "/portadas-programas/d27df44fc4523994fca81454b5baca11.webp",
+          "duracion": 3295,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-29",
+          "titulo": "",
+          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 29/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-290926/",
+          "imagen": "/portadas-programas/04316a4ebfdded33243a37f1ae124caf.webp",
+          "duracion": 3228,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-22",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-220926/",
+          "imagen": "/portadas-programas/a22eaa3f7678b91d5b9954fb62ca16bd.webp",
+          "duracion": 3298,
+          "reproducciones": 50,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/09/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-150926/",
+          "imagen": "/portadas-programas/51a4301492a2cb7e909e2e1fcd893f81.webp",
+          "duracion": 3299,
+          "reproducciones": 63,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-09",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 09/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-090626/",
+          "imagen": "/portadas-programas/b80a2e24c4edbb33571e2db4abbd4a76.webp",
+          "duracion": 7195,
+          "reproducciones": 110,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-02",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-020626/",
+          "imagen": "/portadas-programas/1f4966de47d61625a954bb5f3c2e772f.webp",
+          "duracion": 3479,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-26",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-260526/",
+          "imagen": "/portadas-programas/427e213c1211c9afb89c5270216208b0.webp",
+          "duracion": 3480,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-19",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-190526/",
+          "imagen": "/portadas-programas/187ec18ff6c4777de2ba6c7954814ccd.webp",
+          "duracion": 3324,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-12",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-120526/",
+          "imagen": "/portadas-programas/6dcff53e5a12f1f7c477b85fc31e4e84.webp",
+          "duracion": 3355,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-05",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 05/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-050526/",
+          "imagen": "/portadas-programas/bf7a4bd726dd2e0fbbc62e310973b4d2.webp",
+          "duracion": 3478,
+          "reproducciones": 36,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-28",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-280426/",
+          "imagen": "/portadas-programas/468b1347d6aacf0af02a958a4891ef43.webp",
+          "duracion": 3403,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-21",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-210426/",
+          "imagen": "/portadas-programas/7060901256013c11d24b1eeff4fd9d85.webp",
+          "duracion": 3384,
+          "reproducciones": 48,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-14",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-140426/",
+          "imagen": "/portadas-programas/27fa382b7a80c6c90d1a92e802d86836.webp",
+          "duracion": 3375,
+          "reproducciones": 42,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070426/",
+          "imagen": "/portadas-programas/9a0dd74bf23c938b798f02e6d9dfc5e6.webp",
+          "duracion": 3375,
+          "reproducciones": 40,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-31",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 31/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-310326/",
+          "imagen": "/portadas-programas/1e9ff76714a924c3d3630c7036364f03.webp",
+          "duracion": 3446,
+          "reproducciones": 24,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240326/",
+          "imagen": "/portadas-programas/98a4c37877069ca2a57e7032da65bc2f.webp",
+          "duracion": 3280,
+          "reproducciones": 36,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-17",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-170326/",
+          "imagen": "/portadas-programas/b12dd859b7e1c0d713b7ac3f0fd5698e.webp",
+          "duracion": 3351,
+          "reproducciones": 37,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100326/",
+          "imagen": "/portadas-programas/fb990224ddce31aae26f066fd2cd77cf.webp",
+          "duracion": 3337,
+          "reproducciones": 46,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-03",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030326/",
+          "imagen": "/portadas-programas/76a4a9dcb6f31bdc68f0dc879d495a74.webp",
+          "duracion": 3351,
+          "reproducciones": 39,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240226/",
+          "imagen": "/portadas-programas/a1d1e2a2bc241f180e39b75610809fa9.webp",
+          "duracion": 3360,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100226/",
+          "imagen": "/portadas-programas/390053a4b0a80d76999d2ba65536e8ff.webp",
+          "duracion": 3166,
+          "reproducciones": 46,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-03",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030226/",
+          "imagen": "/portadas-programas/7083774a57ce49f7fab921da03fe1d56.webp",
+          "duracion": 3356,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-27",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270126/",
+          "imagen": "/portadas-programas/7bba56446669d993fd9f4a163a37c2f0.webp",
+          "duracion": 3358,
+          "reproducciones": 49,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-01-20",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/01/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-200126/",
+          "imagen": "/portadas-programas/63ce36ddd8a42e5b81beaff7e80473cf.webp",
+          "duracion": 3400,
+          "reproducciones": 39,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-23",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 23/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-231225/",
+          "imagen": "/portadas-programas/ab5e5b2f47e43ce3e8992f997d519013.webp",
+          "duracion": 3410,
+          "reproducciones": 86,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-16",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 16/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-161225/",
+          "imagen": "/portadas-programas/3be98b5750cfb466451c1a574f98a4ae.webp",
+          "duracion": 3379,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-12-02",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/12/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-021225/",
+          "imagen": "/portadas-programas/3ddf09b00185a788b0f16dc590728e68.webp",
+          "duracion": 3404,
+          "reproducciones": 52,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-25",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-251125/",
+          "imagen": "/portadas-programas/fc72f8e196e9f0774c3d47c610fe34e8.webp",
+          "duracion": 3340,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-11-11",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/11/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-111125/",
+          "imagen": "/portadas-programas/7b766c95cd5dad6953685ff7f3725733.webp",
+          "duracion": 3346,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-28",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-281025/",
+          "imagen": "/portadas-programas/5503db241a7eed158725c79b198ea246.webp",
+          "duracion": 3326,
+          "reproducciones": 40,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-14",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-141025/",
+          "imagen": "/portadas-programas/cf952db9364973887f52c0967b9eba23.webp",
+          "duracion": 3333,
+          "reproducciones": 59,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-10-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/10/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-071025/",
+          "imagen": "/portadas-programas/68c73a58f33a4a9dd1eefb7335185af5.webp",
+          "duracion": 3366,
+          "reproducciones": 43,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-09-30",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 30/9/2025",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-3092025/",
+          "imagen": "/portadas-programas/7303a8ccec78d0d5559e576391608579.webp",
+          "duracion": 3306,
+          "reproducciones": 39,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-09-23",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 23/09/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-230925/",
+          "imagen": "/portadas-programas/a3428c5ea8e58486482247cb2f4e183f.webp",
+          "duracion": 3333,
+          "reproducciones": 45,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240625/",
+          "imagen": "/portadas-programas/ab2c7fc84556b48f81406b6df26b4bf2.webp",
+          "duracion": 3335,
+          "reproducciones": 58,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-17",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-170625/",
+          "imagen": "/portadas-programas/acbb52fb1ebeca8c7bfa70325e876eb6.webp",
+          "duracion": 3411,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100625/",
+          "imagen": "/portadas-programas/aad74c252e49a041c8988accad55afb8.webp",
+          "duracion": 3340,
+          "reproducciones": 38,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-06-03",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/06/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030625/",
+          "imagen": "/portadas-programas/92b063a9bc9811d428773018ebdae460.webp",
+          "duracion": 3351,
+          "reproducciones": 44,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-05-27",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/05/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270525/",
+          "imagen": "/portadas-programas/67f50a991f68d475edfcb1b13ce6156a.webp",
+          "duracion": 3335,
+          "reproducciones": 58,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-05-06",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 06/05/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-060525/",
+          "imagen": "/portadas-programas/c0e3d397804a85c971eb1a8e7bd124bc.webp",
+          "duracion": 3298,
+          "reproducciones": 62,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-04-22",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/04/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-220425/",
+          "imagen": "/portadas-programas/979f1a74b047d292677c720b77d54400.webp",
+          "duracion": 3287,
+          "reproducciones": 48,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-04-08",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 08/04/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-080425/",
+          "imagen": "/portadas-programas/f8013a229789d083b9afd9e2ca7e9f0a.webp",
+          "duracion": 3325,
+          "reproducciones": 49,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-04-01",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 01/04/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-010425/",
+          "imagen": "/portadas-programas/57c8ec8a341dac4bd3336a31fea2b1df.webp",
+          "duracion": 3305,
+          "reproducciones": 42,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-03-18",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 18/03/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-180325/",
+          "imagen": "/portadas-programas/b465a27396b99fb85f3a4a7a583a326a.webp",
+          "duracion": 3287,
+          "reproducciones": 48,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-02-25",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/02/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-250225/",
+          "imagen": "/portadas-programas/2383202ee2dbd77fdfb740ad6b8dbe05.webp",
+          "duracion": 3267,
+          "reproducciones": 180,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-02-04",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/02/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-040225/",
+          "imagen": "/portadas-programas/7d69bc29ccd3fddc11cfed6423ba2fc2.webp",
+          "duracion": 3303,
+          "reproducciones": 48,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-01-28",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/01/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-280125/",
+          "imagen": "/portadas-programas/3442acc30b15514c9c9c2f79f6825e06.webp",
+          "duracion": 3298,
+          "reproducciones": 56,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-01-21",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/01/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-210125/",
+          "imagen": "/portadas-programas/b551ccf8f7eefdf4eda29d1f6f8d1960.webp",
+          "duracion": 3280,
+          "reproducciones": 36,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2025-01-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/01/25",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070125/",
+          "imagen": "/portadas-programas/e3ddd9a3309e2b93fcdf7fc0b11cf4c9.webp",
+          "duracion": 3299,
+          "reproducciones": 57,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-12-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/12/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241224/",
+          "imagen": "/portadas-programas/b4b62c9a0ea29071deb85a2873966a56.webp",
+          "duracion": 3280,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-12-17",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/12/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171224/",
+          "imagen": "/portadas-programas/7cf6a0e1810d73d532ac2974a660f499.webp",
+          "duracion": 3300,
+          "reproducciones": 20,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-12-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/12/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101224/",
+          "imagen": "/portadas-programas/2325bc6629f64a10a52ec4f191a065a7.webp",
+          "duracion": 3299,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-11-25",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/11/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-251124/",
+          "imagen": "/portadas-programas/973f0d4da87057ac9123aae92f88c0d5.webp",
+          "duracion": 3250,
+          "reproducciones": 50,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-11-19",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/11/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-191124/",
+          "imagen": "/portadas-programas/040e2ef0486267dd6ac3faa72c93636f.webp",
+          "duracion": 3226,
+          "reproducciones": 39,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-11-12",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/11/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-121124/",
+          "imagen": "/portadas-programas/6b229251be0893208aa835072891708c.webp",
+          "duracion": 3336,
+          "reproducciones": 38,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-10-29",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 29/10/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-291024/",
+          "imagen": "/portadas-programas/e87e653ec3d0a796e915b4d6b5244c23.webp",
+          "duracion": 3324,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-10-22",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/10/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-221024/",
+          "imagen": "/portadas-programas/2b42732126c3f62b9cb934efbfe207fe.webp",
+          "duracion": 3135,
+          "reproducciones": 63,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-10-15",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/10/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-151024/",
+          "imagen": "/portadas-programas/de1442f9291ad8e8f1e78099acd75957.webp",
+          "duracion": 3296,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-09-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/09/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240924/",
+          "imagen": "/portadas-programas/fd37cbf715706f3056d9d1e119ea2ec6.webp",
+          "duracion": 3298,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-06-25",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/06/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-250624/",
+          "imagen": "/portadas-programas/22f07db2e4ab50f9ab2616494c712305.webp",
+          "duracion": 3278,
+          "reproducciones": 71,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-06-18",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual -18/06/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-180624/",
+          "imagen": "/portadas-programas/d6af6d82db783f9112ddf05b70c7dd7f.webp",
+          "duracion": 3100,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-06-11",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/06/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-110624/",
+          "imagen": "/portadas-programas/32d313741e5e53b466336c222046da6e.webp",
+          "duracion": 3197,
+          "reproducciones": 37,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-06-04",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/06/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-040624/",
+          "imagen": "/portadas-programas/c458437165551573c9b37af51fbe1f8c.webp",
+          "duracion": 3244,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-05-14",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/05/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-140524/",
+          "imagen": "/portadas-programas/2930f4585f43c57d2344c32a65b142b6.webp",
+          "duracion": 3193,
+          "reproducciones": 60,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-05-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/05/2024",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-07052024/",
+          "imagen": "/portadas-programas/c1f2d7af2f82f8b78d906b885e966bd4.webp",
+          "duracion": 3157,
+          "reproducciones": 62,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-04-16",
+          "titulo": "",
+          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 16/04/2024",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-16042024/",
+          "imagen": "/portadas-programas/77a169f43898fad42ee1238cf0821173.webp",
+          "duracion": 3289,
+          "reproducciones": 55,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-04-09",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 09/04/2024",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-09042024/",
+          "imagen": "/portadas-programas/f631926d441faa88c2f617671f6f20a2.webp",
+          "duracion": 3299,
+          "reproducciones": 34,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-04-02",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/04/2024",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-02042024/",
+          "imagen": "/portadas-programas/cb7848bff3e94a26ce332fb8efe0055d.webp",
+          "duracion": 3298,
+          "reproducciones": 39,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-03-26",
+          "titulo": "",
+          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 26/03/2024",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-26032024/",
+          "imagen": "/portadas-programas/74f0bc31731d15307b3ed35a13c02a93.webp",
+          "duracion": 3298,
+          "reproducciones": 44,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-03-19",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/03/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-190324/",
+          "imagen": "/portadas-programas/0c26611919eddd5803d0e109e2e2eba1.webp",
+          "duracion": 3298,
+          "reproducciones": 44,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-03-12",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/03/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-120324/",
+          "imagen": "/portadas-programas/add4518119d9b044be17cc9f32a2a016.webp",
+          "duracion": 3298,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-03-05",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 05/03/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-50324/",
+          "imagen": "/portadas-programas/7b90a3a430aa5b5cf95e35edd976518b.webp",
+          "duracion": 3298,
+          "reproducciones": 28,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-02-27",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/02/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270224/",
+          "imagen": "/portadas-programas/14f41f2288ed778373f07d14434142ee.webp",
+          "duracion": 3297,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-02-20",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/02/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-200224/",
+          "imagen": "/portadas-programas/8af5c360a1d9fd2c28ee31d6a62c77b5.webp",
+          "duracion": 2972,
+          "reproducciones": 47,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-02-13",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/02/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-130224/",
+          "imagen": "/portadas-programas/c1fd0a1c5abb06772d4150fce038b277.webp",
+          "duracion": 2771,
+          "reproducciones": 31,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2024-01-16",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDEN con Jorge Pascual - 16/01/24",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-160124/",
+          "imagen": "/portadas-programas/b5faef4fc6df233c1add3214758e4a71.webp",
+          "duracion": 3594,
+          "reproducciones": 42,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-12-26",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/12/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-261223/",
+          "imagen": "/portadas-programas/0788202518cc31609dd0dc0455c22023.webp",
+          "duracion": 3540,
+          "reproducciones": 67,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-12-05",
+          "titulo": "",
+          "nombre_mixcloud": "EL ÁNDEN con Jorge Pascual - 05/12/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-%C3%A1nden-con-jorge-pascual-051223/",
+          "imagen": "/portadas-programas/556b8266da00078b0619b45b45d01bf6.webp",
+          "duracion": 3528,
+          "reproducciones": 53,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-11-21",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/11/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-211123/",
+          "imagen": "/portadas-programas/ccdc76a1fb86dbf98c04f0ab8983a9af.webp",
+          "duracion": 3596,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-11-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/11/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-071123/",
+          "imagen": "/portadas-programas/c3dd3e3a4452c62bd5e3a5ae85caf1f2.webp",
+          "duracion": 3342,
+          "reproducciones": 27,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-10-24",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/10/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241023/",
+          "imagen": "/portadas-programas/103a9e45641686f1fb95b4b70a05410f.webp",
+          "duracion": 3495,
+          "reproducciones": 37,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-10-17",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDEN con Jorge Pascual - 17/10/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-171023/",
+          "imagen": "/portadas-programas/3797cd26684912cc567fd31630108509.webp",
+          "duracion": 3398,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-10-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/10/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101023/",
+          "imagen": "/portadas-programas/ec4534760a229b37338a9179fd5d7348.webp",
+          "duracion": 3027,
+          "reproducciones": 33,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-10-03",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/10/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-031023/",
+          "imagen": "/portadas-programas/55c0d7953ee07da157514379a8e0aebb.webp",
+          "duracion": 3258,
+          "reproducciones": 29,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-09-26",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/09/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-260923/",
+          "imagen": "/portadas-programas/c589e01282f133b04f5c0605fed6b226.webp",
+          "duracion": 3310,
+          "reproducciones": 35,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-07-04",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/07/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-04072023/",
+          "imagen": "/portadas-programas/4deb5cfaa2260f8fa88060aaf480fa60.webp",
+          "duracion": 3014,
+          "reproducciones": 48,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-06-20",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/06/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-20062023/",
+          "imagen": "/portadas-programas/3484487b625d6e72405e706eb3c7fddf.webp",
+          "duracion": 3066,
+          "reproducciones": 58,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-05-30",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN conJorge Pascual - 30/05/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-conjorge-pascual-30052023/",
+          "imagen": "/portadas-programas/01c618411db0f497eeeea7108d0644a5.webp",
+          "duracion": 2866,
+          "reproducciones": 68,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-05-16",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 16/05/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-16052023/",
+          "imagen": "/portadas-programas/dea91f9a33112a8603b1b2f166889d54.webp",
+          "duracion": 3118,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-04-18",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 18/04/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-18042023/",
+          "imagen": "/portadas-programas/6b6cf6cd060877a8e11e62ed2270a1d0.webp",
+          "duracion": 2808,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-04-11",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/04/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-11042023/",
+          "imagen": "/portadas-programas/a8338a70209075318bb8888925bccf7b.webp",
+          "duracion": 3089,
+          "reproducciones": 16,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-28",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-28032023/",
+          "imagen": "/portadas-programas/2a3dd6c667966b34cbd75c163914fb19.webp",
+          "duracion": 2871,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-14",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-14032023/",
+          "imagen": "/portadas-programas/6b6b59fff190b06382422fdb15efd8b2.webp",
+          "duracion": 3255,
+          "reproducciones": 10,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-03-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/03/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-07032023/",
+          "imagen": "/portadas-programas/41df146178d6cac14e92512a2a5ad16a.webp",
+          "duracion": 3598,
+          "reproducciones": 8,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-21",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/02/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-21022023/",
+          "imagen": "/portadas-programas/4bcd31e787579cc7b626b4ace1fddfd1.webp",
+          "duracion": 2628,
+          "reproducciones": 14,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-14",
+          "titulo": "",
+          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 14/02/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-14022023/",
+          "imagen": "/portadas-programas/6b3fdb763e4c3170434f6cddff9d9211.webp",
+          "duracion": 3472,
+          "reproducciones": 80,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-02-07",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/02/23",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070223/",
+          "imagen": "/portadas-programas/90afa9023d208cc33e3b06fc530e594e.webp",
+          "duracion": 3134,
+          "reproducciones": 56,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-31",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 31/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-31012023/",
+          "imagen": "/portadas-programas/0dc2407093f0f6db5da33bfbc56e0220.webp",
+          "duracion": 2942,
+          "reproducciones": 68,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-10",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-10012023/",
+          "imagen": "/portadas-programas/c76af21c01e88a8fa349add6a4124fa4.webp",
+          "duracion": 2624,
+          "reproducciones": 34,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2023-01-03",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 3/01/2023",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-3012023/",
+          "imagen": "/portadas-programas/03ae5c3cccf4a0829cfbbf36c0eb4dff.webp",
+          "duracion": 3471,
+          "reproducciones": 18,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-20",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual/",
+          "imagen": "/portadas-programas/fc36c5b612e8cc4da334a7fe284afdb0.webp",
+          "duracion": 2849,
+          "reproducciones": 21,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-20",
+          "titulo": "",
+          "nombre_mixcloud": "El Andén con Jorge Pascual - 20/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-20122022/",
+          "imagen": "/portadas-programas/148ced1e7a541623296b614eb76ebfbd.webp",
+          "duracion": 2849,
+          "reproducciones": 37,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-12-13",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/12/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-13122022/",
+          "imagen": "/portadas-programas/c23fb43f8589fb222a08cc74704c452e.webp",
+          "duracion": 3151,
+          "reproducciones": 111,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-11-22",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/11/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-22112022/",
+          "imagen": "/portadas-programas/9b66608dbd68551d3953015b46f8adad.webp",
+          "duracion": 2775,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2022-11-15",
+          "titulo": "",
+          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/11/2022",
+          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-15112022/",
+          "imagen": "/portadas-programas/7d0d3467f60567c23889dc3c665416b3.webp",
+          "duracion": 2488,
+          "reproducciones": 13,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "fifi-express",
       "nombre": "Fifi Express",
@@ -16,7 +1106,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-271026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 960,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -1217,1086 +2307,6 @@
           "imagen": "/portadas-programas/9ecbff0bdadfc3916b1cfd152fe08ff4.webp",
           "duracion": 1523,
           "reproducciones": 15,
-          "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "el-anden",
-      "nombre": "EL ANDÉN con Jorge Pascual",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-20",
-      "activo": true,
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-20",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
-          "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
-          "duracion": 3298,
-          "reproducciones": 40,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-13",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
-          "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
-          "duracion": 3104,
-          "reproducciones": 50,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-06",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 06/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-061026/",
-          "imagen": "/portadas-programas/d27df44fc4523994fca81454b5baca11.webp",
-          "duracion": 3295,
-          "reproducciones": 35,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": "",
-          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 29/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-290926/",
-          "imagen": "/portadas-programas/04316a4ebfdded33243a37f1ae124caf.webp",
-          "duracion": 3228,
-          "reproducciones": 31,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-22",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-220926/",
-          "imagen": "/portadas-programas/a22eaa3f7678b91d5b9954fb62ca16bd.webp",
-          "duracion": 3298,
-          "reproducciones": 50,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-09-15",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/09/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-150926/",
-          "imagen": "/portadas-programas/51a4301492a2cb7e909e2e1fcd893f81.webp",
-          "duracion": 3299,
-          "reproducciones": 63,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-06-09",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 09/06/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-090626/",
-          "imagen": "/portadas-programas/b80a2e24c4edbb33571e2db4abbd4a76.webp",
-          "duracion": 7195,
-          "reproducciones": 110,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-06-02",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/06/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-020626/",
-          "imagen": "/portadas-programas/1f4966de47d61625a954bb5f3c2e772f.webp",
-          "duracion": 3479,
-          "reproducciones": 47,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-26",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-260526/",
-          "imagen": "/portadas-programas/427e213c1211c9afb89c5270216208b0.webp",
-          "duracion": 3480,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-19",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-190526/",
-          "imagen": "/portadas-programas/187ec18ff6c4777de2ba6c7954814ccd.webp",
-          "duracion": 3324,
-          "reproducciones": 35,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-12",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-120526/",
-          "imagen": "/portadas-programas/6dcff53e5a12f1f7c477b85fc31e4e84.webp",
-          "duracion": 3355,
-          "reproducciones": 43,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-05",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 05/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-050526/",
-          "imagen": "/portadas-programas/bf7a4bd726dd2e0fbbc62e310973b4d2.webp",
-          "duracion": 3478,
-          "reproducciones": 36,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-28",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-280426/",
-          "imagen": "/portadas-programas/468b1347d6aacf0af02a958a4891ef43.webp",
-          "duracion": 3403,
-          "reproducciones": 31,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-21",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-210426/",
-          "imagen": "/portadas-programas/7060901256013c11d24b1eeff4fd9d85.webp",
-          "duracion": 3384,
-          "reproducciones": 48,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-14",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-140426/",
-          "imagen": "/portadas-programas/27fa382b7a80c6c90d1a92e802d86836.webp",
-          "duracion": 3375,
-          "reproducciones": 42,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070426/",
-          "imagen": "/portadas-programas/9a0dd74bf23c938b798f02e6d9dfc5e6.webp",
-          "duracion": 3375,
-          "reproducciones": 40,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-31",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 31/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-310326/",
-          "imagen": "/portadas-programas/1e9ff76714a924c3d3630c7036364f03.webp",
-          "duracion": 3446,
-          "reproducciones": 24,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240326/",
-          "imagen": "/portadas-programas/98a4c37877069ca2a57e7032da65bc2f.webp",
-          "duracion": 3280,
-          "reproducciones": 36,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-17",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-170326/",
-          "imagen": "/portadas-programas/b12dd859b7e1c0d713b7ac3f0fd5698e.webp",
-          "duracion": 3351,
-          "reproducciones": 37,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100326/",
-          "imagen": "/portadas-programas/fb990224ddce31aae26f066fd2cd77cf.webp",
-          "duracion": 3337,
-          "reproducciones": 46,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-03",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030326/",
-          "imagen": "/portadas-programas/76a4a9dcb6f31bdc68f0dc879d495a74.webp",
-          "duracion": 3351,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240226/",
-          "imagen": "/portadas-programas/a1d1e2a2bc241f180e39b75610809fa9.webp",
-          "duracion": 3360,
-          "reproducciones": 43,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100226/",
-          "imagen": "/portadas-programas/390053a4b0a80d76999d2ba65536e8ff.webp",
-          "duracion": 3166,
-          "reproducciones": 46,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-03",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030226/",
-          "imagen": "/portadas-programas/7083774a57ce49f7fab921da03fe1d56.webp",
-          "duracion": 3356,
-          "reproducciones": 47,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-27",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270126/",
-          "imagen": "/portadas-programas/7bba56446669d993fd9f4a163a37c2f0.webp",
-          "duracion": 3358,
-          "reproducciones": 49,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-20",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-200126/",
-          "imagen": "/portadas-programas/63ce36ddd8a42e5b81beaff7e80473cf.webp",
-          "duracion": 3400,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-23",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 23/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-231225/",
-          "imagen": "/portadas-programas/ab5e5b2f47e43ce3e8992f997d519013.webp",
-          "duracion": 3410,
-          "reproducciones": 86,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-16",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 16/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-161225/",
-          "imagen": "/portadas-programas/3be98b5750cfb466451c1a574f98a4ae.webp",
-          "duracion": 3379,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-12-02",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/12/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-021225/",
-          "imagen": "/portadas-programas/3ddf09b00185a788b0f16dc590728e68.webp",
-          "duracion": 3404,
-          "reproducciones": 52,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-25",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-251125/",
-          "imagen": "/portadas-programas/fc72f8e196e9f0774c3d47c610fe34e8.webp",
-          "duracion": 3340,
-          "reproducciones": 43,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-11-11",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/11/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-111125/",
-          "imagen": "/portadas-programas/7b766c95cd5dad6953685ff7f3725733.webp",
-          "duracion": 3346,
-          "reproducciones": 47,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-28",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-281025/",
-          "imagen": "/portadas-programas/5503db241a7eed158725c79b198ea246.webp",
-          "duracion": 3326,
-          "reproducciones": 40,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-14",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-141025/",
-          "imagen": "/portadas-programas/cf952db9364973887f52c0967b9eba23.webp",
-          "duracion": 3333,
-          "reproducciones": 59,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-10-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/10/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-071025/",
-          "imagen": "/portadas-programas/68c73a58f33a4a9dd1eefb7335185af5.webp",
-          "duracion": 3366,
-          "reproducciones": 43,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-09-30",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 30/9/2025",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-3092025/",
-          "imagen": "/portadas-programas/7303a8ccec78d0d5559e576391608579.webp",
-          "duracion": 3306,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-09-23",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 23/09/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-230925/",
-          "imagen": "/portadas-programas/a3428c5ea8e58486482247cb2f4e183f.webp",
-          "duracion": 3333,
-          "reproducciones": 45,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-06-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/06/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240625/",
-          "imagen": "/portadas-programas/ab2c7fc84556b48f81406b6df26b4bf2.webp",
-          "duracion": 3335,
-          "reproducciones": 58,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-06-17",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/06/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-170625/",
-          "imagen": "/portadas-programas/acbb52fb1ebeca8c7bfa70325e876eb6.webp",
-          "duracion": 3411,
-          "reproducciones": 35,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-06-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/06/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-100625/",
-          "imagen": "/portadas-programas/aad74c252e49a041c8988accad55afb8.webp",
-          "duracion": 3340,
-          "reproducciones": 38,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-06-03",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/06/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-030625/",
-          "imagen": "/portadas-programas/92b063a9bc9811d428773018ebdae460.webp",
-          "duracion": 3351,
-          "reproducciones": 44,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-05-27",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/05/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270525/",
-          "imagen": "/portadas-programas/67f50a991f68d475edfcb1b13ce6156a.webp",
-          "duracion": 3335,
-          "reproducciones": 58,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-05-06",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 06/05/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-060525/",
-          "imagen": "/portadas-programas/c0e3d397804a85c971eb1a8e7bd124bc.webp",
-          "duracion": 3298,
-          "reproducciones": 62,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-04-22",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/04/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-220425/",
-          "imagen": "/portadas-programas/979f1a74b047d292677c720b77d54400.webp",
-          "duracion": 3287,
-          "reproducciones": 48,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-04-08",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 08/04/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-080425/",
-          "imagen": "/portadas-programas/f8013a229789d083b9afd9e2ca7e9f0a.webp",
-          "duracion": 3325,
-          "reproducciones": 49,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-04-01",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 01/04/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-010425/",
-          "imagen": "/portadas-programas/57c8ec8a341dac4bd3336a31fea2b1df.webp",
-          "duracion": 3305,
-          "reproducciones": 42,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-03-18",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 18/03/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-180325/",
-          "imagen": "/portadas-programas/b465a27396b99fb85f3a4a7a583a326a.webp",
-          "duracion": 3287,
-          "reproducciones": 48,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-02-25",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/02/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-250225/",
-          "imagen": "/portadas-programas/2383202ee2dbd77fdfb740ad6b8dbe05.webp",
-          "duracion": 3267,
-          "reproducciones": 180,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-02-04",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/02/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-040225/",
-          "imagen": "/portadas-programas/7d69bc29ccd3fddc11cfed6423ba2fc2.webp",
-          "duracion": 3303,
-          "reproducciones": 48,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-01-28",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/01/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-280125/",
-          "imagen": "/portadas-programas/3442acc30b15514c9c9c2f79f6825e06.webp",
-          "duracion": 3298,
-          "reproducciones": 56,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-01-21",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/01/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-210125/",
-          "imagen": "/portadas-programas/b551ccf8f7eefdf4eda29d1f6f8d1960.webp",
-          "duracion": 3280,
-          "reproducciones": 36,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2025-01-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/01/25",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070125/",
-          "imagen": "/portadas-programas/e3ddd9a3309e2b93fcdf7fc0b11cf4c9.webp",
-          "duracion": 3299,
-          "reproducciones": 57,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-12-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/12/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241224/",
-          "imagen": "/portadas-programas/b4b62c9a0ea29071deb85a2873966a56.webp",
-          "duracion": 3280,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-12-17",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 17/12/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171224/",
-          "imagen": "/portadas-programas/7cf6a0e1810d73d532ac2974a660f499.webp",
-          "duracion": 3300,
-          "reproducciones": 20,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-12-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/12/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101224/",
-          "imagen": "/portadas-programas/2325bc6629f64a10a52ec4f191a065a7.webp",
-          "duracion": 3299,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-11-25",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/11/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-251124/",
-          "imagen": "/portadas-programas/973f0d4da87057ac9123aae92f88c0d5.webp",
-          "duracion": 3250,
-          "reproducciones": 50,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-11-19",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/11/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-191124/",
-          "imagen": "/portadas-programas/040e2ef0486267dd6ac3faa72c93636f.webp",
-          "duracion": 3226,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-11-12",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/11/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-121124/",
-          "imagen": "/portadas-programas/6b229251be0893208aa835072891708c.webp",
-          "duracion": 3336,
-          "reproducciones": 38,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-10-29",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 29/10/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-291024/",
-          "imagen": "/portadas-programas/e87e653ec3d0a796e915b4d6b5244c23.webp",
-          "duracion": 3324,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-10-22",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/10/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-221024/",
-          "imagen": "/portadas-programas/2b42732126c3f62b9cb934efbfe207fe.webp",
-          "duracion": 3135,
-          "reproducciones": 63,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-10-15",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/10/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-151024/",
-          "imagen": "/portadas-programas/de1442f9291ad8e8f1e78099acd75957.webp",
-          "duracion": 3296,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-09-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/09/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-240924/",
-          "imagen": "/portadas-programas/fd37cbf715706f3056d9d1e119ea2ec6.webp",
-          "duracion": 3298,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-06-25",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 25/06/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-250624/",
-          "imagen": "/portadas-programas/22f07db2e4ab50f9ab2616494c712305.webp",
-          "duracion": 3278,
-          "reproducciones": 71,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-06-18",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual -18/06/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-180624/",
-          "imagen": "/portadas-programas/d6af6d82db783f9112ddf05b70c7dd7f.webp",
-          "duracion": 3100,
-          "reproducciones": 47,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-06-11",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/06/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-110624/",
-          "imagen": "/portadas-programas/32d313741e5e53b466336c222046da6e.webp",
-          "duracion": 3197,
-          "reproducciones": 37,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-06-04",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/06/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-040624/",
-          "imagen": "/portadas-programas/c458437165551573c9b37af51fbe1f8c.webp",
-          "duracion": 3244,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-05-14",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/05/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-140524/",
-          "imagen": "/portadas-programas/2930f4585f43c57d2344c32a65b142b6.webp",
-          "duracion": 3193,
-          "reproducciones": 60,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-05-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/05/2024",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-07052024/",
-          "imagen": "/portadas-programas/c1f2d7af2f82f8b78d906b885e966bd4.webp",
-          "duracion": 3157,
-          "reproducciones": 62,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-04-16",
-          "titulo": "",
-          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 16/04/2024",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-16042024/",
-          "imagen": "/portadas-programas/77a169f43898fad42ee1238cf0821173.webp",
-          "duracion": 3289,
-          "reproducciones": 55,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-04-09",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 09/04/2024",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-09042024/",
-          "imagen": "/portadas-programas/f631926d441faa88c2f617671f6f20a2.webp",
-          "duracion": 3299,
-          "reproducciones": 34,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-04-02",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 02/04/2024",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-02042024/",
-          "imagen": "/portadas-programas/cb7848bff3e94a26ce332fb8efe0055d.webp",
-          "duracion": 3298,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-03-26",
-          "titulo": "",
-          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 26/03/2024",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-26032024/",
-          "imagen": "/portadas-programas/74f0bc31731d15307b3ed35a13c02a93.webp",
-          "duracion": 3298,
-          "reproducciones": 44,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-03-19",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 19/03/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-190324/",
-          "imagen": "/portadas-programas/0c26611919eddd5803d0e109e2e2eba1.webp",
-          "duracion": 3298,
-          "reproducciones": 44,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-03-12",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 12/03/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-120324/",
-          "imagen": "/portadas-programas/add4518119d9b044be17cc9f32a2a016.webp",
-          "duracion": 3298,
-          "reproducciones": 25,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-03-05",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 05/03/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-50324/",
-          "imagen": "/portadas-programas/7b90a3a430aa5b5cf95e35edd976518b.webp",
-          "duracion": 3298,
-          "reproducciones": 28,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-02-27",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 27/02/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-270224/",
-          "imagen": "/portadas-programas/14f41f2288ed778373f07d14434142ee.webp",
-          "duracion": 3297,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-02-20",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/02/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-200224/",
-          "imagen": "/portadas-programas/8af5c360a1d9fd2c28ee31d6a62c77b5.webp",
-          "duracion": 2972,
-          "reproducciones": 47,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-02-13",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/02/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-130224/",
-          "imagen": "/portadas-programas/c1fd0a1c5abb06772d4150fce038b277.webp",
-          "duracion": 2771,
-          "reproducciones": 31,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2024-01-16",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDEN con Jorge Pascual - 16/01/24",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-160124/",
-          "imagen": "/portadas-programas/b5faef4fc6df233c1add3214758e4a71.webp",
-          "duracion": 3594,
-          "reproducciones": 42,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-12-26",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/12/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-261223/",
-          "imagen": "/portadas-programas/0788202518cc31609dd0dc0455c22023.webp",
-          "duracion": 3540,
-          "reproducciones": 67,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-12-05",
-          "titulo": "",
-          "nombre_mixcloud": "EL ÁNDEN con Jorge Pascual - 05/12/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-%C3%A1nden-con-jorge-pascual-051223/",
-          "imagen": "/portadas-programas/556b8266da00078b0619b45b45d01bf6.webp",
-          "duracion": 3528,
-          "reproducciones": 53,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-11-21",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/11/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-211123/",
-          "imagen": "/portadas-programas/ccdc76a1fb86dbf98c04f0ab8983a9af.webp",
-          "duracion": 3596,
-          "reproducciones": 29,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-11-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/11/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-071123/",
-          "imagen": "/portadas-programas/c3dd3e3a4452c62bd5e3a5ae85caf1f2.webp",
-          "duracion": 3342,
-          "reproducciones": 27,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-10-24",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 24/10/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241023/",
-          "imagen": "/portadas-programas/103a9e45641686f1fb95b4b70a05410f.webp",
-          "duracion": 3495,
-          "reproducciones": 37,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-10-17",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDEN con Jorge Pascual - 17/10/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-171023/",
-          "imagen": "/portadas-programas/3797cd26684912cc567fd31630108509.webp",
-          "duracion": 3398,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-10-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/10/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101023/",
-          "imagen": "/portadas-programas/ec4534760a229b37338a9179fd5d7348.webp",
-          "duracion": 3027,
-          "reproducciones": 33,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-10-03",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 03/10/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-031023/",
-          "imagen": "/portadas-programas/55c0d7953ee07da157514379a8e0aebb.webp",
-          "duracion": 3258,
-          "reproducciones": 29,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-09-26",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 26/09/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-260923/",
-          "imagen": "/portadas-programas/c589e01282f133b04f5c0605fed6b226.webp",
-          "duracion": 3310,
-          "reproducciones": 35,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-07-04",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 04/07/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-04072023/",
-          "imagen": "/portadas-programas/4deb5cfaa2260f8fa88060aaf480fa60.webp",
-          "duracion": 3014,
-          "reproducciones": 48,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-06-20",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/06/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-20062023/",
-          "imagen": "/portadas-programas/3484487b625d6e72405e706eb3c7fddf.webp",
-          "duracion": 3066,
-          "reproducciones": 58,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-05-30",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN conJorge Pascual - 30/05/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-conjorge-pascual-30052023/",
-          "imagen": "/portadas-programas/01c618411db0f497eeeea7108d0644a5.webp",
-          "duracion": 2866,
-          "reproducciones": 68,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-05-16",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 16/05/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-16052023/",
-          "imagen": "/portadas-programas/dea91f9a33112a8603b1b2f166889d54.webp",
-          "duracion": 3118,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-04-18",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 18/04/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-18042023/",
-          "imagen": "/portadas-programas/6b6cf6cd060877a8e11e62ed2270a1d0.webp",
-          "duracion": 2808,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-04-11",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 11/04/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-11042023/",
-          "imagen": "/portadas-programas/a8338a70209075318bb8888925bccf7b.webp",
-          "duracion": 3089,
-          "reproducciones": 16,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-28",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 28/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-28032023/",
-          "imagen": "/portadas-programas/2a3dd6c667966b34cbd75c163914fb19.webp",
-          "duracion": 2871,
-          "reproducciones": 14,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-14",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 14/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-14032023/",
-          "imagen": "/portadas-programas/6b6b59fff190b06382422fdb15efd8b2.webp",
-          "duracion": 3255,
-          "reproducciones": 10,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-03-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/03/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-07032023/",
-          "imagen": "/portadas-programas/41df146178d6cac14e92512a2a5ad16a.webp",
-          "duracion": 3598,
-          "reproducciones": 8,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-21",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 21/02/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-21022023/",
-          "imagen": "/portadas-programas/4bcd31e787579cc7b626b4ace1fddfd1.webp",
-          "duracion": 2628,
-          "reproducciones": 14,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-14",
-          "titulo": "",
-          "nombre_mixcloud": "El ANDÉN con Jorge Pascual - 14/02/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-anden-con-jorge-pascual-14022023/",
-          "imagen": "/portadas-programas/6b3fdb763e4c3170434f6cddff9d9211.webp",
-          "duracion": 3472,
-          "reproducciones": 80,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-02-07",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 07/02/23",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-070223/",
-          "imagen": "/portadas-programas/90afa9023d208cc33e3b06fc530e594e.webp",
-          "duracion": 3134,
-          "reproducciones": 56,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-31",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 31/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-31012023/",
-          "imagen": "/portadas-programas/0dc2407093f0f6db5da33bfbc56e0220.webp",
-          "duracion": 2942,
-          "reproducciones": 68,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-10",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 10/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-10012023/",
-          "imagen": "/portadas-programas/c76af21c01e88a8fa349add6a4124fa4.webp",
-          "duracion": 2624,
-          "reproducciones": 34,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2023-01-03",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 3/01/2023",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-3012023/",
-          "imagen": "/portadas-programas/03ae5c3cccf4a0829cfbbf36c0eb4dff.webp",
-          "duracion": 3471,
-          "reproducciones": 18,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-20",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 20/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual/",
-          "imagen": "/portadas-programas/fc36c5b612e8cc4da334a7fe284afdb0.webp",
-          "duracion": 2849,
-          "reproducciones": 21,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-20",
-          "titulo": "",
-          "nombre_mixcloud": "El Andén con Jorge Pascual - 20/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-20122022/",
-          "imagen": "/portadas-programas/148ced1e7a541623296b614eb76ebfbd.webp",
-          "duracion": 2849,
-          "reproducciones": 37,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-12-13",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 13/12/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-13122022/",
-          "imagen": "/portadas-programas/c23fb43f8589fb222a08cc74704c452e.webp",
-          "duracion": 3151,
-          "reproducciones": 111,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-11-22",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 22/11/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-22112022/",
-          "imagen": "/portadas-programas/9b66608dbd68551d3953015b46f8adad.webp",
-          "duracion": 2775,
-          "reproducciones": 13,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2022-11-15",
-          "titulo": "",
-          "nombre_mixcloud": "EL ANDÉN con Jorge Pascual - 15/11/2022",
-          "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-15112022/",
-          "imagen": "/portadas-programas/7d0d3467f60567c23889dc3c665416b3.webp",
-          "duracion": 2488,
-          "reproducciones": 13,
           "proveedor": "mixcloud"
         }
       ]
