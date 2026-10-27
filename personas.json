@@ -6,19 +6,19 @@
     },
     {
       "nombre": "César",
-      "foto": ""
+      "foto": "personas/equipo/Cesar.jpg"
     },
     {
       "nombre": "Alber",
-      "foto": ""
+      "foto": "personas/equipo/Alber.jpg"
     },
     {
       "nombre": "Jorge",
-      "foto": ""
+      "foto": "personas/equipo/Jorge.jpg"
     },
     {
       "nombre": "José",
-      "foto": "",
+      "foto": "personas/equipo/Jose.jpg",
       "nota": "In memoriam"
     }
   ],
