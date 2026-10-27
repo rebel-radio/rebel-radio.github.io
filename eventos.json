@@ -1,5 +1,5 @@
 {
-  "total": 22,
+  "total": 23,
   "eventos": [
     {
       "fecha": "2026-10-28",
@@ -11,6 +11,12 @@
       "fecha": "2026-10-31",
       "nombre": "17 anv Sun Coast Rockin Club",
       "imagen": "eventos/2026-10-31_17 anv Sun Coast Rockin Club.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-10-31",
+      "nombre": "Cesar's Garage",
+      "imagen": "eventos/2026-10-31_Cesar's Garage.jpg",
       "participacion_rebel": false
     },
     {
