@@ -1,5 +1,5 @@
 {
-  "total": 21,
+  "total": 22,
   "eventos": [
     {
       "fecha": "2026-10-28",
@@ -65,6 +65,12 @@
       "fecha": "2026-11-21",
       "nombre": "Presentación Doble CD Los Faraones",
       "imagen": "eventos/2026-11-21_Presentación Doble CD Los Faraones.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-22",
+      "nombre": "Sweet",
+      "imagen": "eventos/2026-11-22_Sweet.jpg",
       "participacion_rebel": false
     },
     {
