@@ -1,12 +1,6 @@
 {
-  "total": 23,
+  "total": 22,
   "eventos": [
-    {
-      "fecha": "2026-10-28",
-      "nombre": "Billywood Crakers",
-      "imagen": "eventos/2026-10-28_Billywood Crakers.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-10-31",
       "nombre": "17 anv Sun Coast Rockin Club",
