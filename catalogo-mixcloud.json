@@ -1,6 +1,135 @@
 {
-  "generado": "2026-10-29T23:01:05",
+  "generado": "2026-10-29T23:15:09",
   "programas": [
+    {
+      "id": "mr-twister",
+      "nombre": "Mr Twister Radio Chou",
+      "proveedor": "mixcloud",
+      "ultima_emision": "2026-10-29",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-10-29",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 29/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
+          "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
+          "duracion": 3231,
+          "reproducciones": 0,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 15/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-151026/",
+          "imagen": "/portadas-programas/06bafd66e86e0587ad2ea18d572cce1d.webp",
+          "duracion": 3253,
+          "reproducciones": 23,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-10-01",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 01/10/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-011026/",
+          "imagen": "/portadas-programas/c7d9907c75cc72ba27b6ddba609cfd15.webp",
+          "duracion": 3243,
+          "reproducciones": 26,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-06-18",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 18/06/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-180626/",
+          "imagen": "/portadas-programas/0659a4a3b28783000664824d23e519dd.webp",
+          "duracion": 3477,
+          "reproducciones": 101,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-28",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 28/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-280526/",
+          "imagen": "/portadas-programas/c6415f56813e32df02673a04d92705f1.webp",
+          "duracion": 3239,
+          "reproducciones": 25,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-05-14",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 14/05/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-140526/",
+          "imagen": "/portadas-programas/5281402a9c9be57af47b261f3bef63ca.webp",
+          "duracion": 3400,
+          "reproducciones": 28,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-30",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 30/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-300426/",
+          "imagen": "/portadas-programas/6b89af785e0b792fa3494ee66965121a.webp",
+          "duracion": 3353,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-04-16",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 16/04/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-160426/",
+          "imagen": "/portadas-programas/8f6fc6b9a43329872017dbaf5d7797e4.webp",
+          "duracion": 3351,
+          "reproducciones": 27,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-26",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 26/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260326/",
+          "imagen": "/portadas-programas/12f755e65da1d60659da5659753671bb.webp",
+          "duracion": 3500,
+          "reproducciones": 30,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-03-12",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 12/03/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-120326/",
+          "imagen": "/portadas-programas/0bd5d580b0268870b53809d0910242af.webp",
+          "duracion": 3482,
+          "reproducciones": 24,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-26",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 26/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260226/",
+          "imagen": "/portadas-programas/5b4b97528d4cd3b920021a865d8aacb9.webp",
+          "duracion": 3244,
+          "reproducciones": 19,
+          "proveedor": "mixcloud"
+        },
+        {
+          "fecha": "2026-02-05",
+          "titulo": "",
+          "nombre_mixcloud": "Mr Twister Radio Chou - 05/02/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-050226/",
+          "imagen": "/portadas-programas/21b89f6fe1dd7e45b64d29da6dac02f7.webp",
+          "duracion": 5707,
+          "reproducciones": 59,
+          "proveedor": "mixcloud"
+        }
+      ]
+    },
     {
       "id": "victor-melchor",
       "nombre": "Esto sí que es rocanrol !!!",
@@ -827,135 +956,6 @@
           "duracion_texto": "51:31",
           "reproducciones": null,
           "proveedor": "ivoox"
-        }
-      ]
-    },
-    {
-      "id": "mr-twister",
-      "nombre": "Mr Twister Radio Chou",
-      "proveedor": "mixcloud",
-      "ultima_emision": "2026-10-15",
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-15",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 15/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-151026/",
-          "imagen": "/portadas-programas/06bafd66e86e0587ad2ea18d572cce1d.webp",
-          "duracion": 3253,
-          "reproducciones": 23,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-10-01",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 01/10/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-011026/",
-          "imagen": "/portadas-programas/c7d9907c75cc72ba27b6ddba609cfd15.webp",
-          "duracion": 3243,
-          "reproducciones": 26,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-06-18",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 18/06/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-180626/",
-          "imagen": "/portadas-programas/0659a4a3b28783000664824d23e519dd.webp",
-          "duracion": 3477,
-          "reproducciones": 101,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-28",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 28/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-280526/",
-          "imagen": "/portadas-programas/c6415f56813e32df02673a04d92705f1.webp",
-          "duracion": 3239,
-          "reproducciones": 25,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-05-14",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 14/05/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-140526/",
-          "imagen": "/portadas-programas/5281402a9c9be57af47b261f3bef63ca.webp",
-          "duracion": 3400,
-          "reproducciones": 28,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-30",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 30/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-300426/",
-          "imagen": "/portadas-programas/6b89af785e0b792fa3494ee66965121a.webp",
-          "duracion": 3353,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-04-16",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 16/04/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-160426/",
-          "imagen": "/portadas-programas/8f6fc6b9a43329872017dbaf5d7797e4.webp",
-          "duracion": 3351,
-          "reproducciones": 27,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-26",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 26/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260326/",
-          "imagen": "/portadas-programas/12f755e65da1d60659da5659753671bb.webp",
-          "duracion": 3500,
-          "reproducciones": 30,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-03-12",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 12/03/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-120326/",
-          "imagen": "/portadas-programas/0bd5d580b0268870b53809d0910242af.webp",
-          "duracion": 3482,
-          "reproducciones": 24,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-26",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 26/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-260226/",
-          "imagen": "/portadas-programas/5b4b97528d4cd3b920021a865d8aacb9.webp",
-          "duracion": 3244,
-          "reproducciones": 19,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-02-05",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 05/02/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-050226/",
-          "imagen": "/portadas-programas/21b89f6fe1dd7e45b64d29da6dac02f7.webp",
-          "duracion": 5707,
-          "reproducciones": 59,
-          "proveedor": "mixcloud"
-        },
-        {
-          "fecha": "2026-01-15",
-          "titulo": "",
-          "nombre_mixcloud": "Mr Twister Radio Chou - 15/01/26",
-          "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-150126/",
-          "imagen": "/portadas-programas/bbfcab8c7d9fe800eb7c326fba7c5861.webp",
-          "duracion": 3008,
-          "reproducciones": 39,
-          "proveedor": "mixcloud"
         }
       ]
     },
