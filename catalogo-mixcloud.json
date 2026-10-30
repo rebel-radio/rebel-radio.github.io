@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-30T20:15:09",
+  "generado": "2026-10-30T23:01:08",
   "programas": [
     {
       "id": "fifi-express",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 948,
-          "reproducciones": 1,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -25,7 +25,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-281026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 950,
-          "reproducciones": 4,
+          "reproducciones": 5,
           "proveedor": "mixcloud"
         },
         {
@@ -104,7 +104,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 29,
+          "reproducciones": 31,
           "proveedor": "mixcloud"
         },
         {
