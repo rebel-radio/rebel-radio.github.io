@@ -1,5 +1,5 @@
 {
-  "total": 22,
+  "total": 28,
   "eventos": [
     {
       "fecha": "2026-10-31",
@@ -15,6 +15,12 @@
     },
     {
       "fecha": "2026-11-06",
+      "nombre": "Rock´n´roll Shake Out",
+      "imagen": "eventos/2026-11-06_Rock´n´roll Shake Out.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-06",
       "nombre": "Top Jive Rockabilly",
       "imagen": "eventos/2026-11-06_Top Jive Rockabilly.jpg",
       "participacion_rebel": false
@@ -23,6 +29,24 @@
       "fecha": "2026-11-07",
       "nombre": "Celso piano killer & His band",
       "imagen": "eventos/2026-11-07_Celso piano killer & His band.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-07",
+      "nombre": "Outlaw Girls on the Road",
+      "imagen": "eventos/2026-11-07_Outlaw Girls on the Road.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-07",
+      "nombre": "Red Clyde and the Bonnies",
+      "imagen": "eventos/2026-11-07_Red Clyde and the Bonnies.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-08",
+      "nombre": "Vesa and the Knocks",
+      "imagen": "eventos/2026-11-08_Vesa and the Knocks.jpg",
       "participacion_rebel": false
     },
     {
@@ -74,9 +98,21 @@
       "participacion_rebel": false
     },
     {
+      "fecha": "2026-11-28",
+      "nombre": "Presentación doble CD Los Faraones",
+      "imagen": "eventos/2026-11-28_Presentación doble CD Los Faraones.jpeg",
+      "participacion_rebel": false
+    },
+    {
       "fecha": "2026-12-11",
       "nombre": "Big Ducktail´s Party Weekend",
       "imagen": "eventos/2026-12-11_Big Ducktail´s Party Weekend.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-12-12",
+      "nombre": "Presentación nuevo disco Jose Insaciable",
+      "imagen": "eventos/2026-12-12_Presentación nuevo disco Jose Insaciable.jpg",
       "participacion_rebel": false
     },
     {
