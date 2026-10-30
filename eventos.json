@@ -1,5 +1,5 @@
 {
-  "total": 28,
+  "total": 29,
   "eventos": [
     {
       "fecha": "2026-10-31",
@@ -137,6 +137,12 @@
       "fecha": "2027-02-03",
       "nombre": "Rockin Race Jamboree",
       "imagen": "eventos/2027-02-03_Rockin Race Jamboree.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-02-19",
+      "nombre": "Rock and roll en el foro",
+      "imagen": "eventos/2027-02-19_Rock and roll en el foro.jpg",
       "participacion_rebel": false
     },
     {
