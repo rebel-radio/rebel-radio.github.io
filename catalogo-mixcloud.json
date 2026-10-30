@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-30T07:30:11",
+  "generado": "2026-10-30T07:45:10",
   "programas": [
     {
       "id": "mr-twister",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-291026/",
           "imagen": "/portadas-programas/a2a4a741fec4e2a3d220d63b88da1049.webp",
           "duracion": 2835,
-          "reproducciones": 1,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
