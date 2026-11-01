@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-31T05:15:10",
+  "generado": "2026-11-01T05:15:12",
   "programas": [
     {
       "id": "skinny-jim",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3166,
-          "reproducciones": 2,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -25,7 +25,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-231026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3079,
-          "reproducciones": 14,
+          "reproducciones": 15,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 948,
-          "reproducciones": 3,
+          "reproducciones": 5,
           "proveedor": "mixcloud"
         },
         {
@@ -233,7 +233,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 31,
+          "reproducciones": 33,
           "proveedor": "mixcloud"
         },
         {
@@ -243,7 +243,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-151026/",
           "imagen": "/portadas-programas/06bafd66e86e0587ad2ea18d572cce1d.webp",
           "duracion": 3253,
-          "reproducciones": 23,
+          "reproducciones": 24,
           "proveedor": "mixcloud"
         },
         {
@@ -362,7 +362,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-291026/",
           "imagen": "/portadas-programas/a2a4a741fec4e2a3d220d63b88da1049.webp",
           "duracion": 2835,
-          "reproducciones": 8,
+          "reproducciones": 9,
           "proveedor": "mixcloud"
         },
         {
@@ -451,7 +451,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-141026/",
           "imagen": "/portadas-programas/7bac7cbbd0263d9495c8f4c71bf7e803.webp",
           "duracion": 2815,
-          "reproducciones": 14,
+          "reproducciones": 15,
           "proveedor": "mixcloud"
         },
         {
@@ -560,7 +560,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-271026/",
           "imagen": "/portadas-programas/4e485afce01e5544875ea3c432acb09a.webp",
           "duracion": 3092,
-          "reproducciones": 40,
+          "reproducciones": 42,
           "proveedor": "mixcloud"
         },
         {
@@ -570,7 +570,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 42,
+          "reproducciones": 43,
           "proveedor": "mixcloud"
         },
         {
@@ -580,7 +580,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-131026/",
           "imagen": "/portadas-programas/6079ed397dc242bc44f8727d7544c444.webp",
           "duracion": 3104,
-          "reproducciones": 50,
+          "reproducciones": 51,
           "proveedor": "mixcloud"
         },
         {
