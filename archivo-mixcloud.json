@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T20:15:08",
+  "generado": "2026-11-02T23:00:55",
   "programas": [
     {
       "id": "fifi-express",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-021126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 971,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
@@ -1246,7 +1246,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-291026/",
           "imagen": "/portadas-programas/a2a4a741fec4e2a3d220d63b88da1049.webp",
           "duracion": 2835,
-          "reproducciones": 10,
+          "reproducciones": 11,
           "proveedor": "mixcloud"
         },
         {
@@ -1946,7 +1946,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-271026/",
           "imagen": "/portadas-programas/4e485afce01e5544875ea3c432acb09a.webp",
           "duracion": 3092,
-          "reproducciones": 43,
+          "reproducciones": 44,
           "proveedor": "mixcloud"
         },
         {
@@ -1956,7 +1956,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-201026/",
           "imagen": "/portadas-programas/11212d48dab69ab12bbdb41521dc8a98.webp",
           "duracion": 3298,
-          "reproducciones": 44,
+          "reproducciones": 45,
           "proveedor": "mixcloud"
         },
         {
