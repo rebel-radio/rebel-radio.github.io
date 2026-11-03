@@ -598,7 +598,7 @@ function emisionesResueltas(datos,fecha,dia){
   for(const exc of (datos.excepciones||[]).filter(x=>x.fecha===clave)){
     const retiradas=lista.filter(e=>e.programa_id===exc.programa_id);
     if(exc.accion==='cancel'||exc.accion==='replace')lista=lista.filter(e=>e.programa_id!==exc.programa_id);
-    if(exc.accion==='replace')lista.push({programa_id:exc.programa_id,nombre:exc.nombre,hora:exc.hora,duracion_minutos:Number(exc.duracion_minutos||60),tipo:retiradas[0]?.tipo||'estreno',regla:'exception',excepcion:'replace'});
+    if(exc.accion==='replace')lista.push({programa_id:exc.programa_id,nombre:exc.nombre,hora:exc.hora,duracion_minutos:Number(exc.duracion_minutos||60),tipo:exc.tipo||retiradas[0]?.tipo||'estreno',regla:'exception',excepcion:'replace'});
     if(exc.accion==='special')lista.push({programa_id:exc.programa_id,nombre:exc.nombre,hora:exc.hora,duracion_minutos:Number(exc.duracion_minutos||60),tipo:'especial',regla:'exception',excepcion:'special'});
   }
   return lista.sort((a,b)=>horaAMinutos(a.hora)-horaAMinutos(b.hora)||String(a.nombre).localeCompare(String(b.nombre),'es'));
