@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-10-26T01:25:50+01:00",
+  "generado_en": "2026-11-03T16:12:37+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -20,7 +20,20 @@
       "sustituye": "musica"
     }
   ],
-  "excepciones": [],
+  "excepciones": [
+    {
+      "id": "bd720a1939e5",
+      "programa_id": "el-anden",
+      "nombre": "El Andén",
+      "fecha": "2026-11-03",
+      "accion": "replace",
+      "nota": "Repetición puntual: no hay programa nuevo",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "slot_kind": "repeat",
+      "tipo": "repeticion"
+    }
+  ],
   "emisiones": [
     {
       "dia": "lunes",
