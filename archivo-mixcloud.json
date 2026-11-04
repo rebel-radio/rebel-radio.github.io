@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T05:15:12",
+  "generado": "2026-11-04T19:01:04",
   "programas": [
     {
       "id": "fifi-express",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-031126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 905,
-          "reproducciones": 1,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -26,7 +26,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-021126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 971,
-          "reproducciones": 1,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
@@ -126,7 +126,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 5,
+          "reproducciones": 9,
           "proveedor": "mixcloud"
         },
         {
@@ -886,7 +886,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3166,
-          "reproducciones": 9,
+          "reproducciones": 10,
           "proveedor": "mixcloud"
         },
         {
@@ -1366,7 +1366,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 39,
+          "reproducciones": 42,
           "proveedor": "mixcloud"
         },
         {
