@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-05T19:15:09",
+  "generado": "2026-11-05T21:01:03",
   "programas": [
     {
       "id": "fifi-express",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-051126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 912,
-          "reproducciones": 0,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
@@ -36,7 +36,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-021126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 971,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -2666,7 +2666,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-291026/",
           "imagen": "/portadas-programas/a2a4a741fec4e2a3d220d63b88da1049.webp",
           "duracion": 2835,
-          "reproducciones": 14,
+          "reproducciones": 15,
           "proveedor": "mixcloud"
         },
         {
@@ -4410,7 +4410,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-051024/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3751,
-          "reproducciones": 40,
+          "reproducciones": 41,
           "proveedor": "mixcloud"
         }
       ]
