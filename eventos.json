@@ -1,18 +1,6 @@
 {
-  "total": 32,
+  "total": 30,
   "eventos": [
-    {
-      "fecha": "2026-11-06",
-      "nombre": "Rock´n´roll Shake Out",
-      "imagen": "eventos/2026-11-06_Rock´n´roll Shake Out.jpg",
-      "participacion_rebel": false
-    },
-    {
-      "fecha": "2026-11-06",
-      "nombre": "Top Jive Rockabilly",
-      "imagen": "eventos/2026-11-06_Top Jive Rockabilly.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-07",
       "nombre": "Celso piano killer & His band",
