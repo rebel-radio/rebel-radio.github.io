@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-05T21:15:12",
+  "generado": "2026-11-06T05:15:12",
   "programas": [
     {
       "id": "victor-melchor",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-051126/",
           "imagen": "/portadas-programas/2fd683666efb100250deed3ca8dc5598.webp",
           "duracion": 2783,
-          "reproducciones": 0,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
@@ -94,7 +94,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-051126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 912,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -799,7 +799,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-090626/",
           "imagen": "/portadas-programas/b80a2e24c4edbb33571e2db4abbd4a76.webp",
           "duracion": 7195,
-          "reproducciones": 110,
+          "reproducciones": 111,
           "proveedor": "mixcloud"
         },
         {
