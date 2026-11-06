@@ -1,5 +1,5 @@
 {
-  "total": 27,
+  "total": 29,
   "eventos": [
     {
       "fecha": "2026-11-06",
@@ -59,6 +59,12 @@
       "fecha": "2026-11-14",
       "nombre": "The Hot Jivers",
       "imagen": "eventos/2026-11-14_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-14",
+      "nombre": "The Spunyboys",
+      "imagen": "eventos/2026-11-14_The Spunyboys.jpg",
       "participacion_rebel": false
     },
     {
@@ -137,6 +143,12 @@
       "fecha": "2027-03-06",
       "nombre": "XII Rocking & Rodding",
       "imagen": "eventos/2027-03-06_XII Rocking & Rodding.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-04-10",
+      "nombre": "Rock´n´roarin VIII",
+      "imagen": "eventos/2027-04-10_Rock´n´roarin VIII.jpg",
       "participacion_rebel": false
     },
     {
