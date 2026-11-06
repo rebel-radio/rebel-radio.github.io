@@ -1,5 +1,5 @@
 {
-  "total": 29,
+  "total": 32,
   "eventos": [
     {
       "fecha": "2026-11-06",
@@ -87,8 +87,26 @@
     },
     {
       "fecha": "2026-11-21",
+      "nombre": "Rockabilly Jive",
+      "imagen": "eventos/2026-11-21_Rockabilly Jive.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-21",
       "nombre": "Sweet 50's Union",
       "imagen": "eventos/2026-11-21_Sweet 50's Union.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-21",
+      "nombre": "Un día con Lobos Negros",
+      "imagen": "eventos/2026-11-21_Un día con Lobos Negros.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-22",
+      "nombre": "Gladys RockinG y los Baang",
+      "imagen": "eventos/2026-11-22_Gladys RockinG y los Baang.jpeg",
       "participacion_rebel": false
     },
     {
