@@ -1,12 +1,6 @@
 {
-  "total": 27,
+  "total": 26,
   "eventos": [
-    {
-      "fecha": "2026-11-08",
-      "nombre": "Vesa and the Knocks",
-      "imagen": "eventos/2026-11-08_Vesa and the Knocks.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-12",
       "nombre": "The Real Deal",
