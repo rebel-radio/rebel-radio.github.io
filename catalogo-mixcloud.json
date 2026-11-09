@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T05:15:11",
+  "generado": "2026-11-09T19:00:53",
   "programas": [
     {
       "id": "fifi-express",
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-051126/",
           "imagen": "/portadas-programas/2fd683666efb100250deed3ca8dc5598.webp",
           "duracion": 2783,
-          "reproducciones": 10,
+          "reproducciones": 12,
           "proveedor": "mixcloud"
         },
         {
@@ -223,7 +223,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-041126/",
           "imagen": "/portadas-programas/d6c1fded734d3feb40a0e94576f68351.webp",
           "duracion": 2821,
-          "reproducciones": 9,
+          "reproducciones": 12,
           "proveedor": "mixcloud"
         },
         {
@@ -352,7 +352,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 9,
+          "reproducciones": 11,
           "proveedor": "mixcloud"
         },
         {
@@ -481,7 +481,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 3166,
-          "reproducciones": 18,
+          "reproducciones": 19,
           "proveedor": "mixcloud"
         },
         {
@@ -1033,7 +1033,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/rockhouse-280426/",
           "imagen": "/portadas-programas/d92d9a52c9ea0b84d6d88b82def2cf09.webp",
           "duracion": 4738,
-          "reproducciones": 31,
+          "reproducciones": 32,
           "proveedor": "mixcloud"
         },
         {
