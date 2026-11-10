@@ -1,5 +1,5 @@
 {
-  "total": 26,
+  "total": 27,
   "eventos": [
     {
       "fecha": "2026-11-12",
@@ -23,6 +23,12 @@
       "fecha": "2026-11-14",
       "nombre": "The Hot Jivers",
       "imagen": "eventos/2026-11-14_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-14",
+      "nombre": "The Magnificats",
+      "imagen": "eventos/2026-11-14_The Magnificats.jpg",
       "participacion_rebel": false
     },
     {
