@@ -1459,7 +1459,7 @@ function contenidoActual(datos, fecha){
     if(!encontrada){
 
         return {
-            nombre: 'Música de continuidad',
+            nombre: 'La música de Rebel Radio',
             detalle: ''
         };
     }
@@ -1591,7 +1591,7 @@ function siguienteContenido(datos, fecha){
 
     return {
         nombre: 'Música',
-        detalle: 'Música de continuidad'
+        detalle: 'La música de Rebel Radio'
     };
 }
 
@@ -1648,7 +1648,7 @@ fetch('/parrilla.json?rr=' + Date.now(), {cache:'no-store'})
         document.getElementById(
             'ahora-nombre'
         ).textContent =
-            'Música de continuidad';
+            'La música de Rebel Radio';
 
         document.getElementById(
             'ahora-detalle'
@@ -1706,16 +1706,27 @@ fetch('eventos.json?rr=' + Date.now(), {cache:'no-store'})
             return;
         }
 
-        const evento = datos.eventos[0];
+        // Elegir por fecha, no por posición ni prioridad de participación.
+        const fechaProxima = datos.eventos
+            .map(e => e.fecha)
+            .filter(Boolean)
+            .sort()[0];
+        const eventosDelDia = datos.eventos.filter(
+            e => e.fecha === fechaProxima
+        );
+
+        estadoEvento.style.display = 'none';
+        eventoPortada.style.display = 'grid';
+        eventoPortada.style.gap = '14px';
+
+        eventoPortada.innerHTML = eventosDelDia.map(evento => {
 
         const claseRebel = evento.participacion_rebel ? ' rebel' : '';
         const distintivoRebel = evento.participacion_rebel
             ? '<div class="evento-portada-rebel" aria-label="Rebel Radio participa"><span>REBEL RADIO</span><strong>PARTICIPA</strong></div>'
             : '';
 
-        estadoEvento.style.display = 'none';
-
-        eventoPortada.innerHTML = `
+        return `
             <a class="evento-portada${claseRebel}" href="/eventos.html">
 
                 <img
@@ -1741,6 +1752,7 @@ fetch('eventos.json?rr=' + Date.now(), {cache:'no-store'})
 
             </a>
         `;
+        }).join('');
     })
 
     .catch(error => {
@@ -1789,7 +1801,7 @@ fetch('eventos.json?rr=' + Date.now(), {cache:'no-store'})
 </div>
 </footer>
   <script src="/rebel-menu.js?v=20261019-nav-fijo1" defer></script>
-  <script src="/rebel-ahora.js?v=20261002-es1" defer></script>
+  <script src="/rebel-ahora.js?v=20261110-musica-rebel" defer></script>
 </body>
 </html>
 
