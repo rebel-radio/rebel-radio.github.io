@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T21:15:09",
+  "generado": "2026-11-12T05:15:10",
   "programas": [
     {
       "id": "dr-mambusenn",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 1,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -273,7 +273,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101126/",
           "imagen": "/portadas-programas/6d9bbf8824bc4c8c41e4e2dc23b76cac.webp",
           "duracion": 3259,
-          "reproducciones": 23,
+          "reproducciones": 25,
           "proveedor": "mixcloud"
         },
         {
@@ -481,7 +481,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 15,
+          "reproducciones": 19,
           "proveedor": "mixcloud"
         },
         {
@@ -511,7 +511,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-250526/",
           "imagen": "/portadas-programas/d127703575b127366abfbf4baa440fb9.webp",
           "duracion": 2680,
-          "reproducciones": 30,
+          "reproducciones": 31,
           "proveedor": "mixcloud"
         },
         {
@@ -521,7 +521,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-110526/",
           "imagen": "/portadas-programas/d9aa9d48724ac8be92a79d38c91cb6cb.webp",
           "duracion": 2668,
-          "reproducciones": 26,
+          "reproducciones": 27,
           "proveedor": "mixcloud"
         },
         {
@@ -581,7 +581,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-160226/",
           "imagen": "/portadas-programas/f33f8e053e01a1938b475e674e771cf4.webp",
           "duracion": 2785,
-          "reproducciones": 26,
+          "reproducciones": 27,
           "proveedor": "mixcloud"
         },
         {
@@ -591,7 +591,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-190126/",
           "imagen": "/portadas-programas/a46c8848bd4d41c58519c816903aeb6f.webp",
           "duracion": 2741,
-          "reproducciones": 21,
+          "reproducciones": 22,
           "proveedor": "mixcloud"
         }
       ]
