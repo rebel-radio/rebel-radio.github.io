@@ -1,12 +1,6 @@
 {
-  "total": 27,
+  "total": 26,
   "eventos": [
-    {
-      "fecha": "2026-11-12",
-      "nombre": "The Real Deal",
-      "imagen": "eventos/2026-11-12_The Real Deal.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-14",
       "nombre": "10 Good Rockin Valladolid",
