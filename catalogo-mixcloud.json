@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T19:15:11",
+  "generado": "2026-11-12T21:00:53",
   "programas": [
     {
       "id": "fifi-express",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-121126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 876,
-          "reproducciones": 0,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 8,
+          "reproducciones": 10,
           "proveedor": "mixcloud"
         },
         {
@@ -273,7 +273,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101126/",
           "imagen": "/portadas-programas/6d9bbf8824bc4c8c41e4e2dc23b76cac.webp",
           "duracion": 3259,
-          "reproducciones": 32,
+          "reproducciones": 33,
           "proveedor": "mixcloud"
         },
         {
@@ -412,7 +412,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-291026/",
           "imagen": "/portadas-programas/a2a4a741fec4e2a3d220d63b88da1049.webp",
           "duracion": 2835,
-          "reproducciones": 18,
+          "reproducciones": 19,
           "proveedor": "mixcloud"
         },
         {
@@ -481,7 +481,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 21,
+          "reproducciones": 22,
           "proveedor": "mixcloud"
         },
         {
