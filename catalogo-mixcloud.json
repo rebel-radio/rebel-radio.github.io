@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T05:15:10",
+  "generado": "2026-11-12T19:00:52",
   "programas": [
     {
       "id": "dr-mambusenn",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 4,
+          "reproducciones": 8,
           "proveedor": "mixcloud"
         },
         {
@@ -25,7 +25,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-041126/",
           "imagen": "/portadas-programas/d6c1fded734d3feb40a0e94576f68351.webp",
           "duracion": 2821,
-          "reproducciones": 13,
+          "reproducciones": 14,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-111126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 949,
-          "reproducciones": 1,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -214,7 +214,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-301026/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 948,
-          "reproducciones": 8,
+          "reproducciones": 9,
           "proveedor": "mixcloud"
         },
         {
@@ -273,7 +273,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101126/",
           "imagen": "/portadas-programas/6d9bbf8824bc4c8c41e4e2dc23b76cac.webp",
           "duracion": 3259,
-          "reproducciones": 25,
+          "reproducciones": 32,
           "proveedor": "mixcloud"
         },
         {
@@ -402,7 +402,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-051126/",
           "imagen": "/portadas-programas/2fd683666efb100250deed3ca8dc5598.webp",
           "duracion": 2783,
-          "reproducciones": 16,
+          "reproducciones": 18,
           "proveedor": "mixcloud"
         },
         {
@@ -481,7 +481,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 19,
+          "reproducciones": 21,
           "proveedor": "mixcloud"
         },
         {
@@ -501,7 +501,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-051026/",
           "imagen": "/portadas-programas/4f47daf0670fee2dcca87ceea7ba1c50.webp",
           "duracion": 2803,
-          "reproducciones": 21,
+          "reproducciones": 22,
           "proveedor": "mixcloud"
         },
         {
@@ -739,7 +739,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 51,
+          "reproducciones": 52,
           "proveedor": "mixcloud"
         },
         {
