@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T22:15:10",
+  "generado": "2026-11-13T05:15:07",
   "programas": [
     {
       "id": "mr-twister",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-121126/",
           "imagen": "/portadas-programas/57d5d8aaf7972a6ebf98b5a90ecbbe45.webp",
           "duracion": 3267,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-121126/",
           "imagen": "/portadas-programas/185e165d4ae7bb54a911259428a4f057.webp",
           "duracion": 2821,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
@@ -362,7 +362,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 10,
+          "reproducciones": 11,
           "proveedor": "mixcloud"
         },
         {
@@ -620,7 +620,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 22,
+          "reproducciones": 23,
           "proveedor": "mixcloud"
         },
         {
