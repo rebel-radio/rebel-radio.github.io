@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-13T05:15:07",
+  "generado": "2026-11-13T19:00:15",
   "programas": [
     {
       "id": "mr-twister",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-121126/",
           "imagen": "/portadas-programas/57d5d8aaf7972a6ebf98b5a90ecbbe45.webp",
           "duracion": 3267,
-          "reproducciones": 1,
+          "reproducciones": 7,
           "proveedor": "mixcloud"
         },
         {
@@ -243,7 +243,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-111126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 949,
-          "reproducciones": 4,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -283,7 +283,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-051126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 912,
-          "reproducciones": 6,
+          "reproducciones": 7,
           "proveedor": "mixcloud"
         },
         {
@@ -362,7 +362,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 11,
+          "reproducciones": 12,
           "proveedor": "mixcloud"
         },
         {
@@ -491,7 +491,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101126/",
           "imagen": "/portadas-programas/6d9bbf8824bc4c8c41e4e2dc23b76cac.webp",
           "duracion": 3259,
-          "reproducciones": 33,
+          "reproducciones": 34,
           "proveedor": "mixcloud"
         },
         {
@@ -749,7 +749,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-301026/",
           "imagen": "/portadas-programas/13740635c24da78748db55bc11aae5cf.webp",
           "duracion": 3166,
-          "reproducciones": 20,
+          "reproducciones": 21,
           "proveedor": "mixcloud"
         },
         {
