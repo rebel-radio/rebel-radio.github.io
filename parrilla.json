@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-15T22:19:38+01:00",
+  "generado_en": "2026-11-15T22:24:56+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -37,15 +37,6 @@
   "emisiones": [
     {
       "dia": "lunes",
-      "hora": "00:00",
-      "duracion_minutos": 55,
-      "nombre": "Flucho Wop",
-      "tipo": "estreno",
-      "regla": "weekly",
-      "programa_id": "flucho-wop"
-    },
-    {
-      "dia": "lunes",
       "hora": "17:00",
       "duracion_minutos": 20,
       "nombre": "Fifi Express",
@@ -68,19 +59,8 @@
       "duracion_minutos": 60,
       "nombre": "Flucho Wop",
       "tipo": "estreno",
-      "regla": "biweekly",
-      "programa_id": "flucho-wop",
-      "anchor_date": "2026-10-05"
-    },
-    {
-      "dia": "lunes",
-      "hora": "20:00",
-      "duracion_minutos": 60,
-      "nombre": "Flucho Wop",
-      "tipo": "repeticion",
-      "regla": "biweekly",
-      "programa_id": "flucho-wop",
-      "anchor_date": "2026-10-12"
+      "regla": "weekly",
+      "programa_id": "flucho-wop"
     },
     {
       "dia": "lunes",
@@ -341,7 +321,7 @@
       "hora": "00:00",
       "duracion_minutos": 60,
       "nombre": "Flucho Wop",
-      "tipo": "estreno",
+      "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "flucho-wop"
     },
