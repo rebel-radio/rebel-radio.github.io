@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-15T22:24:56+01:00",
+  "generado_en": "2026-11-15T22:27:11+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -35,6 +35,24 @@
     }
   ],
   "emisiones": [
+    {
+      "dia": "lunes",
+      "hora": "01:00",
+      "duracion_minutos": 60,
+      "nombre": "Fifi Express",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
+    {
+      "dia": "lunes",
+      "hora": "02:00",
+      "duracion_minutos": 60,
+      "nombre": "El Andén",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "el-anden"
+    },
     {
       "dia": "lunes",
       "hora": "17:00",
