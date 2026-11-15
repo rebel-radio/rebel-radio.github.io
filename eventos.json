@@ -1,12 +1,6 @@
 {
-  "total": 21,
+  "total": 20,
   "eventos": [
-    {
-      "fecha": "2026-11-15",
-      "nombre": "The Real Deal",
-      "imagen": "eventos/2026-11-15_The Real Deal.jpg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-20",
       "nombre": "Sweet 50´s Union",
