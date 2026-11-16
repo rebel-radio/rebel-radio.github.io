@@ -1,14 +1,24 @@
 {
-  "generado": "2026-11-16T19:00:55",
+  "generado": "2026-11-16T19:15:07",
   "programas": [
     {
       "id": "fifi-express",
       "nombre": "Fifi Express",
       "proveedor": "mixcloud",
-      "ultima_emision": "2026-11-13",
+      "ultima_emision": "2026-11-16",
       "activo": true,
       "estado": "activo",
       "episodios": [
+        {
+          "fecha": "2026-11-16",
+          "titulo": "",
+          "nombre_mixcloud": "Fifi Express - 16/11/26",
+          "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-161126/",
+          "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
+          "duracion": 866,
+          "reproducciones": 2,
+          "proveedor": "mixcloud"
+        },
         {
           "fecha": "2026-11-13",
           "titulo": "",
@@ -2696,7 +2706,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-021126/",
           "imagen": "/portadas-programas/6855c6c880b1cc9e84cbd52151e2cd0d.webp",
           "duracion": 2762,
-          "reproducciones": 26,
+          "reproducciones": 27,
           "proveedor": "mixcloud"
         },
         {
