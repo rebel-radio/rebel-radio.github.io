@@ -1,5 +1,5 @@
 {
-  "total": 20,
+  "total": 21,
   "eventos": [
     {
       "fecha": "2026-11-20",
@@ -120,6 +120,12 @@
       "nombre": "The Fly Riders - 35 Aniversario",
       "imagen": "eventos/2027-06-10_REBEL_The Fly Riders - 35 Aniversario.jpeg",
       "participacion_rebel": true
+    },
+    {
+      "fecha": "2027-06-19",
+      "nombre": "Azkena Rock Festival",
+      "imagen": "eventos/2027-06-19_Azkena Rock Festival.jpg",
+      "participacion_rebel": false
     }
   ]
 }
