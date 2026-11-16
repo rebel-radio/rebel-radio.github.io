@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-15T22:27:11+01:00",
+  "generado_en": "2026-11-16T19:52:16+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -35,24 +35,6 @@
     }
   ],
   "emisiones": [
-    {
-      "dia": "lunes",
-      "hora": "01:00",
-      "duracion_minutos": 60,
-      "nombre": "Fifi Express",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "fifi-express"
-    },
-    {
-      "dia": "lunes",
-      "hora": "02:00",
-      "duracion_minutos": 60,
-      "nombre": "El Andén",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "el-anden"
-    },
     {
       "dia": "lunes",
       "hora": "17:00",
@@ -336,15 +318,6 @@
     },
     {
       "dia": "domingo",
-      "hora": "00:00",
-      "duracion_minutos": 60,
-      "nombre": "Flucho Wop",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "flucho-wop"
-    },
-    {
-      "dia": "domingo",
       "hora": "11:00",
       "duracion_minutos": 60,
       "nombre": "El Andén",
@@ -356,15 +329,6 @@
       "dia": "domingo",
       "hora": "12:00",
       "duracion_minutos": 60,
-      "nombre": "Mr Twister Radio Chou",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "mr-twister"
-    },
-    {
-      "dia": "domingo",
-      "hora": "23:00",
-      "duracion_minutos": 55,
       "nombre": "Mr Twister Radio Chou",
       "tipo": "repeticion",
       "regla": "weekly",
