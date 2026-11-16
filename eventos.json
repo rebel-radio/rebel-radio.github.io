@@ -1,5 +1,5 @@
 {
-  "total": 21,
+  "total": 22,
   "eventos": [
     {
       "fecha": "2026-11-20",
@@ -89,6 +89,12 @@
       "fecha": "2027-03-06",
       "nombre": "XII Rocking & Rodding",
       "imagen": "eventos/2027-03-06_XII Rocking & Rodding.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-03-13",
+      "nombre": "The Hot Jivers",
+      "imagen": "eventos/2027-03-13_The Hot Jivers.jpg",
       "participacion_rebel": false
     },
     {
