@@ -1,6 +1,171 @@
 {
-  "generado": "2026-11-17T22:15:13",
+  "generado": "2026-11-18T05:15:10",
   "programas": [
+    {
+      "id": "ahora-elvis",
+      "nombre": "Ahora, Elvis",
+      "proveedor": "ivoox",
+      "ultima_emision": "2026-11-18",
+      "estado": "activo",
+      "episodios": [
+        {
+          "fecha": "2026-11-18",
+          "titulo": "Noviembre, un mes de homenajes",
+          "nombre_ivoox": "Noviembre, un mes de homenajes",
+          "id_ivoox": "183986612",
+          "enlace": "https://www.ivoox.com/noviembre-mes-homenajes-audios-mp3_rf_183986612_1.html",
+          "player": "https://www.ivoox.com/player_ej_183986612_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/ca8615169be826cac7cd81ba8261dbe4.webp",
+          "duracion": 3532,
+          "duracion_texto": "58:52",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-10-18",
+          "titulo": "Elvis 1956-2026 70 aniversario",
+          "nombre_ivoox": "Elvis 1956-2026 70 aniversario",
+          "id_ivoox": "182378280",
+          "enlace": "https://www.ivoox.com/elvis-1956-2026-70-aniversario-audios-mp3_rf_182378280_1.html",
+          "player": "https://www.ivoox.com/player_ej_182378280_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/ca8615169be826cac7cd81ba8261dbe4.webp",
+          "duracion": 3129,
+          "duracion_texto": "52:09",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-09-17",
+          "titulo": "Elvis en Septiembre",
+          "nombre_ivoox": "Elvis en Septiembre",
+          "id_ivoox": "180757418",
+          "enlace": "https://www.ivoox.com/elvis-septiembre-audios-mp3_rf_180757418_1.html",
+          "player": "https://www.ivoox.com/player_ej_180757418_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/f75e63e95e9a183638863b7ffcddea63.webp",
+          "duracion": 3385,
+          "duracion_texto": "56:25",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-08-17",
+          "titulo": "Elvis en la tierra de las mil danzas (II)",
+          "nombre_ivoox": "Elvis en la tierra de las mil danzas (II)",
+          "id_ivoox": "179041147",
+          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_179041147_1.html",
+          "player": "https://www.ivoox.com/player_ej_179041147_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/1595adb1de109ad119222dd39028eea0.webp",
+          "duracion": 3381,
+          "duracion_texto": "56:21",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-07-13",
+          "titulo": "Elvis en la tierra de las mil danzas",
+          "nombre_ivoox": "Elvis en la tierra de las mil danzas",
+          "id_ivoox": "177234250",
+          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_177234250_1.html",
+          "player": "https://www.ivoox.com/player_ej_177234250_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/6693fa3ec7c363a74f12488f073a2456.webp",
+          "duracion": 3031,
+          "duracion_texto": "50:31",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-06-19",
+          "titulo": "Almost in... summer",
+          "nombre_ivoox": "Almost in... summer",
+          "id_ivoox": "175879423",
+          "enlace": "https://www.ivoox.com/almost-in-summer-audios-mp3_rf_175879423_1.html",
+          "player": "https://www.ivoox.com/player_ej_175879423_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/9f1450ae773f8aec3028ab4481aa503f.webp",
+          "duracion": 3709,
+          "duracion_texto": "01:01:49",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-05-17",
+          "titulo": "Benidorm Elvis Fiesta (III)",
+          "nombre_ivoox": "Benidorm Elvis Fiesta (III)",
+          "id_ivoox": "173852439",
+          "enlace": "https://www.ivoox.com/benidorm-elvis-fiesta-iii-audios-mp3_rf_173852439_1.html",
+          "player": "https://www.ivoox.com/player_ej_173852439_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/d57685768a86a0731728a21d04955f72.webp",
+          "duracion": 3147,
+          "duracion_texto": "52:27",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-04-17",
+          "titulo": "La primavera la sangre (y la música) altera",
+          "nombre_ivoox": "La primavera la sangre (y la música) altera",
+          "id_ivoox": "172088204",
+          "enlace": "https://www.ivoox.com/primavera-sangre-y-musica-altera-audios-mp3_rf_172088204_1.html",
+          "player": "https://www.ivoox.com/player_ej_172088204_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/07bce2d33ba3753ae4f20cee2eac2f5b.webp",
+          "duracion": 3342,
+          "duracion_texto": "55:42",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-03-16",
+          "titulo": "Góspel (III) - Con Publico - 16-03-26",
+          "nombre_ivoox": "Góspel (III) - Con Publico - 16-03-26",
+          "id_ivoox": "170210239",
+          "enlace": "https://www.ivoox.com/gospel-iii-con-publico-16-03-26-audios-mp3_rf_170210239_1.html",
+          "player": "https://www.ivoox.com/player_ej_170210239_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/9f57643b9f4567b6cb2e64f258f6b9d3.webp",
+          "duracion": 3332,
+          "duracion_texto": "55:32",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-02-22",
+          "titulo": "¿el día que la música... no murió? 16-02-26",
+          "nombre_ivoox": "¿el día que la música... no murió? 16-02-26",
+          "id_ivoox": "168888678",
+          "enlace": "https://www.ivoox.com/el-dia-musica-no-murio-16-02-26-audios-mp3_rf_168888678_1.html",
+          "player": "https://www.ivoox.com/player_ej_168888678_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/718e85dbab411e93157ba4786a8e8c62.webp",
+          "duracion": 3518,
+          "duracion_texto": "58:38",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2026-01-19",
+          "titulo": "Happy happy birthday, baby - 16/01/26",
+          "nombre_ivoox": "Happy happy birthday, baby - 16/01/26",
+          "id_ivoox": "166941365",
+          "enlace": "https://www.ivoox.com/happy-happy-birthday-baby-16-01-26-audios-mp3_rf_166941365_1.html",
+          "player": "https://www.ivoox.com/player_ej_166941365_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/1b894fd94b009e9e3f7495f5d45896b2.webp",
+          "duracion": 3326,
+          "duracion_texto": "55:26",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        },
+        {
+          "fecha": "2025-12-16",
+          "titulo": "Ahora, Elvis - 16/12/25",
+          "nombre_ivoox": "Ahora, Elvis - 16/12/25",
+          "id_ivoox": "164370762",
+          "enlace": "https://www.ivoox.com/ahora-elvis-16-12-25-audios-mp3_rf_164370762_1.html",
+          "player": "https://www.ivoox.com/player_ej_164370762_6_1.html?c1=6c4536",
+          "imagen": "/portadas-programas/324ae36a3f1a050114486cc36d9f475a.webp",
+          "duracion": 3415,
+          "duracion_texto": "56:55",
+          "reproducciones": null,
+          "proveedor": "ivoox"
+        }
+      ]
+    },
     {
       "id": "el-anden",
       "nombre": "EL ANDÉN con Jorge Pascual",
@@ -15,7 +180,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171126/",
           "imagen": "/portadas-programas/6bd106796904749959c648822ede3cbd.webp",
           "duracion": 3289,
-          "reproducciones": 0,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -25,7 +190,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-101126/",
           "imagen": "/portadas-programas/6d9bbf8824bc4c8c41e4e2dc23b76cac.webp",
           "duracion": 3259,
-          "reproducciones": 42,
+          "reproducciones": 43,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +309,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-171126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 865,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -273,7 +438,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/flucho-wop-161126/",
           "imagen": "/portadas-programas/98aa6b6ed6feeb71f7382f8a1e0319ca.webp",
           "duracion": 2927,
-          "reproducciones": 6,
+          "reproducciones": 7,
           "proveedor": "mixcloud"
         },
         {
@@ -531,7 +696,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-121126/",
           "imagen": "/portadas-programas/185e165d4ae7bb54a911259428a4f057.webp",
           "duracion": 2821,
-          "reproducciones": 5,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -620,7 +785,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-111126/",
           "imagen": "/portadas-programas/ad73a8660334f0f86c8da6c98816cafc.webp",
           "duracion": 3148,
-          "reproducciones": 14,
+          "reproducciones": 15,
           "proveedor": "mixcloud"
         },
         {
@@ -749,7 +914,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/skinny-jim-301026/",
           "imagen": "/portadas-programas/13740635c24da78748db55bc11aae5cf.webp",
           "duracion": 3166,
-          "reproducciones": 27,
+          "reproducciones": 28,
           "proveedor": "mixcloud"
         },
         {
@@ -861,171 +1026,6 @@
           "duracion": 3281,
           "reproducciones": 27,
           "proveedor": "mixcloud"
-        }
-      ]
-    },
-    {
-      "id": "ahora-elvis",
-      "nombre": "Ahora, Elvis",
-      "proveedor": "ivoox",
-      "ultima_emision": "2026-10-18",
-      "estado": "activo",
-      "episodios": [
-        {
-          "fecha": "2026-10-18",
-          "titulo": "Elvis 1956-2026 70 aniversario",
-          "nombre_ivoox": "Elvis 1956-2026 70 aniversario",
-          "id_ivoox": "182378280",
-          "enlace": "https://www.ivoox.com/elvis-1956-2026-70-aniversario-audios-mp3_rf_182378280_1.html",
-          "player": "https://www.ivoox.com/player_ej_182378280_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/ca8615169be826cac7cd81ba8261dbe4.webp",
-          "duracion": 3129,
-          "duracion_texto": "52:09",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-09-17",
-          "titulo": "Elvis en Septiembre",
-          "nombre_ivoox": "Elvis en Septiembre",
-          "id_ivoox": "180757418",
-          "enlace": "https://www.ivoox.com/elvis-septiembre-audios-mp3_rf_180757418_1.html",
-          "player": "https://www.ivoox.com/player_ej_180757418_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/f75e63e95e9a183638863b7ffcddea63.webp",
-          "duracion": 3385,
-          "duracion_texto": "56:25",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-08-17",
-          "titulo": "Elvis en la tierra de las mil danzas (II)",
-          "nombre_ivoox": "Elvis en la tierra de las mil danzas (II)",
-          "id_ivoox": "179041147",
-          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_179041147_1.html",
-          "player": "https://www.ivoox.com/player_ej_179041147_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/1595adb1de109ad119222dd39028eea0.webp",
-          "duracion": 3381,
-          "duracion_texto": "56:21",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-07-13",
-          "titulo": "Elvis en la tierra de las mil danzas",
-          "nombre_ivoox": "Elvis en la tierra de las mil danzas",
-          "id_ivoox": "177234250",
-          "enlace": "https://www.ivoox.com/elvis-tierra-mil-danzas-audios-mp3_rf_177234250_1.html",
-          "player": "https://www.ivoox.com/player_ej_177234250_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/6693fa3ec7c363a74f12488f073a2456.webp",
-          "duracion": 3031,
-          "duracion_texto": "50:31",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-06-19",
-          "titulo": "Almost in... summer",
-          "nombre_ivoox": "Almost in... summer",
-          "id_ivoox": "175879423",
-          "enlace": "https://www.ivoox.com/almost-in-summer-audios-mp3_rf_175879423_1.html",
-          "player": "https://www.ivoox.com/player_ej_175879423_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/9f1450ae773f8aec3028ab4481aa503f.webp",
-          "duracion": 3709,
-          "duracion_texto": "01:01:49",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-05-17",
-          "titulo": "Benidorm Elvis Fiesta (III)",
-          "nombre_ivoox": "Benidorm Elvis Fiesta (III)",
-          "id_ivoox": "173852439",
-          "enlace": "https://www.ivoox.com/benidorm-elvis-fiesta-iii-audios-mp3_rf_173852439_1.html",
-          "player": "https://www.ivoox.com/player_ej_173852439_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/d57685768a86a0731728a21d04955f72.webp",
-          "duracion": 3147,
-          "duracion_texto": "52:27",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-04-17",
-          "titulo": "La primavera la sangre (y la música) altera",
-          "nombre_ivoox": "La primavera la sangre (y la música) altera",
-          "id_ivoox": "172088204",
-          "enlace": "https://www.ivoox.com/primavera-sangre-y-musica-altera-audios-mp3_rf_172088204_1.html",
-          "player": "https://www.ivoox.com/player_ej_172088204_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/07bce2d33ba3753ae4f20cee2eac2f5b.webp",
-          "duracion": 3342,
-          "duracion_texto": "55:42",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-03-16",
-          "titulo": "Góspel (III) - Con Publico - 16-03-26",
-          "nombre_ivoox": "Góspel (III) - Con Publico - 16-03-26",
-          "id_ivoox": "170210239",
-          "enlace": "https://www.ivoox.com/gospel-iii-con-publico-16-03-26-audios-mp3_rf_170210239_1.html",
-          "player": "https://www.ivoox.com/player_ej_170210239_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/9f57643b9f4567b6cb2e64f258f6b9d3.webp",
-          "duracion": 3332,
-          "duracion_texto": "55:32",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-02-22",
-          "titulo": "¿el día que la música... no murió? 16-02-26",
-          "nombre_ivoox": "¿el día que la música... no murió? 16-02-26",
-          "id_ivoox": "168888678",
-          "enlace": "https://www.ivoox.com/el-dia-musica-no-murio-16-02-26-audios-mp3_rf_168888678_1.html",
-          "player": "https://www.ivoox.com/player_ej_168888678_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/718e85dbab411e93157ba4786a8e8c62.webp",
-          "duracion": 3518,
-          "duracion_texto": "58:38",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2026-01-19",
-          "titulo": "Happy happy birthday, baby - 16/01/26",
-          "nombre_ivoox": "Happy happy birthday, baby - 16/01/26",
-          "id_ivoox": "166941365",
-          "enlace": "https://www.ivoox.com/happy-happy-birthday-baby-16-01-26-audios-mp3_rf_166941365_1.html",
-          "player": "https://www.ivoox.com/player_ej_166941365_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/1b894fd94b009e9e3f7495f5d45896b2.webp",
-          "duracion": 3326,
-          "duracion_texto": "55:26",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2025-12-16",
-          "titulo": "Ahora, Elvis - 16/12/25",
-          "nombre_ivoox": "Ahora, Elvis - 16/12/25",
-          "id_ivoox": "164370762",
-          "enlace": "https://www.ivoox.com/ahora-elvis-16-12-25-audios-mp3_rf_164370762_1.html",
-          "player": "https://www.ivoox.com/player_ej_164370762_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/324ae36a3f1a050114486cc36d9f475a.webp",
-          "duracion": 3415,
-          "duracion_texto": "56:55",
-          "reproducciones": null,
-          "proveedor": "ivoox"
-        },
-        {
-          "fecha": "2025-11-18",
-          "titulo": "Ahora, Elvis - 16/11/25",
-          "nombre_ivoox": "Ahora, Elvis - 16/11/25",
-          "id_ivoox": "162797232",
-          "enlace": "https://www.ivoox.com/ahora-elvis-16-11-25-audios-mp3_rf_162797232_1.html",
-          "player": "https://www.ivoox.com/player_ej_162797232_6_1.html?c1=6c4536",
-          "imagen": "/portadas-programas/754c70b05f2c2da65d0927e4d51718fa.webp",
-          "duracion": 3091,
-          "duracion_texto": "51:31",
-          "reproducciones": null,
-          "proveedor": "ivoox"
         }
       ]
     },
