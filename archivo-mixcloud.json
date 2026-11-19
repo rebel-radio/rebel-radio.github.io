@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-19T19:15:08",
+  "generado": "2026-11-19T21:01:00",
   "programas": [
     {
       "id": "fifi-express",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-191126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 967,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
@@ -1413,7 +1413,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171126/",
           "imagen": "/portadas-programas/6bd106796904749959c648822ede3cbd.webp",
           "duracion": 3289,
-          "reproducciones": 34,
+          "reproducciones": 35,
           "proveedor": "mixcloud"
         },
         {
@@ -3303,7 +3303,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-291026/",
           "imagen": "/portadas-programas/519a48e13fbdf85f447554d928ecc026.webp",
           "duracion": 3231,
-          "reproducciones": 56,
+          "reproducciones": 57,
           "proveedor": "mixcloud"
         },
         {
@@ -3953,7 +3953,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-121126/",
           "imagen": "/portadas-programas/185e165d4ae7bb54a911259428a4f057.webp",
           "duracion": 2821,
-          "reproducciones": 7,
+          "reproducciones": 8,
           "proveedor": "mixcloud"
         },
         {
