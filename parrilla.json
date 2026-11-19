@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-19T13:22:23+01:00",
+  "generado_en": "2026-11-20T00:45:31+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -234,6 +234,15 @@
       "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "flucho-wop"
+    },
+    {
+      "dia": "viernes",
+      "hora": "01:00",
+      "duracion_minutos": 60,
+      "nombre": "Fifi Express",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
     },
     {
       "dia": "viernes",
