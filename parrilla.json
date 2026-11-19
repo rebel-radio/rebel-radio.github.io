@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-16T19:52:16+01:00",
+  "generado_en": "2026-11-19T13:22:23+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -237,15 +237,6 @@
     },
     {
       "dia": "viernes",
-      "hora": "10:00",
-      "duracion_minutos": 60,
-      "nombre": "Esto sí que es rocanrol !!!",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "victor-melchor"
-    },
-    {
-      "dia": "viernes",
       "hora": "17:00",
       "duracion_minutos": 20,
       "nombre": "Fifi Express",
@@ -270,6 +261,15 @@
       "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "mr-twister"
+    },
+    {
+      "dia": "viernes",
+      "hora": "23:00",
+      "duracion_minutos": 60,
+      "nombre": "Esto sí que es rocanrol !!!",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "victor-melchor"
     },
     {
       "dia": "sabado",
