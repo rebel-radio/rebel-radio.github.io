@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-20T01:07:41+01:00",
+  "generado_en": "2026-11-20T01:41:04+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -237,7 +237,7 @@
     },
     {
       "dia": "viernes",
-      "hora": "01:45",
+      "hora": "02:00",
       "duracion_minutos": 60,
       "nombre": "Fifi Express",
       "tipo": "repeticion",
