@@ -1,12 +1,6 @@
 {
-  "total": 22,
+  "total": 21,
   "eventos": [
-    {
-      "fecha": "2026-11-20",
-      "nombre": "Sweet 50´s Union",
-      "imagen": "eventos/2026-11-20_Sweet 50´s Union.jpeg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-21",
       "nombre": "Presentación Doble CD Los Faraones",
