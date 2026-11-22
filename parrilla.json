@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-22T16:19:26+01:00",
+  "generado_en": "2026-11-22T16:20:15+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -297,6 +297,15 @@
       "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "mr-twister"
+    },
+    {
+      "dia": "domingo",
+      "hora": "19:00",
+      "duracion_minutos": 60,
+      "nombre": "Flucho Wop",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "flucho-wop"
     }
   ]
 }
