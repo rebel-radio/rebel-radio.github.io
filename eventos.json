@@ -1,12 +1,6 @@
 {
-  "total": 17,
+  "total": 16,
   "eventos": [
-    {
-      "fecha": "2026-11-22",
-      "nombre": "Gladys RockinG y los Baang",
-      "imagen": "eventos/2026-11-22_Gladys RockinG y los Baang.jpeg",
-      "participacion_rebel": false
-    },
     {
       "fecha": "2026-11-28",
       "nombre": "Presentación doble CD Los Faraones",
