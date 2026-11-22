@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-22T16:27:22+01:00",
+  "generado_en": "2026-11-22T16:34:42+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -34,12 +34,24 @@
       "tipo": "repeticion"
     },
     {
-      "id": "49dc21c19980",
+      "id": "rr001mr221126",
+      "programa_id": "mr-twister",
+      "nombre": "Mr Twister Radio Chou",
+      "fecha": "2026-11-22",
+      "accion": "replace",
+      "nota": "Ensayo RR001 puntual del 22-11-2026; sin recurrencia semanal",
+      "hora": "18:00",
+      "duracion_minutos": 55,
+      "slot_kind": "repeat",
+      "tipo": "repeticion"
+    },
+    {
+      "id": "rr001fl221126",
       "programa_id": "flucho-wop",
       "nombre": "Flucho Wop",
       "fecha": "2026-11-22",
       "accion": "replace",
-      "nota": "RR001 22-11 únicamente: reservar 5 min para identificación técnica OBS-P7 antes de las 20:00",
+      "nota": "Ensayo RR001 puntual del 22-11-2026; sin recurrencia semanal",
       "hora": "19:00",
       "duracion_minutos": 55,
       "slot_kind": "repeat",
@@ -300,24 +312,6 @@
       "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "mr-twister"
-    },
-    {
-      "dia": "domingo",
-      "hora": "18:00",
-      "duracion_minutos": 60,
-      "nombre": "Mr Twister Radio Chou",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "mr-twister"
-    },
-    {
-      "dia": "domingo",
-      "hora": "19:00",
-      "duracion_minutos": 60,
-      "nombre": "Flucho Wop",
-      "tipo": "repeticion",
-      "regla": "weekly",
-      "programa_id": "flucho-wop"
     }
   ]
 }
