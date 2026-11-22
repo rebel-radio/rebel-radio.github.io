@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-22T16:20:15+01:00",
+  "generado_en": "2026-11-22T16:27:22+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -30,6 +30,18 @@
       "nota": "Repetición puntual: no hay programa nuevo",
       "hora": "20:00",
       "duracion_minutos": 60,
+      "slot_kind": "repeat",
+      "tipo": "repeticion"
+    },
+    {
+      "id": "49dc21c19980",
+      "programa_id": "flucho-wop",
+      "nombre": "Flucho Wop",
+      "fecha": "2026-11-22",
+      "accion": "replace",
+      "nota": "RR001 22-11 únicamente: reservar 5 min para identificación técnica OBS-P7 antes de las 20:00",
+      "hora": "19:00",
+      "duracion_minutos": 55,
       "slot_kind": "repeat",
       "tipo": "repeticion"
     }
