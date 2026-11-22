@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-20T11:52:27+01:00",
+  "generado_en": "2026-11-22T16:19:26+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -283,6 +283,15 @@
     {
       "dia": "domingo",
       "hora": "12:00",
+      "duracion_minutos": 60,
+      "nombre": "Mr Twister Radio Chou",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "mr-twister"
+    },
+    {
+      "dia": "domingo",
+      "hora": "18:00",
       "duracion_minutos": 60,
       "nombre": "Mr Twister Radio Chou",
       "tipo": "repeticion",
