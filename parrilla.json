@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-22T19:19:12+01:00",
+  "generado_en": "2026-11-23T01:14:57+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -35,6 +35,15 @@
     }
   ],
   "emisiones": [
+    {
+      "dia": "lunes",
+      "hora": "01:30",
+      "duracion_minutos": 60,
+      "nombre": "Fifi Express",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "fifi-express"
+    },
     {
       "dia": "lunes",
       "hora": "17:00",
