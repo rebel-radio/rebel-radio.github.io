@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T19:15:06",
+  "generado": "2026-11-24T22:00:52",
   "programas": [
     {
       "id": "fifi-express",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-241126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 951,
-          "reproducciones": 1,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
@@ -537,7 +537,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171126/",
           "imagen": "/portadas-programas/6bd106796904749959c648822ede3cbd.webp",
           "duracion": 3289,
-          "reproducciones": 42,
+          "reproducciones": 45,
           "proveedor": "mixcloud"
         },
         {
