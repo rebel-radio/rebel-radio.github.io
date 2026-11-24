@@ -1,10 +1,16 @@
 {
-  "total": 16,
+  "total": 17,
   "eventos": [
     {
       "fecha": "2026-11-28",
       "nombre": "Presentación doble CD Los Faraones",
       "imagen": "eventos/2026-11-28_Presentación doble CD Los Faraones.jpeg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-11-29",
+      "nombre": "Moust Roll",
+      "imagen": "eventos/2026-11-29_Moust Roll.jpg",
       "participacion_rebel": false
     },
     {
