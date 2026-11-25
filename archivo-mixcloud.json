@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-25T05:15:11",
+  "generado": "2026-11-25T19:00:51",
   "programas": [
     {
       "id": "el-anden",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241126/",
           "imagen": "/portadas-programas/a5090f42f5d30e9f3d451d93f715a57b.webp",
           "duracion": 3292,
-          "reproducciones": 4,
+          "reproducciones": 16,
           "proveedor": "mixcloud"
         },
         {
@@ -516,7 +516,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-250225/",
           "imagen": "/portadas-programas/2383202ee2dbd77fdfb740ad6b8dbe05.webp",
           "duracion": 3267,
-          "reproducciones": 180,
+          "reproducciones": 181,
           "proveedor": "mixcloud"
         },
         {
@@ -1106,7 +1106,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-22112022/",
           "imagen": "/portadas-programas/9b66608dbd68551d3953015b46f8adad.webp",
           "duracion": 2775,
-          "reproducciones": 13,
+          "reproducciones": 14,
           "proveedor": "mixcloud"
         },
         {
@@ -1116,7 +1116,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/jorge-pascual-15112022/",
           "imagen": "/portadas-programas/7d0d3467f60567c23889dc3c665416b3.webp",
           "duracion": 2488,
-          "reproducciones": 16,
+          "reproducciones": 17,
           "proveedor": "mixcloud"
         }
       ]
@@ -1136,7 +1136,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-241126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 951,
-          "reproducciones": 2,
+          "reproducciones": 4,
           "proveedor": "mixcloud"
         },
         {
@@ -1146,7 +1146,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-231126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 990,
-          "reproducciones": 5,
+          "reproducciones": 6,
           "proveedor": "mixcloud"
         },
         {
@@ -1156,7 +1156,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-201126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 978,
-          "reproducciones": 6,
+          "reproducciones": 7,
           "proveedor": "mixcloud"
         },
         {
