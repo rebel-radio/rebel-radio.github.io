@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-25T21:15:12",
+  "generado": "2026-11-26T05:15:12",
   "programas": [
     {
       "id": "dr-mambusenn",
@@ -16,7 +16,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/dr-mambusenn-251126/",
           "imagen": "/portadas-programas/27c4e5e7b2a0955d992ada7475cf01a6.webp",
           "duracion": 2658,
-          "reproducciones": 0,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -686,7 +686,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/fifi-express-251126/",
           "imagen": "/portadas-programas/571508d4d877f6d353f7eec7d06a26cd.webp",
           "duracion": 984,
-          "reproducciones": 1,
+          "reproducciones": 2,
           "proveedor": "mixcloud"
         },
         {
@@ -946,7 +946,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241126/",
           "imagen": "/portadas-programas/a5090f42f5d30e9f3d451d93f715a57b.webp",
           "duracion": 3292,
-          "reproducciones": 16,
+          "reproducciones": 17,
           "proveedor": "mixcloud"
         },
         {
