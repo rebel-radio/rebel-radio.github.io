@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-26T22:30:12",
+  "generado": "2026-11-26T22:45:12",
   "programas": [
     {
       "id": "mr-twister",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-261126/",
           "imagen": "/portadas-programas/16f929625aa0f9049c45bbb2ae4e779f.webp",
           "duracion": 3241,
-          "reproducciones": 0,
+          "reproducciones": 1,
           "proveedor": "mixcloud"
         },
         {
