@@ -1,5 +1,5 @@
 {
-  "total": 17,
+  "total": 23,
   "eventos": [
     {
       "fecha": "2026-11-28",
@@ -11,6 +11,18 @@
       "fecha": "2026-11-29",
       "nombre": "Moust Roll",
       "imagen": "eventos/2026-11-29_Moust Roll.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-12-03",
+      "nombre": "The Sadies",
+      "imagen": "eventos/2026-12-03_The Sadies.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2026-12-05",
+      "nombre": "Anna Dukke",
+      "imagen": "eventos/2026-12-05_Anna Dukke.jpg",
       "participacion_rebel": false
     },
     {
@@ -38,9 +50,27 @@
       "participacion_rebel": false
     },
     {
+      "fecha": "2027-01-02",
+      "nombre": "The bank Robbers",
+      "imagen": "eventos/2027-01-02_The bank Robbers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-01-16",
+      "nombre": "Fever y Howlin´",
+      "imagen": "eventos/2027-01-16_Fever y Howlin´.jpg",
+      "participacion_rebel": false
+    },
+    {
       "fecha": "2027-01-16",
       "nombre": "The Hot Jivers",
       "imagen": "eventos/2027-01-16_The Hot Jivers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-01-16",
+      "nombre": "XVI Rockin´ Swarm",
+      "imagen": "eventos/2027-01-16_XVI Rockin´ Swarm.jpeg",
       "participacion_rebel": false
     },
     {
@@ -96,6 +126,12 @@
       "nombre": "The Fly Riders - 35 Aniversario",
       "imagen": "eventos/2027-06-10_REBEL_The Fly Riders - 35 Aniversario.jpeg",
       "participacion_rebel": true
+    },
+    {
+      "fecha": "2027-06-12",
+      "nombre": "Los Rebeldes",
+      "imagen": "eventos/2027-06-12_Los Rebeldes.jpg",
+      "participacion_rebel": false
     },
     {
       "fecha": "2027-06-19",
