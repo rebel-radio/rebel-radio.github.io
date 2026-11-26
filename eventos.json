@@ -10,8 +10,8 @@
     {
       "fecha": "2026-11-29",
       "nombre": "Moust Roll",
-      "imagen": "eventos/2026-11-29_Moust Roll.jpg",
-      "participacion_rebel": false
+      "imagen": "eventos/2026-11-29_REBEL_Moust Roll.jpg",
+      "participacion_rebel": true
     },
     {
       "fecha": "2026-12-03",
