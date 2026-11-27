@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T07:00:08",
+  "generado": "2026-11-27T19:00:13",
   "programas": [
     {
       "id": "mr-twister",
@@ -15,7 +15,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/mr-twister-radio-chou-261126/",
           "imagen": "/portadas-programas/16f929625aa0f9049c45bbb2ae4e779f.webp",
           "duracion": 3241,
-          "reproducciones": 2,
+          "reproducciones": 10,
           "proveedor": "mixcloud"
         },
         {
@@ -144,7 +144,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/esto-s%C3%AD-que-es-rocanrol-261126/",
           "imagen": "/portadas-programas/92e3c1b01952b50dc05417ff9a578bf8.webp",
           "duracion": 3293,
-          "reproducciones": 2,
+          "reproducciones": 3,
           "proveedor": "mixcloud"
         },
         {
@@ -511,7 +511,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-241126/",
           "imagen": "/portadas-programas/a5090f42f5d30e9f3d451d93f715a57b.webp",
           "duracion": 3292,
-          "reproducciones": 23,
+          "reproducciones": 25,
           "proveedor": "mixcloud"
         },
         {
@@ -521,7 +521,7 @@
           "key": "/Rock_and_Roll_Rebel_Radio/el-and%C3%A9n-con-jorge-pascual-171126/",
           "imagen": "/portadas-programas/6bd106796904749959c648822ede3cbd.webp",
           "duracion": 3289,
-          "reproducciones": 46,
+          "reproducciones": 47,
           "proveedor": "mixcloud"
         },
         {
