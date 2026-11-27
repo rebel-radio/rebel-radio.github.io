@@ -1,5 +1,5 @@
 {
-  "total": 23,
+  "total": 24,
   "eventos": [
     {
       "fecha": "2026-11-28",
@@ -53,6 +53,12 @@
       "fecha": "2027-01-02",
       "nombre": "The bank Robbers",
       "imagen": "eventos/2027-01-02_The bank Robbers.jpg",
+      "participacion_rebel": false
+    },
+    {
+      "fecha": "2027-01-05",
+      "nombre": "Noche de Reyes Rockin´Kings",
+      "imagen": "eventos/2027-01-05_Noche de Reyes Rockin´Kings.jpg",
       "participacion_rebel": false
     },
     {
