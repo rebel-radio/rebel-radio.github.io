@@ -1,7 +1,7 @@
 {
   "version": 3,
   "zona_horaria": "Europe/Madrid",
-  "generado_en": "2026-11-23T02:40:08+01:00",
+  "generado_en": "2026-11-27T12:58:48+01:00",
   "continuidad": {
     "tipo": "musica",
     "nombre": "Música",
@@ -63,6 +63,15 @@
       "programa_id": "flucho-wop"
     },
     {
+      "dia": "lunes",
+      "hora": "22:00",
+      "duracion_minutos": 60,
+      "nombre": "Skinny Jim",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "skinny-jim"
+    },
+    {
       "dia": "martes",
       "hora": "10:00",
       "duracion_minutos": 60,
@@ -118,6 +127,15 @@
     },
     {
       "dia": "miercoles",
+      "hora": "10:00",
+      "duracion_minutos": 60,
+      "nombre": "Skinny Jim",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "skinny-jim"
+    },
+    {
+      "dia": "miercoles",
       "hora": "17:00",
       "duracion_minutos": 20,
       "nombre": "Fifi Express",
@@ -142,6 +160,15 @@
       "tipo": "estreno",
       "regla": "weekly",
       "programa_id": "dr-mambusenn"
+    },
+    {
+      "dia": "miercoles",
+      "hora": "22:00",
+      "duracion_minutos": 60,
+      "nombre": "Skinny Jim",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "skinny-jim"
     },
     {
       "dia": "miercoles",
@@ -219,6 +246,15 @@
     },
     {
       "dia": "viernes",
+      "hora": "20:00",
+      "duracion_minutos": 60,
+      "nombre": "Skinny Jim",
+      "tipo": "estreno",
+      "regla": "weekly",
+      "programa_id": "skinny-jim"
+    },
+    {
+      "dia": "viernes",
       "hora": "22:00",
       "duracion_minutos": 60,
       "nombre": "Mr Twister Radio Chou",
@@ -252,6 +288,15 @@
       "tipo": "repeticion",
       "regla": "weekly",
       "programa_id": "victor-melchor"
+    },
+    {
+      "dia": "sabado",
+      "hora": "12:00",
+      "duracion_minutos": 60,
+      "nombre": "Skinny Jim",
+      "tipo": "repeticion",
+      "regla": "weekly",
+      "programa_id": "skinny-jim"
     },
     {
       "dia": "sabado",
